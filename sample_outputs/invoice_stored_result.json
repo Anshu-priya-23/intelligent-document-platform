@@ -1,0 +1,777 @@
+{
+  "document_name": "X51005361895.jpg",
+  "document_type": "invoice",
+  "processing_status": "PASS",
+  "file_validation": {
+    "file_type": "image/jpeg",
+    "is_supported": true,
+    "is_readable": true,
+    "page_count": 1,
+    "status": "PASS"
+  },
+  "extracted_data": {
+    "fields": {
+      "invoice_number": {
+        "value": "1CRO576494",
+        "source_text": "TRN: 1CRO576494",
+        "page_number": 1
+      },
+      "invoice_date": {
+        "value": "25/01/2018 1:22:56PM",
+        "source_text": "25/01/2018 1:22:56PM",
+        "page_number": 1
+      },
+      "vendor_name": {
+        "value": "FUY! MINI MARKET",
+        "source_text": "Thank you for shappirig at FUY! MINI\nMARKET",
+        "page_number": 1
+      },
+      "customer_name": {
+        "value": null,
+        "source_text": null,
+        "page_number": null
+      },
+      "currency": {
+        "value": null,
+        "source_text": null,
+        "page_number": null
+      },
+      "subtotal": {
+        "value": "8.49",
+        "source_text": "8.49",
+        "page_number": 1
+      },
+      "taxable_amount": {
+        "value": "8.49",
+        "source_text": "8.49",
+        "page_number": 1
+      },
+      "tax_amount": {
+        "value": "0.51",
+        "source_text": "0.51",
+        "page_number": 1
+      },
+      "discount": {
+        "value": null,
+        "source_text": null,
+        "page_number": null
+      },
+      "total_amount": {
+        "value": "9.00",
+        "source_text": "9.00",
+        "page_number": 1
+      },
+      "cash_paid": {
+        "value": "50.00",
+        "source_text": "50.00",
+        "page_number": 1
+      },
+      "change": {
+        "value": "41.00",
+        "source_text": "41.00",
+        "page_number": 1
+      }
+    },
+    "tables": [],
+    "periods": [],
+    "line_items": [
+      {
+        "description": {
+          "value": "013 SUMMER CUP 48X230ML",
+          "source_text": "013 SUMMER CUP 48X230ML",
+          "page_number": 1
+        },
+        "quantity": {
+          "value": "1",
+          "source_text": "1",
+          "page_number": 1
+        },
+        "unit_price": {
+          "value": "8.49",
+          "source_text": "8.49",
+          "page_number": 1
+        },
+        "amount": {
+          "value": "8.49",
+          "source_text": "8.49",
+          "page_number": 1
+        }
+      }
+    ],
+    "line_items_tax_included": false,
+    "tax_included": true,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "line_1_quantity_price",
+        "period": "invoice",
+        "formula": "quantity * unit_price = amount",
+        "operands": {
+          "quantity": "1",
+          "unit_price": "8.49"
+        },
+        "calculated_value": "8.49",
+        "reported_value": "8.49",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "line_sum",
+        "period": "invoice",
+        "formula": "line_1 = subtotal",
+        "operands": {
+          "line_1": "8.49"
+        },
+        "calculated_value": "8.49",
+        "reported_value": "8.49",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "taxable_plus_tax",
+        "period": "invoice",
+        "formula": "taxable_amount + tax_amount = total_amount",
+        "operands": {
+          "taxable_amount": "8.49",
+          "tax_amount": "0.51"
+        },
+        "calculated_value": "9.00",
+        "reported_value": "9.00",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "invoice_total",
+        "period": "invoice",
+        "formula": "subtotal - discount = total_amount",
+        "operands": {
+          "subtotal": "8.49",
+          "discount": null
+        },
+        "calculated_value": null,
+        "reported_value": "9.00",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "cash_change",
+        "period": "invoice",
+        "formula": "cash_paid - total_amount = change",
+        "operands": {
+          "cash_paid": "50.00",
+          "total_amount": "9.00"
+        },
+        "calculated_value": "41.00",
+        "reported_value": "41.00",
+        "variance": "0.00",
+        "status": "PASS"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": []
+  },
+  "processing_metadata": {
+    "ocr_used": true,
+    "processed_at": "2026-09-10T17:26:23.908837+00:00",
+    "processing_time_ms": 12245,
+    "source_pages": [
+      {
+        "page_number": 1,
+        "text": "pean? rea hi |\nage\nTAMA tn)\nA,\n25/01/2018 1:22:56PM\nTAX INVOICE\nTRN: 1CRO576494\nCOUNTER 1 CASHIER: HOCK\nQty UOM U.Price Amt — Amtinc Tax Code\n013 SUMMER CUP 48X230ML\n1 KOTAK 8.49 8.49 9.00 SR\nGST6%+ 0.51\nTotal Includes GST 6% 9.00\nCustomers Payment\nCash 50.00\nChange 41.00\nGST Summary Amount Tax\ns”~—“—sS——.... CO ASSC«\n*Goads sold are not returnable\nThank you for shappirig at FUY! MINI\nMARKET",
+        "layout_rows": [
+          {
+            "text": "pean? rea hi |",
+            "words": [
+              {
+                "text": "pean?",
+                "left": 433,
+                "top": 159,
+                "width": 19,
+                "height": 23
+              },
+              {
+                "text": "rea",
+                "left": 472,
+                "top": 104,
+                "width": 221,
+                "height": 123
+              },
+              {
+                "text": "hi",
+                "left": 508,
+                "top": 152,
+                "width": 7,
+                "height": 38
+              },
+              {
+                "text": "|",
+                "left": 520,
+                "top": 156,
+                "width": 3,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "age",
+            "words": [
+              {
+                "text": "age",
+                "left": 259,
+                "top": 38,
+                "width": 459,
+                "height": 300
+              }
+            ]
+          },
+          {
+            "text": "TAMA tn)",
+            "words": [
+              {
+                "text": "TAMA",
+                "left": 352,
+                "top": 193,
+                "width": 162,
+                "height": 110
+              },
+              {
+                "text": "tn)",
+                "left": 550,
+                "top": 230,
+                "width": 66,
+                "height": 77
+              }
+            ]
+          },
+          {
+            "text": "A,",
+            "words": [
+              {
+                "text": "A,",
+                "left": 674,
+                "top": 273,
+                "width": 29,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "25/01/2018 1:22:56PM",
+            "words": [
+              {
+                "text": "25/01/2018",
+                "left": 298,
+                "top": 506,
+                "width": 183,
+                "height": 30
+              },
+              {
+                "text": "1:22:56PM",
+                "left": 508,
+                "top": 506,
+                "width": 174,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "TAX INVOICE",
+            "words": [
+              {
+                "text": "TAX",
+                "left": 361,
+                "top": 572,
+                "width": 78,
+                "height": 40
+              },
+              {
+                "text": "INVOICE",
+                "left": 455,
+                "top": 570,
+                "width": 165,
+                "height": 33
+              }
+            ]
+          },
+          {
+            "text": "TRN: 1CRO576494",
+            "words": [
+              {
+                "text": "TRN:",
+                "left": 107,
+                "top": 650,
+                "width": 113,
+                "height": 39
+              },
+              {
+                "text": "1CRO576494",
+                "left": 268,
+                "top": 648,
+                "width": 265,
+                "height": 40
+              }
+            ]
+          },
+          {
+            "text": "COUNTER 1 CASHIER: HOCK",
+            "words": [
+              {
+                "text": "COUNTER",
+                "left": 107,
+                "top": 723,
+                "width": 198,
+                "height": 32
+              },
+              {
+                "text": "1",
+                "left": 323,
+                "top": 723,
+                "width": 12,
+                "height": 30
+              },
+              {
+                "text": "CASHIER:",
+                "left": 550,
+                "top": 722,
+                "width": 190,
+                "height": 31
+              },
+              {
+                "text": "HOCK",
+                "left": 758,
+                "top": 722,
+                "width": 113,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Qty UOM U.Price Amt — Amtinc Tax Code",
+            "words": [
+              {
+                "text": "Qty",
+                "left": 109,
+                "top": 804,
+                "width": 54,
+                "height": 45
+              },
+              {
+                "text": "UOM",
+                "left": 182,
+                "top": 804,
+                "width": 81,
+                "height": 44
+              },
+              {
+                "text": "U.Price",
+                "left": 305,
+                "top": 803,
+                "width": 119,
+                "height": 43
+              },
+              {
+                "text": "Amt",
+                "left": 455,
+                "top": 803,
+                "width": 66,
+                "height": 28
+              },
+              {
+                "text": "—",
+                "left": 548,
+                "top": 797,
+                "width": 19,
+                "height": 56
+              },
+              {
+                "text": "Amtinc",
+                "left": 580,
+                "top": 803,
+                "width": 121,
+                "height": 43
+              },
+              {
+                "text": "Tax",
+                "left": 713,
+                "top": 801,
+                "width": 59,
+                "height": 45
+              },
+              {
+                "text": "Code",
+                "left": 778,
+                "top": 801,
+                "width": 85,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "013 SUMMER CUP 48X230ML",
+            "words": [
+              {
+                "text": "013",
+                "left": 109,
+                "top": 863,
+                "width": 58,
+                "height": 28
+              },
+              {
+                "text": "SUMMER",
+                "left": 182,
+                "top": 846,
+                "width": 167,
+                "height": 44
+              },
+              {
+                "text": "CUP",
+                "left": 356,
+                "top": 845,
+                "width": 75,
+                "height": 45
+              },
+              {
+                "text": "48X230ML",
+                "left": 439,
+                "top": 845,
+                "width": 184,
+                "height": 43
+              }
+            ]
+          },
+          {
+            "text": "1 KOTAK 8.49 8.49 9.00 SR",
+            "words": [
+              {
+                "text": "1",
+                "left": 122,
+                "top": 912,
+                "width": 11,
+                "height": 27
+              },
+              {
+                "text": "KOTAK",
+                "left": 208,
+                "top": 909,
+                "width": 96,
+                "height": 27
+              },
+              {
+                "text": "8.49",
+                "left": 317,
+                "top": 911,
+                "width": 69,
+                "height": 28
+              },
+              {
+                "text": "8.49",
+                "left": 442,
+                "top": 909,
+                "width": 70,
+                "height": 29
+              },
+              {
+                "text": "9.00",
+                "left": 635,
+                "top": 909,
+                "width": 69,
+                "height": 27
+              },
+              {
+                "text": "SR",
+                "left": 824,
+                "top": 909,
+                "width": 46,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "GST6%+ 0.51",
+            "words": [
+              {
+                "text": "GST6%+",
+                "left": 107,
+                "top": 965,
+                "width": 164,
+                "height": 28
+              },
+              {
+                "text": "0.51",
+                "left": 317,
+                "top": 965,
+                "width": 63,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Total Includes GST 6% 9.00",
+            "words": [
+              {
+                "text": "Total",
+                "left": 110,
+                "top": 1113,
+                "width": 93,
+                "height": 32
+              },
+              {
+                "text": "Includes",
+                "left": 221,
+                "top": 1112,
+                "width": 164,
+                "height": 33
+              },
+              {
+                "text": "GST",
+                "left": 400,
+                "top": 1110,
+                "width": 84,
+                "height": 32
+              },
+              {
+                "text": "6%",
+                "left": 499,
+                "top": 1110,
+                "width": 57,
+                "height": 33
+              },
+              {
+                "text": "9.00",
+                "left": 797,
+                "top": 1109,
+                "width": 80,
+                "height": 33
+              }
+            ]
+          },
+          {
+            "text": "Customers Payment",
+            "words": [
+              {
+                "text": "Customers",
+                "left": 109,
+                "top": 1176,
+                "width": 202,
+                "height": 32
+              },
+              {
+                "text": "Payment",
+                "left": 328,
+                "top": 1175,
+                "width": 159,
+                "height": 39
+              }
+            ]
+          },
+          {
+            "text": "Cash 50.00",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 112,
+                "top": 1239,
+                "width": 91,
+                "height": 32
+              },
+              {
+                "text": "50.00",
+                "left": 775,
+                "top": 1236,
+                "width": 100,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Change 41.00",
+            "words": [
+              {
+                "text": "Change",
+                "left": 112,
+                "top": 1296,
+                "width": 141,
+                "height": 36
+              },
+              {
+                "text": "41.00",
+                "left": 775,
+                "top": 1291,
+                "width": 102,
+                "height": 32
+              }
+            ]
+          },
+          {
+            "text": "GST Summary Amount Tax",
+            "words": [
+              {
+                "text": "GST",
+                "left": 113,
+                "top": 1365,
+                "width": 71,
+                "height": 29
+              },
+              {
+                "text": "Summary",
+                "left": 199,
+                "top": 1365,
+                "width": 160,
+                "height": 35
+              },
+              {
+                "text": "Amount",
+                "left": 536,
+                "top": 1358,
+                "width": 132,
+                "height": 45
+              },
+              {
+                "text": "Tax",
+                "left": 812,
+                "top": 1362,
+                "width": 57,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "s”~—“—sS——.... CO ASSC«",
+            "words": [
+              {
+                "text": "s”~—“—sS——....",
+                "left": 112,
+                "top": 1413,
+                "width": 567,
+                "height": 41
+              },
+              {
+                "text": "CO",
+                "left": 578,
+                "top": 1408,
+                "width": 34,
+                "height": 57
+              },
+              {
+                "text": "ASSC«",
+                "left": 680,
+                "top": 1412,
+                "width": 197,
+                "height": 39
+              }
+            ]
+          },
+          {
+            "text": "*Goads sold are not returnable",
+            "words": [
+              {
+                "text": "*Goads",
+                "left": 215,
+                "top": 1484,
+                "width": 135,
+                "height": 31
+              },
+              {
+                "text": "sold",
+                "left": 364,
+                "top": 1482,
+                "width": 76,
+                "height": 32
+              },
+              {
+                "text": "are",
+                "left": 452,
+                "top": 1490,
+                "width": 59,
+                "height": 24
+              },
+              {
+                "text": "not",
+                "left": 524,
+                "top": 1482,
+                "width": 59,
+                "height": 32
+              },
+              {
+                "text": "returnable",
+                "left": 595,
+                "top": 1481,
+                "width": 187,
+                "height": 33
+              }
+            ]
+          },
+          {
+            "text": "Thank you for shappirig at FUY! MINI",
+            "words": [
+              {
+                "text": "Thank",
+                "left": 154,
+                "top": 1535,
+                "width": 109,
+                "height": 31
+              },
+              {
+                "text": "you",
+                "left": 275,
+                "top": 1540,
+                "width": 68,
+                "height": 32
+              },
+              {
+                "text": "for",
+                "left": 358,
+                "top": 1533,
+                "width": 49,
+                "height": 31
+              },
+              {
+                "text": "shappirig",
+                "left": 418,
+                "top": 1532,
+                "width": 166,
+                "height": 40
+              },
+              {
+                "text": "at",
+                "left": 599,
+                "top": 1532,
+                "width": 35,
+                "height": 31
+              },
+              {
+                "text": "FUY!",
+                "left": 658,
+                "top": 1532,
+                "width": 91,
+                "height": 31
+              },
+              {
+                "text": "MINI",
+                "left": 763,
+                "top": 1530,
+                "width": 82,
+                "height": 32
+              }
+            ]
+          },
+          {
+            "text": "MARKET",
+            "words": [
+              {
+                "text": "MARKET",
+                "left": 412,
+                "top": 1578,
+                "width": 174,
+                "height": 33
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "llm_model": "gemini-2.5-flash"
+  }
+}

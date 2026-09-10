@@ -1,0 +1,4809 @@
+{
+  "document_name": "Consolidated Profit & Loss 2026.pdf",
+  "document_type": "profit_and_loss",
+  "processing_status": "PASS",
+  "file_validation": {
+    "file_type": "application/pdf",
+    "is_supported": true,
+    "is_readable": true,
+    "page_count": 1,
+    "status": "PASS"
+  },
+  "extracted_data": {
+    "fields": {
+      "document_title": {
+        "value": "CONSOLIDATED PROFIT AND LOSS ACCOUNT",
+        "source_text": "CONSOLIDATED PROFIT AND LOSS ACCOUNT",
+        "page_number": 1
+      },
+      "report_date": {
+        "value": "March 31, 2026",
+        "source_text": "March 31, 2026",
+        "page_number": 1
+      },
+      "currency": {
+        "value": null,
+        "source_text": "(= in crore)",
+        "page_number": 1
+      },
+      "face_value_per_share": {
+        "value": "1/ - per share",
+        "source_text": "1/ - per share",
+        "page_number": 1
+      }
+    },
+    "tables": [
+      {
+        "title": "Statement rows - page 1",
+        "columns": [
+          "label",
+          "section",
+          "schedule",
+          "section_schedule",
+          "2026",
+          "2025"
+        ],
+        "rows": [
+          {
+            "label": {
+              "value": "Interest earned",
+              "source_text": "Interest earned 13 348,615.15 336,367.43",
+              "page_number": 1
+            },
+            "section": {
+              "value": "| INCOME",
+              "source_text": "| INCOME",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "13",
+              "source_text": "Interest earned 13 348,615.15 336,367.43",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "| INCOME",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "348,615.15",
+              "source_text": "Interest earned 13 348,615.15 336,367.43",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "336,367.43",
+              "source_text": "Interest earned 13 348,615.15 336,367.43",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Other income",
+              "source_text": "Other income 14 146,847.66 134,548.50",
+              "page_number": 1
+            },
+            "section": {
+              "value": "| INCOME",
+              "source_text": "| INCOME",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "14",
+              "source_text": "Other income 14 146,847.66 134,548.50",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "| INCOME",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "146,847.66",
+              "source_text": "Other income 14 146,847.66 134,548.50",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "134,548.50",
+              "source_text": "Other income 14 146,847.66 134,548.50",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Total",
+              "source_text": "Total 495,462.81 470,915.93",
+              "page_number": 1
+            },
+            "section": {
+              "value": "| INCOME",
+              "source_text": "| INCOME",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Total 495,462.81 470,915.93",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "| INCOME",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "495,462.81",
+              "source_text": "Total 495,462.81 470,915.93",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "470,915.93",
+              "source_text": "Total 495,462.81 470,915.93",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Interest expended",
+              "source_text": "Interest expended 15 185,491.23 183,894.20",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Il EXPENDITURE",
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "15",
+              "source_text": "Interest expended 15 185,491.23 183,894.20",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "185,491.23",
+              "source_text": "Interest expended 15 185,491.23 183,894.20",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "183,894.20",
+              "source_text": "Interest expended 15 185,491.23 183,894.20",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Operating expenses",
+              "source_text": "Operating expenses 16 181,173.91 176,605.07",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Il EXPENDITURE",
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "16",
+              "source_text": "Operating expenses 16 181,173.91 176,605.07",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "181,173.91",
+              "source_text": "Operating expenses 16 181,173.91 176,605.07",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "176,605.07",
+              "source_text": "Operating expenses 16 181,173.91 176,605.07",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Provisions and contingencies",
+              "source_text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Il EXPENDITURE",
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "18 (9)",
+              "source_text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "49,578.21",
+              "source_text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "36,976.49",
+              "source_text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Total",
+              "source_text": "Total 416,243.35 397,475.76",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Il EXPENDITURE",
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Total 416,243.35 397,475.76",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Il EXPENDITURE",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "416,243.35",
+              "source_text": "Total 416,243.35 397,475.76",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "397,475.76",
+              "source_text": "Total 416,243.35 397,475.76",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Consolidated Net Profit for the year before Minority Interest",
+              "source_text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Ill PROFIT",
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "79,219.46",
+              "source_text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "73,440.17",
+              "source_text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Less : Minority Interest",
+              "source_text": "Less : Minority Interest 3,193.49 2,647.92",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Ill PROFIT",
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Less : Minority Interest 3,193.49 2,647.92",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,193.49",
+              "source_text": "Less : Minority Interest 3,193.49 2,647.92",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "2,647.92",
+              "source_text": "Less : Minority Interest 3,193.49 2,647.92",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Consolidated Net Profit for the year attributable to the group",
+              "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Ill PROFIT",
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "76,025.97",
+              "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "70,792.25",
+              "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Brought forward consolidated profit attributable to the group",
+              "source_text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Ill PROFIT",
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "178,692.55",
+              "source_text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "150,045.57",
+              "source_text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Total",
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Ill PROFIT",
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Ill PROFIT",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "254,718.52",
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "220,837.82",
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Transfer to Statutory Reserve",
+              "source_text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "19,159.57",
+              "source_text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "17,260.30",
+              "source_text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Interim Dividend paid",
+              "source_text": "Interim Dividend paid 3,836.57 -",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Interim Dividend paid 3,836.57 -",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,836.57",
+              "source_text": "Interim Dividend paid 3,836.57 -",
+              "page_number": 1
+            },
+            "2025": {
+              "value": null,
+              "source_text": "Interim Dividend paid 3,836.57 -",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Transfer to General Reserve",
+              "source_text": "Transfer to General Reserve 7,467.13 6,734.74",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Transfer to General Reserve 7,467.13 6,734.74",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "7,467.13",
+              "source_text": "Transfer to General Reserve 7,467.13 6,734.74",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "6,734.74",
+              "source_text": "Transfer to General Reserve 7,467.13 6,734.74",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Transfer to Special Reserve",
+              "source_text": "Transfer to Special Reserve 3,000.00 3,200.00",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Transfer to Special Reserve 3,000.00 3,200.00",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,000.00",
+              "source_text": "Transfer to Special Reserve 3,000.00 3,200.00",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "3,200.00",
+              "source_text": "Transfer to Special Reserve 3,000.00 3,200.00",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Transfer to Capital Reserve",
+              "source_text": "Transfer to Capital Reserve 8,320.40 507.00",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Transfer to Capital Reserve 8,320.40 507.00",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "8,320.40",
+              "source_text": "Transfer to Capital Reserve 8,320.40 507.00",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "507.00",
+              "source_text": "Transfer to Capital Reserve 8,320.40 507.00",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Dividend pertaining to previous year paid during the year",
+              "source_text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "16,869.41",
+              "source_text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "14,826.19",
+              "source_text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Transfer to / (from) Minority Interest",
+              "source_text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "476.12",
+              "source_text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(382.96)",
+              "source_text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Transfer to Other Reserves",
+              "source_text": "Transfer to Other Reserves 1.85 -",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Transfer to Other Reserves 1.85 -",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "1.85",
+              "source_text": "Transfer to Other Reserves 1.85 -",
+              "page_number": 1
+            },
+            "2025": {
+              "value": null,
+              "source_text": "Transfer to Other Reserves 1.85 -",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Balance carried over to consolidated balance sheet",
+              "source_text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "195,587.47",
+              "source_text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "178,692.55",
+              "source_text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Total",
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            },
+            "section": {
+              "value": "IV APPROPRIATIONS",
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "IV APPROPRIATIONS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "254,718.52",
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "220,837.82",
+              "source_text": "Total 254,718.52 220,837.82",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Basic",
+              "source_text": "Basic 49.50 46.41",
+              "page_number": 1
+            },
+            "section": {
+              "value": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share)",
+              "source_text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share) 18 (18) zg z",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Basic 49.50 46.41",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": "18 (18)",
+              "source_text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share) 18 (18) zg z",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "49.50",
+              "source_text": "Basic 49.50 46.41",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "46.41",
+              "source_text": "Basic 49.50 46.41",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Diluted",
+              "source_text": "Diluted 49.28 46.20",
+              "page_number": 1
+            },
+            "section": {
+              "value": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share)",
+              "source_text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share) 18 (18) zg z",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Diluted 49.28 46.20",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": "18 (18)",
+              "source_text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share) 18 (18) zg z",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "49.28",
+              "source_text": "Diluted 49.28 46.20",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "46.20",
+              "source_text": "Diluted 49.28 46.20",
+              "page_number": 1
+            }
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "label": "Year ended March 31, 2026",
+        "fields": {
+          "interest_earned": {
+            "value": "348,615.15",
+            "source_text": "Interest earned 13 348,615.15 336,367.43",
+            "page_number": 1
+          },
+          "other_income": {
+            "value": "146,847.66",
+            "source_text": "Other income 14 146,847.66 134,548.50",
+            "page_number": 1
+          },
+          "total_income": {
+            "value": "495,462.81",
+            "source_text": "Total 495,462.81 470,915.93",
+            "page_number": 1
+          },
+          "interest_expended": {
+            "value": "185,491.23",
+            "source_text": "Interest expended 15 185,491.23 183,894.20",
+            "page_number": 1
+          },
+          "operating_expenses": {
+            "value": "181,173.91",
+            "source_text": "Operating expenses 16 181,173.91 176,605.07",
+            "page_number": 1
+          },
+          "provisions_and_contingencies": {
+            "value": "49,578.21",
+            "source_text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+            "page_number": 1
+          },
+          "total_expenditure": {
+            "value": "416,243.35",
+            "source_text": "Total 416,243.35 397,475.76",
+            "page_number": 1
+          },
+          "profit_before_minority_interest": {
+            "value": "79,219.46",
+            "source_text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+            "page_number": 1
+          },
+          "minority_interest": {
+            "value": "3,193.49",
+            "source_text": "Less : Minority Interest 3,193.49 2,647.92",
+            "page_number": 1
+          },
+          "net_profit_attributable_to_group": {
+            "value": "76,025.97",
+            "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+            "page_number": 1
+          },
+          "brought_forward_profit": {
+            "value": "178,692.55",
+            "source_text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+            "page_number": 1
+          },
+          "total_available_for_appropriation": {
+            "value": "254,718.52",
+            "source_text": "Total 254,718.52 220,837.82",
+            "page_number": 1
+          },
+          "transfer_to_statutory_reserve": {
+            "value": "19,159.57",
+            "source_text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+            "page_number": 1
+          },
+          "interim_dividend_paid": {
+            "value": "3,836.57",
+            "source_text": "Interim Dividend paid 3,836.57 -",
+            "page_number": 1
+          },
+          "transfer_to_general_reserve": {
+            "value": "7,467.13",
+            "source_text": "Transfer to General Reserve 7,467.13 6,734.74",
+            "page_number": 1
+          },
+          "transfer_to_special_reserve": {
+            "value": "3,000.00",
+            "source_text": "Transfer to Special Reserve 3,000.00 3,200.00",
+            "page_number": 1
+          },
+          "transfer_to_capital_reserve": {
+            "value": "8,320.40",
+            "source_text": "Transfer to Capital Reserve 8,320.40 507.00",
+            "page_number": 1
+          },
+          "dividend_pertaining_to_previous_year_paid_during_the_year": {
+            "value": "16,869.41",
+            "source_text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+            "page_number": 1
+          },
+          "transfer_to_from_minority_interest": {
+            "value": "476.12",
+            "source_text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+            "page_number": 1
+          },
+          "transfer_to_other_reserves": {
+            "value": "1.85",
+            "source_text": "Transfer to Other Reserves 1.85 -",
+            "page_number": 1
+          },
+          "balance_carried_over_to_consolidated_balance_sheet": {
+            "value": "195,587.47",
+            "source_text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+            "page_number": 1
+          },
+          "total_appropriations": {
+            "value": 254718.52,
+            "source_text": "254,718.52",
+            "page_number": 1
+          },
+          "basic_eps": {
+            "value": 49.5,
+            "source_text": "49.50",
+            "page_number": 1
+          },
+          "diluted_eps": {
+            "value": 49.28,
+            "source_text": "49.28",
+            "page_number": 1
+          },
+          "current_profit": {
+            "value": "76,025.97",
+            "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+            "page_number": 1
+          },
+          "revenue": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "cost_of_sales": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "gross_profit": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "operating_profit": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "tax": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "net_profit": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      },
+      {
+        "label": "Year ended March 31, 2025",
+        "fields": {
+          "interest_earned": {
+            "value": "336,367.43",
+            "source_text": "Interest earned 13 348,615.15 336,367.43",
+            "page_number": 1
+          },
+          "other_income": {
+            "value": "134,548.50",
+            "source_text": "Other income 14 146,847.66 134,548.50",
+            "page_number": 1
+          },
+          "total_income": {
+            "value": "470,915.93",
+            "source_text": "Total 495,462.81 470,915.93",
+            "page_number": 1
+          },
+          "interest_expended": {
+            "value": "183,894.20",
+            "source_text": "Interest expended 15 185,491.23 183,894.20",
+            "page_number": 1
+          },
+          "operating_expenses": {
+            "value": "176,605.07",
+            "source_text": "Operating expenses 16 181,173.91 176,605.07",
+            "page_number": 1
+          },
+          "provisions_and_contingencies": {
+            "value": "36,976.49",
+            "source_text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+            "page_number": 1
+          },
+          "total_expenditure": {
+            "value": "397,475.76",
+            "source_text": "Total 416,243.35 397,475.76",
+            "page_number": 1
+          },
+          "profit_before_minority_interest": {
+            "value": "73,440.17",
+            "source_text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+            "page_number": 1
+          },
+          "minority_interest": {
+            "value": "2,647.92",
+            "source_text": "Less : Minority Interest 3,193.49 2,647.92",
+            "page_number": 1
+          },
+          "net_profit_attributable_to_group": {
+            "value": "70,792.25",
+            "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+            "page_number": 1
+          },
+          "brought_forward_profit": {
+            "value": "150,045.57",
+            "source_text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+            "page_number": 1
+          },
+          "total_available_for_appropriation": {
+            "value": "220,837.82",
+            "source_text": "Total 254,718.52 220,837.82",
+            "page_number": 1
+          },
+          "transfer_to_statutory_reserve": {
+            "value": "17,260.30",
+            "source_text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+            "page_number": 1
+          },
+          "interim_dividend_paid": {
+            "value": null,
+            "source_text": "Interim Dividend paid 3,836.57 -",
+            "page_number": 1
+          },
+          "transfer_to_general_reserve": {
+            "value": "6,734.74",
+            "source_text": "Transfer to General Reserve 7,467.13 6,734.74",
+            "page_number": 1
+          },
+          "transfer_to_special_reserve": {
+            "value": "3,200.00",
+            "source_text": "Transfer to Special Reserve 3,000.00 3,200.00",
+            "page_number": 1
+          },
+          "transfer_to_capital_reserve": {
+            "value": "507.00",
+            "source_text": "Transfer to Capital Reserve 8,320.40 507.00",
+            "page_number": 1
+          },
+          "dividend_pertaining_to_previous_year_paid_during_the_year": {
+            "value": "14,826.19",
+            "source_text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+            "page_number": 1
+          },
+          "transfer_to_from_minority_interest": {
+            "value": "(382.96)",
+            "source_text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+            "page_number": 1
+          },
+          "transfer_to_other_reserves": {
+            "value": null,
+            "source_text": "Transfer to Other Reserves 1.85 -",
+            "page_number": 1
+          },
+          "balance_carried_over_to_consolidated_balance_sheet": {
+            "value": "178,692.55",
+            "source_text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+            "page_number": 1
+          },
+          "total_appropriations": {
+            "value": 220837.82,
+            "source_text": "220,837.82",
+            "page_number": 1
+          },
+          "basic_eps": {
+            "value": 46.41,
+            "source_text": "46.41",
+            "page_number": 1
+          },
+          "diluted_eps": {
+            "value": 46.2,
+            "source_text": "46.20",
+            "page_number": 1
+          },
+          "current_profit": {
+            "value": "70,792.25",
+            "source_text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+            "page_number": 1
+          },
+          "revenue": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "cost_of_sales": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "gross_profit": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "operating_profit": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "tax": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "net_profit": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      }
+    ],
+    "line_items": [
+      {
+        "description": {
+          "value": "Interest earned",
+          "source_text": "Interest earned",
+          "page_number": 1
+        },
+        "section": {
+          "value": "| INCOME",
+          "source_text": "| INCOME",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": "13",
+          "source_text": "13",
+          "page_number": 1
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 348615.15,
+          "source_text": "348,615.15",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 336367.43,
+          "source_text": "336,367.43",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Other income",
+          "source_text": "Other income",
+          "page_number": 1
+        },
+        "section": {
+          "value": "| INCOME",
+          "source_text": "| INCOME",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": "14",
+          "source_text": "14",
+          "page_number": 1
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 146847.66,
+          "source_text": "146,847.66",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 134548.5,
+          "source_text": "134,548.50",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Total",
+          "source_text": "Total",
+          "page_number": 1
+        },
+        "section": {
+          "value": "| INCOME",
+          "source_text": "| INCOME",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 495462.81,
+          "source_text": "495,462.81",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 470915.93,
+          "source_text": "470,915.93",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Interest expended",
+          "source_text": "Interest expended",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Il EXPENDITURE",
+          "source_text": "Il EXPENDITURE",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": "15",
+          "source_text": "15",
+          "page_number": 1
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 185491.23,
+          "source_text": "185,491.23",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 183894.2,
+          "source_text": "183,894.20",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Operating expenses",
+          "source_text": "Operating expenses",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Il EXPENDITURE",
+          "source_text": "Il EXPENDITURE",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": "16",
+          "source_text": "16",
+          "page_number": 1
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 181173.91,
+          "source_text": "181,173.91",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 176605.07,
+          "source_text": "176,605.07",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Provisions and contingencies",
+          "source_text": "Provisions and contingencies",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Il EXPENDITURE",
+          "source_text": "Il EXPENDITURE",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": "18 (9)",
+          "source_text": "18 (9)",
+          "page_number": 1
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 49578.21,
+          "source_text": "49,578.21",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 36976.49,
+          "source_text": "36,976.49",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Total",
+          "source_text": "Total",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Il EXPENDITURE",
+          "source_text": "Il EXPENDITURE",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 416243.35,
+          "source_text": "416,243.35",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 397475.76,
+          "source_text": "397,475.76",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Consolidated Net Profit for the year before Minority Interest",
+          "source_text": "Consolidated Net Profit for the year before Minority Interest",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Ill PROFIT",
+          "source_text": "Ill PROFIT",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 79219.46,
+          "source_text": "79,219.46",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 73440.17,
+          "source_text": "73,440.17",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Less : Minority Interest",
+          "source_text": "Less : Minority Interest",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Ill PROFIT",
+          "source_text": "Ill PROFIT",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 3193.49,
+          "source_text": "3,193.49",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 2647.92,
+          "source_text": "2,647.92",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Consolidated Net Profit for the year attributable to the group",
+          "source_text": "Consolidated Net Profit for the year attributable to the group",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Ill PROFIT",
+          "source_text": "Ill PROFIT",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 76025.97,
+          "source_text": "76,025.97",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 70792.25,
+          "source_text": "70,792.25",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Brought forward consolidated profit attributable to the group",
+          "source_text": "Brought forward consolidated profit attributable to the group",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Ill PROFIT",
+          "source_text": "Ill PROFIT",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 178692.55,
+          "source_text": "178,692.55",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 150045.57,
+          "source_text": "150,045.57",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Total",
+          "source_text": "Total",
+          "page_number": 1
+        },
+        "section": {
+          "value": "Ill PROFIT",
+          "source_text": "Ill PROFIT",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 254718.52,
+          "source_text": "254,718.52",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 220837.82,
+          "source_text": "220,837.82",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Transfer to Statutory Reserve",
+          "source_text": "Transfer to Statutory Reserve",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 19159.57,
+          "source_text": "19,159.57",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 17260.3,
+          "source_text": "17,260.30",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Interim Dividend paid",
+          "source_text": "Interim Dividend paid",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 3836.57,
+          "source_text": "3,836.57",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": null,
+          "source_text": "-",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Transfer to General Reserve",
+          "source_text": "Transfer to General Reserve",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 7467.13,
+          "source_text": "7,467.13",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 6734.74,
+          "source_text": "6,734.74",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Transfer to Special Reserve",
+          "source_text": "Transfer to Special Reserve",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 3000.0,
+          "source_text": "3,000.00",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 3200.0,
+          "source_text": "3,200.00",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Transfer to Capital Reserve",
+          "source_text": "Transfer to Capital Reserve",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 8320.4,
+          "source_text": "8,320.40",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 507.0,
+          "source_text": "507.00",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Dividend pertaining to previous year paid during the year",
+          "source_text": "Dividend pertaining to previous year paid during the year",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 16869.41,
+          "source_text": "16,869.41",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 14826.19,
+          "source_text": "14,826.19",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Transfer to / (from) Minority Interest",
+          "source_text": "Transfer to / (from) Minority Interest",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 476.12,
+          "source_text": "476.12",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": -382.96,
+          "source_text": "(382.96)",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Transfer to Other Reserves",
+          "source_text": "Transfer to Other Reserves",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 1.85,
+          "source_text": "1.85",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": null,
+          "source_text": "-",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Balance carried over to consolidated balance sheet",
+          "source_text": "Balance carried over to consolidated balance sheet",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 195587.47,
+          "source_text": "195,587.47",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 178692.55,
+          "source_text": "178,692.55",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Total",
+          "source_text": "Total",
+          "page_number": 1
+        },
+        "section": {
+          "value": "IV APPROPRIATIONS",
+          "source_text": "IV APPROPRIATIONS",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "amount_2026": {
+          "value": 254718.52,
+          "source_text": "254,718.52",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 220837.82,
+          "source_text": "220,837.82",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Basic",
+          "source_text": "Basic",
+          "page_number": 1
+        },
+        "section": {
+          "value": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share)",
+          "source_text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share)",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": "18 (18)",
+          "source_text": "18 (18)",
+          "page_number": 1
+        },
+        "amount_2026": {
+          "value": 49.5,
+          "source_text": "49.50",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 46.41,
+          "source_text": "46.41",
+          "page_number": 1
+        }
+      },
+      {
+        "description": {
+          "value": "Diluted",
+          "source_text": "Diluted",
+          "page_number": 1
+        },
+        "section": {
+          "value": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share)",
+          "source_text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share)",
+          "page_number": 1
+        },
+        "schedule": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "section_schedule": {
+          "value": "18 (18)",
+          "source_text": "18 (18)",
+          "page_number": 1
+        },
+        "amount_2026": {
+          "value": 49.28,
+          "source_text": "49.28",
+          "page_number": 1
+        },
+        "amount_2025": {
+          "value": 46.2,
+          "source_text": "46.20",
+          "page_number": 1
+        }
+      }
+    ],
+    "line_items_tax_included": null,
+    "tax_included": null,
+    "issues": [
+      "Unsupported evidence for currency; value cleared."
+    ]
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "total_income",
+        "period": "Year ended March 31, 2026",
+        "formula": "interest_earned + other_income = total_income",
+        "operands": {
+          "interest_earned": "348615.15",
+          "other_income": "146847.66"
+        },
+        "calculated_value": "495462.81",
+        "reported_value": "495462.81",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "total_expenditure",
+        "period": "Year ended March 31, 2026",
+        "formula": "interest_expended + operating_expenses + provisions_and_contingencies = total_expenditure",
+        "operands": {
+          "interest_expended": "185491.23",
+          "operating_expenses": "181173.91",
+          "provisions_and_contingencies": "49578.21"
+        },
+        "calculated_value": "416243.35",
+        "reported_value": "416243.35",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "profit_before_minority",
+        "period": "Year ended March 31, 2026",
+        "formula": "total_income - total_expenditure = profit_before_minority_interest",
+        "operands": {
+          "total_income": "495462.81",
+          "total_expenditure": "416243.35"
+        },
+        "calculated_value": "79219.46",
+        "reported_value": "79219.46",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "group_profit",
+        "period": "Year ended March 31, 2026",
+        "formula": "profit_before_minority_interest - minority_interest = net_profit_attributable_to_group",
+        "operands": {
+          "profit_before_minority_interest": "79219.46",
+          "minority_interest": "3193.49"
+        },
+        "calculated_value": "76025.97",
+        "reported_value": "76025.97",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "appropriation",
+        "period": "Year ended March 31, 2026",
+        "formula": "current_profit + brought_forward_profit = total_available_for_appropriation",
+        "operands": {
+          "current_profit": "76025.97",
+          "brought_forward_profit": "178692.55"
+        },
+        "calculated_value": "254718.52",
+        "reported_value": "254718.52",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "total_income",
+        "period": "Year ended March 31, 2025",
+        "formula": "interest_earned + other_income = total_income",
+        "operands": {
+          "interest_earned": "336367.43",
+          "other_income": "134548.50"
+        },
+        "calculated_value": "470915.93",
+        "reported_value": "470915.93",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "total_expenditure",
+        "period": "Year ended March 31, 2025",
+        "formula": "interest_expended + operating_expenses + provisions_and_contingencies = total_expenditure",
+        "operands": {
+          "interest_expended": "183894.20",
+          "operating_expenses": "176605.07",
+          "provisions_and_contingencies": "36976.49"
+        },
+        "calculated_value": "397475.76",
+        "reported_value": "397475.76",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "profit_before_minority",
+        "period": "Year ended March 31, 2025",
+        "formula": "total_income - total_expenditure = profit_before_minority_interest",
+        "operands": {
+          "total_income": "470915.93",
+          "total_expenditure": "397475.76"
+        },
+        "calculated_value": "73440.17",
+        "reported_value": "73440.17",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "group_profit",
+        "period": "Year ended March 31, 2025",
+        "formula": "profit_before_minority_interest - minority_interest = net_profit_attributable_to_group",
+        "operands": {
+          "profit_before_minority_interest": "73440.17",
+          "minority_interest": "2647.92"
+        },
+        "calculated_value": "70792.25",
+        "reported_value": "70792.25",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "appropriation",
+        "period": "Year ended March 31, 2025",
+        "formula": "current_profit + brought_forward_profit = total_available_for_appropriation",
+        "operands": {
+          "current_profit": "70792.25",
+          "brought_forward_profit": "150045.57"
+        },
+        "calculated_value": "220837.82",
+        "reported_value": "220837.82",
+        "variance": "0.00",
+        "status": "PASS"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": [
+      "Unsupported evidence for currency; value cleared."
+    ]
+  },
+  "processing_metadata": {
+    "ocr_used": true,
+    "processed_at": "2026-09-10T17:30:26.003204+00:00",
+    "processing_time_ms": 97664,
+    "source_pages": [
+      {
+        "page_number": 1,
+        "text": "CONSOLIDATED PROFIT AND LOSS ACCOUNT\nFor the year ended March 31, 2026\n(= in crore)\nYear ended Year ended\nSchedule\nMarch 31, 2026 March 31, 2025\n| INCOME\nInterest earned 13 348,615.15 336,367.43\nOther income 14 146,847.66 134,548.50\nTotal 495,462.81 470,915.93\nIl EXPENDITURE\nInterest expended 15 185,491.23 183,894.20\nOperating expenses 16 181,173.91 176,605.07\nProvisions and contingencies 18 (9) 49,578.21 36,976.49\nTotal 416,243.35 397,475.76\nIll PROFIT\nConsolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17\nLess : Minority Interest 3,193.49 2,647.92\nConsolidated Net Profit for the year attributable to the group 76,025.97 70,792.25\nBrought forward consolidated profit attributable to the group 178,692.55 150,045.57\nTotal 254,718.52 220,837.82\nIV APPROPRIATIONS\nTransfer to Statutory Reserve 19,159.57 17,260.30\nInterim Dividend paid 3,836.57 -\nTransfer to General Reserve 7,467.13 6,734.74\nTransfer to Special Reserve 3,000.00 3,200.00\nTransfer to Capital Reserve 8,320.40 507.00\nDividend pertaining to previous year paid during the year 16,869.41 14,826.19\nTransfer to / (from) Minority Interest 476.12 (382.96)\nTransfer to Other Reserves 1.85 -\nBalance carried over to consolidated balance sheet 195,587.47 178,692.55\nTotal 254,718.52 220,837.82\nV EARNINGS PER EQUITY SHARE (Face value = 1/ - per share) 18 (18) zg z\nBasic 49.50 46.41\nDiluted 49.28 46.20\nSignificant accounting policies and notes to the Consolidated Financial Statements 17&18\nThe schedules referred to above form an integral part of the Consolidated Profit and Loss\nAccount.\nAs per our report of even date. For and on behalf of the Board\nFor Batliboi & Purohit ForBSR &Co. LLP Keki Mistry Sandeep Parekh\nChartered Accountants Chartered Accountants Interim Part-Time Chairman Independent Director\nICAI Firm Registration No.: ICAI Firm Registration No.: & Non-Executive\n(Non-Independent) Director\n101048W 101248W/W-100022\nM. D. Ranganath Sunita Maheshwari\nIndependent Director Independent Director\nJanak Mehta Sudhir Soni Lily Vadera Renu Karnad\nPartner Partner Independent Director Non-Executive (Non-\nMembership No.: 116976 Membership No.: 041870 Independent Director)\nHarsh Kumar Bhanwala Santhosh Keshavan\nIndependent Director Independent Director\nSashidhar Jagdishan Kaizad Bharucha\nManaging Director & Chief Deputy Managing Director\nExecutive Officer\nBhavesh Zaveri V. Srinivasa Rangan\nExecutive Director Executive Director\nMumbai, April 18, 2026 Srinivasan Vaidyanathan Ajay Agarwal\nChief Financial Officer Company Secretary\n477",
+        "layout_rows": [
+          {
+            "text": "CONSOLIDATED PROFIT AND LOSS ACCOUNT",
+            "words": [
+              {
+                "text": "CONSOLIDATED",
+                "left": 182,
+                "top": 208,
+                "width": 918,
+                "height": 43
+              },
+              {
+                "text": "PROFIT",
+                "left": 719,
+                "top": 204,
+                "width": 223,
+                "height": 65
+              },
+              {
+                "text": "AND",
+                "left": 979,
+                "top": 204,
+                "width": 126,
+                "height": 65
+              },
+              {
+                "text": "LOSS",
+                "left": 1135,
+                "top": 208,
+                "width": 161,
+                "height": 43
+              },
+              {
+                "text": "ACCOUNT",
+                "left": 1336,
+                "top": 208,
+                "width": 307,
+                "height": 43
+              }
+            ]
+          },
+          {
+            "text": "For the year ended March 31, 2026",
+            "words": [
+              {
+                "text": "For",
+                "left": 182,
+                "top": 273,
+                "width": 51,
+                "height": 28
+              },
+              {
+                "text": "the",
+                "left": 243,
+                "top": 273,
+                "width": 51,
+                "height": 28
+              },
+              {
+                "text": "year",
+                "left": 305,
+                "top": 280,
+                "width": 69,
+                "height": 28
+              },
+              {
+                "text": "ended",
+                "left": 386,
+                "top": 273,
+                "width": 101,
+                "height": 28
+              },
+              {
+                "text": "March",
+                "left": 502,
+                "top": 273,
+                "width": 99,
+                "height": 28
+              },
+              {
+                "text": "31,",
+                "left": 615,
+                "top": 274,
+                "width": 43,
+                "height": 31
+              },
+              {
+                "text": "2026",
+                "left": 673,
+                "top": 274,
+                "width": 81,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "(= in crore)",
+            "words": [
+              {
+                "text": "(=",
+                "left": 2152,
+                "top": 292,
+                "width": 20,
+                "height": 28
+              },
+              {
+                "text": "in",
+                "left": 2183,
+                "top": 293,
+                "width": 19,
+                "height": 21
+              },
+              {
+                "text": "crore)",
+                "left": 2213,
+                "top": 292,
+                "width": 72,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Year ended Year ended",
+            "words": [
+              {
+                "text": "Year",
+                "left": 1839,
+                "top": 337,
+                "width": 65,
+                "height": 22
+              },
+              {
+                "text": "ended",
+                "left": 1913,
+                "top": 337,
+                "width": 87,
+                "height": 22
+              },
+              {
+                "text": "Year",
+                "left": 2123,
+                "top": 337,
+                "width": 65,
+                "height": 22
+              },
+              {
+                "text": "ended",
+                "left": 2197,
+                "top": 337,
+                "width": 87,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Schedule",
+            "words": [
+              {
+                "text": "Schedule",
+                "left": 1589,
+                "top": 354,
+                "width": 134,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "March 31, 2026 March 31, 2025",
+            "words": [
+              {
+                "text": "March",
+                "left": 1787,
+                "top": 372,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 1886,
+                "top": 372,
+                "width": 38,
+                "height": 26
+              },
+              {
+                "text": "2026",
+                "left": 1934,
+                "top": 372,
+                "width": 67,
+                "height": 22
+              },
+              {
+                "text": "March",
+                "left": 2071,
+                "top": 372,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 2170,
+                "top": 372,
+                "width": 38,
+                "height": 26
+              },
+              {
+                "text": "2025",
+                "left": 2218,
+                "top": 372,
+                "width": 67,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "| INCOME",
+            "words": [
+              {
+                "text": "|",
+                "left": 190,
+                "top": 416,
+                "width": 7,
+                "height": 28
+              },
+              {
+                "text": "INCOME",
+                "left": 212,
+                "top": 416,
+                "width": 153,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Interest earned 13 348,615.15 336,367.43",
+            "words": [
+              {
+                "text": "Interest",
+                "left": 190,
+                "top": 467,
+                "width": 108,
+                "height": 25
+              },
+              {
+                "text": "earned",
+                "left": 310,
+                "top": 467,
+                "width": 100,
+                "height": 25
+              },
+              {
+                "text": "13",
+                "left": 1641,
+                "top": 468,
+                "width": 33,
+                "height": 24
+              },
+              {
+                "text": "348,615.15",
+                "left": 1836,
+                "top": 468,
+                "width": 164,
+                "height": 28
+              },
+              {
+                "text": "336,367.43",
+                "left": 2120,
+                "top": 468,
+                "width": 164,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Other income 14 146,847.66 134,548.50",
+            "words": [
+              {
+                "text": "Other",
+                "left": 189,
+                "top": 514,
+                "width": 83,
+                "height": 25
+              },
+              {
+                "text": "income",
+                "left": 283,
+                "top": 515,
+                "width": 106,
+                "height": 24
+              },
+              {
+                "text": "14",
+                "left": 1641,
+                "top": 515,
+                "width": 33,
+                "height": 24
+              },
+              {
+                "text": "146,847.66",
+                "left": 1837,
+                "top": 515,
+                "width": 164,
+                "height": 29
+              },
+              {
+                "text": "134,548.50",
+                "left": 2122,
+                "top": 515,
+                "width": 163,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Total 495,462.81 470,915.93",
+            "words": [
+              {
+                "text": "Total",
+                "left": 188,
+                "top": 558,
+                "width": 75,
+                "height": 39
+              },
+              {
+                "text": "495,462.81",
+                "left": 1835,
+                "top": 562,
+                "width": 161,
+                "height": 30
+              },
+              {
+                "text": "470,915.93",
+                "left": 2119,
+                "top": 562,
+                "width": 166,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Il EXPENDITURE",
+            "words": [
+              {
+                "text": "Il",
+                "left": 190,
+                "top": 610,
+                "width": 18,
+                "height": 27
+              },
+              {
+                "text": "EXPENDITURE",
+                "left": 223,
+                "top": 610,
+                "width": 270,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Interest expended 15 185,491.23 183,894.20",
+            "words": [
+              {
+                "text": "Interest",
+                "left": 190,
+                "top": 660,
+                "width": 108,
+                "height": 25
+              },
+              {
+                "text": "expended",
+                "left": 310,
+                "top": 660,
+                "width": 145,
+                "height": 31
+              },
+              {
+                "text": "15",
+                "left": 1641,
+                "top": 660,
+                "width": 33,
+                "height": 25
+              },
+              {
+                "text": "185,491.23",
+                "left": 1837,
+                "top": 660,
+                "width": 163,
+                "height": 29
+              },
+              {
+                "text": "183,894.20",
+                "left": 2122,
+                "top": 660,
+                "width": 163,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Operating expenses 16 181,173.91 176,605.07",
+            "words": [
+              {
+                "text": "Operating",
+                "left": 189,
+                "top": 707,
+                "width": 145,
+                "height": 32
+              },
+              {
+                "text": "expenses",
+                "left": 346,
+                "top": 714,
+                "width": 141,
+                "height": 24
+              },
+              {
+                "text": "16",
+                "left": 1641,
+                "top": 708,
+                "width": 33,
+                "height": 24
+              },
+              {
+                "text": "181,173.91",
+                "left": 1837,
+                "top": 708,
+                "width": 158,
+                "height": 28
+              },
+              {
+                "text": "176,605.07",
+                "left": 2122,
+                "top": 708,
+                "width": 162,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Provisions and contingencies 18 (9) 49,578.21 36,976.49",
+            "words": [
+              {
+                "text": "Provisions",
+                "left": 190,
+                "top": 755,
+                "width": 151,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 352,
+                "top": 755,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "contingencies",
+                "left": 418,
+                "top": 755,
+                "width": 206,
+                "height": 31
+              },
+              {
+                "text": "18",
+                "left": 1619,
+                "top": 755,
+                "width": 32,
+                "height": 25
+              },
+              {
+                "text": "(9)",
+                "left": 1664,
+                "top": 754,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "text": "49,578.21",
+                "left": 1854,
+                "top": 750,
+                "width": 141,
+                "height": 40
+              },
+              {
+                "text": "36,976.49",
+                "left": 2138,
+                "top": 755,
+                "width": 146,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Total 416,243.35 397,475.76",
+            "words": [
+              {
+                "text": "Total",
+                "left": 188,
+                "top": 798,
+                "width": 75,
+                "height": 40
+              },
+              {
+                "text": "416,243.35",
+                "left": 1835,
+                "top": 803,
+                "width": 166,
+                "height": 29
+              },
+              {
+                "text": "397,475.76",
+                "left": 2119,
+                "top": 803,
+                "width": 166,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Ill PROFIT",
+            "words": [
+              {
+                "text": "Ill",
+                "left": 190,
+                "top": 850,
+                "width": 30,
+                "height": 28
+              },
+              {
+                "text": "PROFIT",
+                "left": 235,
+                "top": 850,
+                "width": 136,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Consolidated Net Profit for the year before Minority Interest 79,219.46 73,440.17",
+            "words": [
+              {
+                "text": "Consolidated",
+                "left": 189,
+                "top": 900,
+                "width": 195,
+                "height": 25
+              },
+              {
+                "text": "Net",
+                "left": 398,
+                "top": 901,
+                "width": 49,
+                "height": 24
+              },
+              {
+                "text": "Profit",
+                "left": 460,
+                "top": 900,
+                "width": 76,
+                "height": 25
+              },
+              {
+                "text": "for",
+                "left": 546,
+                "top": 900,
+                "width": 40,
+                "height": 25
+              },
+              {
+                "text": "the",
+                "left": 596,
+                "top": 901,
+                "width": 46,
+                "height": 24
+              },
+              {
+                "text": "year",
+                "left": 652,
+                "top": 907,
+                "width": 63,
+                "height": 25
+              },
+              {
+                "text": "before",
+                "left": 727,
+                "top": 900,
+                "width": 92,
+                "height": 25
+              },
+              {
+                "text": "Minority",
+                "left": 832,
+                "top": 901,
+                "width": 117,
+                "height": 31
+              },
+              {
+                "text": "Interest",
+                "left": 961,
+                "top": 901,
+                "width": 108,
+                "height": 24
+              },
+              {
+                "text": "79,219.46",
+                "left": 1855,
+                "top": 901,
+                "width": 146,
+                "height": 28
+              },
+              {
+                "text": "73,440.17",
+                "left": 2139,
+                "top": 901,
+                "width": 145,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Less : Minority Interest 3,193.49 2,647.92",
+            "words": [
+              {
+                "text": "Less",
+                "left": 190,
+                "top": 948,
+                "width": 67,
+                "height": 25
+              },
+              {
+                "text": ":",
+                "left": 270,
+                "top": 955,
+                "width": 4,
+                "height": 17
+              },
+              {
+                "text": "Minority",
+                "left": 288,
+                "top": 948,
+                "width": 117,
+                "height": 31
+              },
+              {
+                "text": "Interest",
+                "left": 417,
+                "top": 948,
+                "width": 108,
+                "height": 25
+              },
+              {
+                "text": "3,193.49",
+                "left": 1873,
+                "top": 948,
+                "width": 127,
+                "height": 29
+              },
+              {
+                "text": "2,647.92",
+                "left": 2157,
+                "top": 948,
+                "width": 127,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Consolidated Net Profit for the year attributable to the group 76,025.97 70,792.25",
+            "words": [
+              {
+                "text": "Consolidated",
+                "left": 189,
+                "top": 995,
+                "width": 242,
+                "height": 28
+              },
+              {
+                "text": "Net",
+                "left": 446,
+                "top": 996,
+                "width": 61,
+                "height": 27
+              },
+              {
+                "text": "Profit",
+                "left": 520,
+                "top": 996,
+                "width": 98,
+                "height": 27
+              },
+              {
+                "text": "for",
+                "left": 629,
+                "top": 996,
+                "width": 51,
+                "height": 27
+              },
+              {
+                "text": "the",
+                "left": 691,
+                "top": 996,
+                "width": 57,
+                "height": 27
+              },
+              {
+                "text": "year",
+                "left": 760,
+                "top": 1002,
+                "width": 79,
+                "height": 28
+              },
+              {
+                "text": "attributable",
+                "left": 850,
+                "top": 995,
+                "width": 214,
+                "height": 28
+              },
+              {
+                "text": "to",
+                "left": 1076,
+                "top": 997,
+                "width": 35,
+                "height": 26
+              },
+              {
+                "text": "the",
+                "left": 1123,
+                "top": 996,
+                "width": 57,
+                "height": 27
+              },
+              {
+                "text": "group",
+                "left": 1193,
+                "top": 1002,
+                "width": 106,
+                "height": 28
+              },
+              {
+                "text": "76,025.97",
+                "left": 1855,
+                "top": 996,
+                "width": 145,
+                "height": 28
+              },
+              {
+                "text": "70,792.25",
+                "left": 2139,
+                "top": 996,
+                "width": 145,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Brought forward consolidated profit attributable to the group 178,692.55 150,045.57",
+            "words": [
+              {
+                "text": "Brought",
+                "left": 190,
+                "top": 1046,
+                "width": 116,
+                "height": 31
+              },
+              {
+                "text": "forward",
+                "left": 317,
+                "top": 1046,
+                "width": 111,
+                "height": 25
+              },
+              {
+                "text": "consolidated",
+                "left": 441,
+                "top": 1046,
+                "width": 189,
+                "height": 25
+              },
+              {
+                "text": "profit",
+                "left": 643,
+                "top": 1046,
+                "width": 74,
+                "height": 31
+              },
+              {
+                "text": "attributable",
+                "left": 729,
+                "top": 1046,
+                "width": 168,
+                "height": 25
+              },
+              {
+                "text": "to",
+                "left": 907,
+                "top": 1047,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "the",
+                "left": 946,
+                "top": 1046,
+                "width": 46,
+                "height": 25
+              },
+              {
+                "text": "group",
+                "left": 1003,
+                "top": 1052,
+                "width": 85,
+                "height": 25
+              },
+              {
+                "text": "178,692.55",
+                "left": 1837,
+                "top": 1046,
+                "width": 163,
+                "height": 29
+              },
+              {
+                "text": "150,045.57",
+                "left": 2122,
+                "top": 1046,
+                "width": 162,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Total 254,718.52 220,837.82",
+            "words": [
+              {
+                "text": "Total",
+                "left": 188,
+                "top": 1089,
+                "width": 75,
+                "height": 40
+              },
+              {
+                "text": "254,718.52",
+                "left": 1835,
+                "top": 1094,
+                "width": 166,
+                "height": 29
+              },
+              {
+                "text": "220,837.82",
+                "left": 2119,
+                "top": 1094,
+                "width": 166,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "IV APPROPRIATIONS",
+            "words": [
+              {
+                "text": "IV",
+                "left": 190,
+                "top": 1141,
+                "width": 33,
+                "height": 28
+              },
+              {
+                "text": "APPROPRIATIONS",
+                "left": 234,
+                "top": 1141,
+                "width": 339,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Transfer to Statutory Reserve 19,159.57 17,260.30",
+            "words": [
+              {
+                "text": "Transfer",
+                "left": 188,
+                "top": 1191,
+                "width": 119,
+                "height": 25
+              },
+              {
+                "text": "to",
+                "left": 316,
+                "top": 1193,
+                "width": 29,
+                "height": 23
+              },
+              {
+                "text": "Statutory",
+                "left": 357,
+                "top": 1191,
+                "width": 135,
+                "height": 31
+              },
+              {
+                "text": "Reserve",
+                "left": 504,
+                "top": 1192,
+                "width": 118,
+                "height": 24
+              },
+              {
+                "text": "19,159.57",
+                "left": 1856,
+                "top": 1192,
+                "width": 144,
+                "height": 28
+              },
+              {
+                "text": "17,260.30",
+                "left": 2140,
+                "top": 1192,
+                "width": 145,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Interim Dividend paid 3,836.57 -",
+            "words": [
+              {
+                "text": "Interim",
+                "left": 190,
+                "top": 1239,
+                "width": 99,
+                "height": 25
+              },
+              {
+                "text": "Dividend",
+                "left": 302,
+                "top": 1239,
+                "width": 127,
+                "height": 25
+              },
+              {
+                "text": "paid",
+                "left": 442,
+                "top": 1239,
+                "width": 61,
+                "height": 31
+              },
+              {
+                "text": "3,836.57",
+                "left": 1873,
+                "top": 1239,
+                "width": 127,
+                "height": 29
+              },
+              {
+                "text": "-",
+                "left": 2274,
+                "top": 1252,
+                "width": 11,
+                "height": 4
+              }
+            ]
+          },
+          {
+            "text": "Transfer to General Reserve 7,467.13 6,734.74",
+            "words": [
+              {
+                "text": "Transfer",
+                "left": 188,
+                "top": 1286,
+                "width": 119,
+                "height": 25
+              },
+              {
+                "text": "to",
+                "left": 316,
+                "top": 1288,
+                "width": 29,
+                "height": 23
+              },
+              {
+                "text": "General",
+                "left": 357,
+                "top": 1286,
+                "width": 113,
+                "height": 25
+              },
+              {
+                "text": "Reserve",
+                "left": 483,
+                "top": 1287,
+                "width": 119,
+                "height": 24
+              },
+              {
+                "text": "7,467.13",
+                "left": 1873,
+                "top": 1287,
+                "width": 127,
+                "height": 28
+              },
+              {
+                "text": "6,734.74",
+                "left": 2157,
+                "top": 1287,
+                "width": 128,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Transfer to Special Reserve 3,000.00 3,200.00",
+            "words": [
+              {
+                "text": "Transfer",
+                "left": 188,
+                "top": 1334,
+                "width": 119,
+                "height": 25
+              },
+              {
+                "text": "to",
+                "left": 316,
+                "top": 1335,
+                "width": 29,
+                "height": 24
+              },
+              {
+                "text": "Special",
+                "left": 357,
+                "top": 1333,
+                "width": 107,
+                "height": 32
+              },
+              {
+                "text": "Reserve",
+                "left": 477,
+                "top": 1334,
+                "width": 118,
+                "height": 25
+              },
+              {
+                "text": "3,000.00",
+                "left": 1873,
+                "top": 1334,
+                "width": 128,
+                "height": 29
+              },
+              {
+                "text": "3,200.00",
+                "left": 2157,
+                "top": 1334,
+                "width": 128,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Transfer to Capital Reserve 8,320.40 507.00",
+            "words": [
+              {
+                "text": "Transfer",
+                "left": 188,
+                "top": 1381,
+                "width": 119,
+                "height": 25
+              },
+              {
+                "text": "to",
+                "left": 316,
+                "top": 1383,
+                "width": 29,
+                "height": 23
+              },
+              {
+                "text": "Capital",
+                "left": 357,
+                "top": 1381,
+                "width": 102,
+                "height": 31
+              },
+              {
+                "text": "Reserve",
+                "left": 472,
+                "top": 1381,
+                "width": 118,
+                "height": 25
+              },
+              {
+                "text": "8,320.40",
+                "left": 1873,
+                "top": 1382,
+                "width": 128,
+                "height": 28
+              },
+              {
+                "text": "507.00",
+                "left": 2185,
+                "top": 1382,
+                "width": 100,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Dividend pertaining to previous year paid during the year 16,869.41 14,826.19",
+            "words": [
+              {
+                "text": "Dividend",
+                "left": 190,
+                "top": 1429,
+                "width": 127,
+                "height": 24
+              },
+              {
+                "text": "pertaining",
+                "left": 331,
+                "top": 1429,
+                "width": 144,
+                "height": 31
+              },
+              {
+                "text": "to",
+                "left": 486,
+                "top": 1431,
+                "width": 29,
+                "height": 22
+              },
+              {
+                "text": "previous",
+                "left": 527,
+                "top": 1429,
+                "width": 124,
+                "height": 31
+              },
+              {
+                "text": "year",
+                "left": 662,
+                "top": 1435,
+                "width": 63,
+                "height": 25
+              },
+              {
+                "text": "paid",
+                "left": 736,
+                "top": 1429,
+                "width": 61,
+                "height": 31
+              },
+              {
+                "text": "during",
+                "left": 809,
+                "top": 1429,
+                "width": 92,
+                "height": 31
+              },
+              {
+                "text": "the",
+                "left": 913,
+                "top": 1429,
+                "width": 46,
+                "height": 24
+              },
+              {
+                "text": "year",
+                "left": 969,
+                "top": 1435,
+                "width": 64,
+                "height": 25
+              },
+              {
+                "text": "16,869.41",
+                "left": 1856,
+                "top": 1429,
+                "width": 139,
+                "height": 29
+              },
+              {
+                "text": "14,826.19",
+                "left": 2140,
+                "top": 1429,
+                "width": 144,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Transfer to / (from) Minority Interest 476.12 (382.96)",
+            "words": [
+              {
+                "text": "Transfer",
+                "left": 188,
+                "top": 1476,
+                "width": 119,
+                "height": 25
+              },
+              {
+                "text": "to",
+                "left": 316,
+                "top": 1478,
+                "width": 29,
+                "height": 23
+              },
+              {
+                "text": "/",
+                "left": 355,
+                "top": 1476,
+                "width": 12,
+                "height": 25
+              },
+              {
+                "text": "(from)",
+                "left": 377,
+                "top": 1476,
+                "width": 83,
+                "height": 31
+              },
+              {
+                "text": "Minority",
+                "left": 473,
+                "top": 1477,
+                "width": 117,
+                "height": 30
+              },
+              {
+                "text": "Interest",
+                "left": 602,
+                "top": 1477,
+                "width": 108,
+                "height": 24
+              },
+              {
+                "text": "476.12",
+                "left": 1901,
+                "top": 1477,
+                "width": 99,
+                "height": 24
+              },
+              {
+                "text": "(382.96)",
+                "left": 2176,
+                "top": 1476,
+                "width": 117,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Transfer to Other Reserves 1.85 -",
+            "words": [
+              {
+                "text": "Transfer",
+                "left": 188,
+                "top": 1524,
+                "width": 119,
+                "height": 24
+              },
+              {
+                "text": "to",
+                "left": 316,
+                "top": 1526,
+                "width": 29,
+                "height": 22
+              },
+              {
+                "text": "Other",
+                "left": 357,
+                "top": 1524,
+                "width": 82,
+                "height": 25
+              },
+              {
+                "text": "Reserves",
+                "left": 451,
+                "top": 1524,
+                "width": 134,
+                "height": 25
+              },
+              {
+                "text": "1.85",
+                "left": 1940,
+                "top": 1524,
+                "width": 60,
+                "height": 25
+              },
+              {
+                "text": "-",
+                "left": 2274,
+                "top": 1537,
+                "width": 11,
+                "height": 4
+              }
+            ]
+          },
+          {
+            "text": "Balance carried over to consolidated balance sheet 195,587.47 178,692.55",
+            "words": [
+              {
+                "text": "Balance",
+                "left": 190,
+                "top": 1571,
+                "width": 118,
+                "height": 25
+              },
+              {
+                "text": "carried",
+                "left": 319,
+                "top": 1572,
+                "width": 100,
+                "height": 24
+              },
+              {
+                "text": "over",
+                "left": 431,
+                "top": 1578,
+                "width": 65,
+                "height": 18
+              },
+              {
+                "text": "to",
+                "left": 505,
+                "top": 1573,
+                "width": 28,
+                "height": 23
+              },
+              {
+                "text": "consolidated",
+                "left": 544,
+                "top": 1571,
+                "width": 190,
+                "height": 25
+              },
+              {
+                "text": "balance",
+                "left": 747,
+                "top": 1571,
+                "width": 115,
+                "height": 25
+              },
+              {
+                "text": "sheet",
+                "left": 873,
+                "top": 1572,
+                "width": 80,
+                "height": 24
+              },
+              {
+                "text": "195,587.47",
+                "left": 1837,
+                "top": 1572,
+                "width": 163,
+                "height": 28
+              },
+              {
+                "text": "178,692.55",
+                "left": 2122,
+                "top": 1572,
+                "width": 162,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Total 254,718.52 220,837.82",
+            "words": [
+              {
+                "text": "Total",
+                "left": 188,
+                "top": 1615,
+                "width": 75,
+                "height": 39
+              },
+              {
+                "text": "254,718.52",
+                "left": 1835,
+                "top": 1619,
+                "width": 166,
+                "height": 29
+              },
+              {
+                "text": "220,837.82",
+                "left": 2119,
+                "top": 1619,
+                "width": 166,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "V EARNINGS PER EQUITY SHARE (Face value = 1/ - per share) 18 (18) zg z",
+            "words": [
+              {
+                "text": "V",
+                "left": 188,
+                "top": 1669,
+                "width": 24,
+                "height": 28
+              },
+              {
+                "text": "EARNINGS",
+                "left": 224,
+                "top": 1669,
+                "width": 199,
+                "height": 28
+              },
+              {
+                "text": "PER",
+                "left": 437,
+                "top": 1669,
+                "width": 73,
+                "height": 28
+              },
+              {
+                "text": "EQUITY",
+                "left": 524,
+                "top": 1669,
+                "width": 142,
+                "height": 30
+              },
+              {
+                "text": "SHARE",
+                "left": 677,
+                "top": 1669,
+                "width": 131,
+                "height": 28
+              },
+              {
+                "text": "(Face",
+                "left": 821,
+                "top": 1669,
+                "width": 97,
+                "height": 34
+              },
+              {
+                "text": "value",
+                "left": 929,
+                "top": 1669,
+                "width": 96,
+                "height": 28
+              },
+              {
+                "text": "=",
+                "left": 1038,
+                "top": 1671,
+                "width": 19,
+                "height": 26
+              },
+              {
+                "text": "1/",
+                "left": 1071,
+                "top": 1669,
+                "width": 31,
+                "height": 28
+              },
+              {
+                "text": "-",
+                "left": 1114,
+                "top": 1683,
+                "width": 12,
+                "height": 6
+              },
+              {
+                "text": "per",
+                "left": 1140,
+                "top": 1676,
+                "width": 58,
+                "height": 27
+              },
+              {
+                "text": "share)",
+                "left": 1210,
+                "top": 1669,
+                "width": 112,
+                "height": 34
+              },
+              {
+                "text": "18",
+                "left": 1609,
+                "top": 1667,
+                "width": 33,
+                "height": 24
+              },
+              {
+                "text": "(18)",
+                "left": 1654,
+                "top": 1666,
+                "width": 52,
+                "height": 31
+              },
+              {
+                "text": "zg",
+                "left": 1982,
+                "top": 1661,
+                "width": 20,
+                "height": 44
+              },
+              {
+                "text": "z",
+                "left": 2270,
+                "top": 1669,
+                "width": 16,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": "Basic 49.50 46.41",
+            "words": [
+              {
+                "text": "Basic",
+                "left": 190,
+                "top": 1716,
+                "width": 80,
+                "height": 39
+              },
+              {
+                "text": "49.50",
+                "left": 1919,
+                "top": 1720,
+                "width": 82,
+                "height": 24
+              },
+              {
+                "text": "46.41",
+                "left": 2203,
+                "top": 1720,
+                "width": 76,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Diluted 49.28 46.20",
+            "words": [
+              {
+                "text": "Diluted",
+                "left": 190,
+                "top": 1763,
+                "width": 101,
+                "height": 39
+              },
+              {
+                "text": "49.28",
+                "left": 1919,
+                "top": 1768,
+                "width": 82,
+                "height": 24
+              },
+              {
+                "text": "46.20",
+                "left": 2203,
+                "top": 1768,
+                "width": 82,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Significant accounting policies and notes to the Consolidated Financial Statements 17&18",
+            "words": [
+              {
+                "text": "Significant",
+                "left": 189,
+                "top": 1814,
+                "width": 154,
+                "height": 32
+              },
+              {
+                "text": "accounting",
+                "left": 355,
+                "top": 1815,
+                "width": 163,
+                "height": 31
+              },
+              {
+                "text": "policies",
+                "left": 531,
+                "top": 1815,
+                "width": 110,
+                "height": 30
+              },
+              {
+                "text": "and",
+                "left": 653,
+                "top": 1815,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "notes",
+                "left": 719,
+                "top": 1816,
+                "width": 80,
+                "height": 23
+              },
+              {
+                "text": "to",
+                "left": 810,
+                "top": 1816,
+                "width": 28,
+                "height": 23
+              },
+              {
+                "text": "the",
+                "left": 849,
+                "top": 1815,
+                "width": 46,
+                "height": 24
+              },
+              {
+                "text": "Consolidated",
+                "left": 906,
+                "top": 1814,
+                "width": 195,
+                "height": 25
+              },
+              {
+                "text": "Financial",
+                "left": 1115,
+                "top": 1815,
+                "width": 128,
+                "height": 24
+              },
+              {
+                "text": "Statements",
+                "left": 1255,
+                "top": 1814,
+                "width": 169,
+                "height": 25
+              },
+              {
+                "text": "17&18",
+                "left": 1603,
+                "top": 1815,
+                "width": 109,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "The schedules referred to above form an integral part of the Consolidated Profit and Loss",
+            "words": [
+              {
+                "text": "The",
+                "left": 188,
+                "top": 1855,
+                "width": 55,
+                "height": 24
+              },
+              {
+                "text": "schedules",
+                "left": 254,
+                "top": 1855,
+                "width": 149,
+                "height": 24
+              },
+              {
+                "text": "referred",
+                "left": 416,
+                "top": 1855,
+                "width": 111,
+                "height": 24
+              },
+              {
+                "text": "to",
+                "left": 539,
+                "top": 1856,
+                "width": 28,
+                "height": 23
+              },
+              {
+                "text": "above",
+                "left": 579,
+                "top": 1855,
+                "width": 89,
+                "height": 24
+              },
+              {
+                "text": "form",
+                "left": 679,
+                "top": 1855,
+                "width": 66,
+                "height": 24
+              },
+              {
+                "text": "an",
+                "left": 757,
+                "top": 1861,
+                "width": 34,
+                "height": 18
+              },
+              {
+                "text": "integral",
+                "left": 804,
+                "top": 1855,
+                "width": 107,
+                "height": 31
+              },
+              {
+                "text": "part",
+                "left": 924,
+                "top": 1856,
+                "width": 56,
+                "height": 29
+              },
+              {
+                "text": "of",
+                "left": 991,
+                "top": 1855,
+                "width": 29,
+                "height": 24
+              },
+              {
+                "text": "the",
+                "left": 1029,
+                "top": 1855,
+                "width": 46,
+                "height": 24
+              },
+              {
+                "text": "Consolidated",
+                "left": 1086,
+                "top": 1854,
+                "width": 195,
+                "height": 25
+              },
+              {
+                "text": "Profit",
+                "left": 1295,
+                "top": 1855,
+                "width": 76,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 1382,
+                "top": 1855,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "Loss",
+                "left": 1449,
+                "top": 1855,
+                "width": 68,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Account.",
+            "words": [
+              {
+                "text": "Account.",
+                "left": 188,
+                "top": 1895,
+                "width": 131,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": "As per our report of even date. For and on behalf of the Board",
+            "words": [
+              {
+                "text": "As",
+                "left": 179,
+                "top": 1993,
+                "width": 34,
+                "height": 22
+              },
+              {
+                "text": "per",
+                "left": 224,
+                "top": 1998,
+                "width": 42,
+                "height": 22
+              },
+              {
+                "text": "our",
+                "left": 275,
+                "top": 1998,
+                "width": 43,
+                "height": 17
+              },
+              {
+                "text": "report",
+                "left": 328,
+                "top": 1994,
+                "width": 79,
+                "height": 26
+              },
+              {
+                "text": "of",
+                "left": 417,
+                "top": 1993,
+                "width": 25,
+                "height": 22
+              },
+              {
+                "text": "even",
+                "left": 451,
+                "top": 1998,
+                "width": 61,
+                "height": 17
+              },
+              {
+                "text": "date.",
+                "left": 522,
+                "top": 1993,
+                "width": 64,
+                "height": 22
+              },
+              {
+                "text": "For",
+                "left": 1208,
+                "top": 1993,
+                "width": 42,
+                "height": 22
+              },
+              {
+                "text": "and",
+                "left": 1259,
+                "top": 1993,
+                "width": 48,
+                "height": 22
+              },
+              {
+                "text": "on",
+                "left": 1317,
+                "top": 1998,
+                "width": 31,
+                "height": 17
+              },
+              {
+                "text": "behalf",
+                "left": 1360,
+                "top": 1993,
+                "width": 81,
+                "height": 22
+              },
+              {
+                "text": "of",
+                "left": 1450,
+                "top": 1993,
+                "width": 25,
+                "height": 22
+              },
+              {
+                "text": "the",
+                "left": 1483,
+                "top": 1993,
+                "width": 42,
+                "height": 22
+              },
+              {
+                "text": "Board",
+                "left": 1535,
+                "top": 1993,
+                "width": 78,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "For Batliboi & Purohit ForBSR &Co. LLP Keki Mistry Sandeep Parekh",
+            "words": [
+              {
+                "text": "For",
+                "left": 181,
+                "top": 2051,
+                "width": 46,
+                "height": 21
+              },
+              {
+                "text": "Batliboi",
+                "left": 237,
+                "top": 2051,
+                "width": 108,
+                "height": 21
+              },
+              {
+                "text": "&",
+                "left": 356,
+                "top": 2051,
+                "width": 19,
+                "height": 21
+              },
+              {
+                "text": "Purohit",
+                "left": 385,
+                "top": 2051,
+                "width": 104,
+                "height": 21
+              },
+              {
+                "text": "ForBSR",
+                "left": 692,
+                "top": 2050,
+                "width": 129,
+                "height": 22
+              },
+              {
+                "text": "&Co.",
+                "left": 832,
+                "top": 2050,
+                "width": 74,
+                "height": 22
+              },
+              {
+                "text": "LLP",
+                "left": 917,
+                "top": 2051,
+                "width": 52,
+                "height": 21
+              },
+              {
+                "text": "Keki",
+                "left": 1208,
+                "top": 2051,
+                "width": 60,
+                "height": 21
+              },
+              {
+                "text": "Mistry",
+                "left": 1280,
+                "top": 2051,
+                "width": 90,
+                "height": 26
+              },
+              {
+                "text": "Sandeep",
+                "left": 1736,
+                "top": 2050,
+                "width": 126,
+                "height": 27
+              },
+              {
+                "text": "Parekh",
+                "left": 1873,
+                "top": 2051,
+                "width": 98,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Chartered Accountants Chartered Accountants Interim Part-Time Chairman Independent Director",
+            "words": [
+              {
+                "text": "Chartered",
+                "left": 181,
+                "top": 2092,
+                "width": 132,
+                "height": 22
+              },
+              {
+                "text": "Accountants",
+                "left": 323,
+                "top": 2093,
+                "width": 169,
+                "height": 21
+              },
+              {
+                "text": "Chartered",
+                "left": 691,
+                "top": 2092,
+                "width": 133,
+                "height": 22
+              },
+              {
+                "text": "Accountants",
+                "left": 833,
+                "top": 2093,
+                "width": 170,
+                "height": 21
+              },
+              {
+                "text": "Interim",
+                "left": 1208,
+                "top": 2086,
+                "width": 89,
+                "height": 21
+              },
+              {
+                "text": "Part-Time",
+                "left": 1309,
+                "top": 2086,
+                "width": 128,
+                "height": 21
+              },
+              {
+                "text": "Chairman",
+                "left": 1447,
+                "top": 2086,
+                "width": 127,
+                "height": 21
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2086,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1916,
+                "top": 2086,
+                "width": 105,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "ICAI Firm Registration No.: ICAI Firm Registration No.: & Non-Executive",
+            "words": [
+              {
+                "text": "ICAI",
+                "left": 182,
+                "top": 2134,
+                "width": 52,
+                "height": 22
+              },
+              {
+                "text": "Firm",
+                "left": 246,
+                "top": 2134,
+                "width": 56,
+                "height": 21
+              },
+              {
+                "text": "Registration",
+                "left": 313,
+                "top": 2134,
+                "width": 159,
+                "height": 27
+              },
+              {
+                "text": "No.:",
+                "left": 484,
+                "top": 2134,
+                "width": 50,
+                "height": 22
+              },
+              {
+                "text": "ICAI",
+                "left": 692,
+                "top": 2134,
+                "width": 52,
+                "height": 22
+              },
+              {
+                "text": "Firm",
+                "left": 756,
+                "top": 2134,
+                "width": 56,
+                "height": 21
+              },
+              {
+                "text": "Registration",
+                "left": 824,
+                "top": 2134,
+                "width": 159,
+                "height": 27
+              },
+              {
+                "text": "No.:",
+                "left": 995,
+                "top": 2134,
+                "width": 50,
+                "height": 22
+              },
+              {
+                "text": "&",
+                "left": 1207,
+                "top": 2121,
+                "width": 17,
+                "height": 21
+              },
+              {
+                "text": "Non-Executive",
+                "left": 1235,
+                "top": 2121,
+                "width": 195,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "(Non-Independent) Director",
+            "words": [
+              {
+                "text": "(Non-Independent)",
+                "left": 1207,
+                "top": 2156,
+                "width": 251,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1470,
+                "top": 2156,
+                "width": 106,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "101048W 101248W/W-100022",
+            "words": [
+              {
+                "text": "101048W",
+                "left": 182,
+                "top": 2176,
+                "width": 121,
+                "height": 21
+              },
+              {
+                "text": "101248W/W-100022",
+                "left": 692,
+                "top": 2176,
+                "width": 266,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "M. D. Ranganath Sunita Maheshwari",
+            "words": [
+              {
+                "text": "M.",
+                "left": 1208,
+                "top": 2229,
+                "width": 32,
+                "height": 21
+              },
+              {
+                "text": "D.",
+                "left": 1252,
+                "top": 2229,
+                "width": 26,
+                "height": 21
+              },
+              {
+                "text": "Ranganath",
+                "left": 1289,
+                "top": 2229,
+                "width": 155,
+                "height": 27
+              },
+              {
+                "text": "Sunita",
+                "left": 1736,
+                "top": 2229,
+                "width": 91,
+                "height": 22
+              },
+              {
+                "text": "Maheshwari",
+                "left": 1838,
+                "top": 2229,
+                "width": 173,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Independent Director Independent Director",
+            "words": [
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2264,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1387,
+                "top": 2264,
+                "width": 105,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2264,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1916,
+                "top": 2264,
+                "width": 105,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Janak Mehta Sudhir Soni Lily Vadera Renu Karnad",
+            "words": [
+              {
+                "text": "Janak",
+                "left": 180,
+                "top": 2327,
+                "width": 83,
+                "height": 22
+              },
+              {
+                "text": "Mehta",
+                "left": 273,
+                "top": 2327,
+                "width": 85,
+                "height": 22
+              },
+              {
+                "text": "Sudhir",
+                "left": 691,
+                "top": 2327,
+                "width": 94,
+                "height": 22
+              },
+              {
+                "text": "Soni",
+                "left": 794,
+                "top": 2327,
+                "width": 61,
+                "height": 22
+              },
+              {
+                "text": "Lily",
+                "left": 1208,
+                "top": 2327,
+                "width": 48,
+                "height": 27
+              },
+              {
+                "text": "Vadera",
+                "left": 1264,
+                "top": 2327,
+                "width": 100,
+                "height": 22
+              },
+              {
+                "text": "Renu",
+                "left": 1737,
+                "top": 2327,
+                "width": 72,
+                "height": 22
+              },
+              {
+                "text": "Karnad",
+                "left": 1820,
+                "top": 2327,
+                "width": 102,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Partner Partner Independent Director Non-Executive (Non-",
+            "words": [
+              {
+                "text": "Partner",
+                "left": 182,
+                "top": 2368,
+                "width": 93,
+                "height": 22
+              },
+              {
+                "text": "Partner",
+                "left": 692,
+                "top": 2368,
+                "width": 97,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2362,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1387,
+                "top": 2362,
+                "width": 105,
+                "height": 22
+              },
+              {
+                "text": "Non-Executive",
+                "left": 1737,
+                "top": 2362,
+                "width": 196,
+                "height": 22
+              },
+              {
+                "text": "(Non-",
+                "left": 1951,
+                "top": 2362,
+                "width": 73,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Membership No.: 116976 Membership No.: 041870 Independent Director)",
+            "words": [
+              {
+                "text": "Membership",
+                "left": 182,
+                "top": 2409,
+                "width": 165,
+                "height": 27
+              },
+              {
+                "text": "No.:",
+                "left": 359,
+                "top": 2409,
+                "width": 49,
+                "height": 22
+              },
+              {
+                "text": "116976",
+                "left": 421,
+                "top": 2410,
+                "width": 91,
+                "height": 21
+              },
+              {
+                "text": "Membership",
+                "left": 692,
+                "top": 2409,
+                "width": 166,
+                "height": 27
+              },
+              {
+                "text": "No.:",
+                "left": 869,
+                "top": 2409,
+                "width": 50,
+                "height": 22
+              },
+              {
+                "text": "041870",
+                "left": 931,
+                "top": 2410,
+                "width": 93,
+                "height": 21
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2397,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director)",
+                "left": 1916,
+                "top": 2397,
+                "width": 112,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Harsh Kumar Bhanwala Santhosh Keshavan",
+            "words": [
+              {
+                "text": "Harsh",
+                "left": 1208,
+                "top": 2467,
+                "width": 83,
+                "height": 21
+              },
+              {
+                "text": "Kumar",
+                "left": 1302,
+                "top": 2467,
+                "width": 94,
+                "height": 21
+              },
+              {
+                "text": "Bhanwala",
+                "left": 1407,
+                "top": 2467,
+                "width": 138,
+                "height": 22
+              },
+              {
+                "text": "Santhosh",
+                "left": 1736,
+                "top": 2467,
+                "width": 135,
+                "height": 21
+              },
+              {
+                "text": "Keshavan",
+                "left": 1883,
+                "top": 2467,
+                "width": 137,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Independent Director Independent Director",
+            "words": [
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2502,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1387,
+                "top": 2502,
+                "width": 105,
+                "height": 21
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2502,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1916,
+                "top": 2502,
+                "width": 105,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Sashidhar Jagdishan Kaizad Bharucha",
+            "words": [
+              {
+                "text": "Sashidhar",
+                "left": 1207,
+                "top": 2581,
+                "width": 146,
+                "height": 22
+              },
+              {
+                "text": "Jagdishan",
+                "left": 1361,
+                "top": 2581,
+                "width": 148,
+                "height": 27
+              },
+              {
+                "text": "Kaizad",
+                "left": 1737,
+                "top": 2581,
+                "width": 96,
+                "height": 22
+              },
+              {
+                "text": "Bharucha",
+                "left": 1845,
+                "top": 2581,
+                "width": 136,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Managing Director & Chief Deputy Managing Director",
+            "words": [
+              {
+                "text": "Managing",
+                "left": 1208,
+                "top": 2616,
+                "width": 129,
+                "height": 28
+              },
+              {
+                "text": "Director",
+                "left": 1349,
+                "top": 2616,
+                "width": 106,
+                "height": 22
+              },
+              {
+                "text": "&",
+                "left": 1464,
+                "top": 2616,
+                "width": 17,
+                "height": 22
+              },
+              {
+                "text": "Chief",
+                "left": 1490,
+                "top": 2616,
+                "width": 70,
+                "height": 22
+              },
+              {
+                "text": "Deputy",
+                "left": 1737,
+                "top": 2616,
+                "width": 95,
+                "height": 28
+              },
+              {
+                "text": "Managing",
+                "left": 1843,
+                "top": 2616,
+                "width": 128,
+                "height": 28
+              },
+              {
+                "text": "Director",
+                "left": 1984,
+                "top": 2616,
+                "width": 105,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Executive Officer",
+            "words": [
+              {
+                "text": "Executive",
+                "left": 1208,
+                "top": 2651,
+                "width": 128,
+                "height": 22
+              },
+              {
+                "text": "Officer",
+                "left": 1345,
+                "top": 2651,
+                "width": 90,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Bhavesh Zaveri V. Srinivasa Rangan",
+            "words": [
+              {
+                "text": "Bhavesh",
+                "left": 1208,
+                "top": 2730,
+                "width": 120,
+                "height": 21
+              },
+              {
+                "text": "Zaveri",
+                "left": 1339,
+                "top": 2730,
+                "width": 87,
+                "height": 21
+              },
+              {
+                "text": "V.",
+                "left": 1735,
+                "top": 2730,
+                "width": 25,
+                "height": 20
+              },
+              {
+                "text": "Srinivasa",
+                "left": 1770,
+                "top": 2729,
+                "width": 131,
+                "height": 22
+              },
+              {
+                "text": "Rangan",
+                "left": 1913,
+                "top": 2730,
+                "width": 108,
+                "height": 26
+              }
+            ]
+          },
+          {
+            "text": "Executive Director Executive Director",
+            "words": [
+              {
+                "text": "Executive",
+                "left": 1208,
+                "top": 2765,
+                "width": 128,
+                "height": 21
+              },
+              {
+                "text": "Director",
+                "left": 1347,
+                "top": 2765,
+                "width": 105,
+                "height": 21
+              },
+              {
+                "text": "Executive",
+                "left": 1737,
+                "top": 2765,
+                "width": 128,
+                "height": 21
+              },
+              {
+                "text": "Director",
+                "left": 1876,
+                "top": 2765,
+                "width": 105,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Mumbai, April 18, 2026 Srinivasan Vaidyanathan Ajay Agarwal",
+            "words": [
+              {
+                "text": "Mumbai,",
+                "left": 182,
+                "top": 2852,
+                "width": 112,
+                "height": 25
+              },
+              {
+                "text": "April",
+                "left": 305,
+                "top": 2852,
+                "width": 59,
+                "height": 27
+              },
+              {
+                "text": "18,",
+                "left": 377,
+                "top": 2852,
+                "width": 35,
+                "height": 25
+              },
+              {
+                "text": "2026",
+                "left": 423,
+                "top": 2852,
+                "width": 64,
+                "height": 21
+              },
+              {
+                "text": "Srinivasan",
+                "left": 1207,
+                "top": 2852,
+                "width": 149,
+                "height": 22
+              },
+              {
+                "text": "Vaidyanathan",
+                "left": 1366,
+                "top": 2852,
+                "width": 195,
+                "height": 27
+              },
+              {
+                "text": "Ajay",
+                "left": 1735,
+                "top": 2852,
+                "width": 62,
+                "height": 27
+              },
+              {
+                "text": "Agarwal",
+                "left": 1806,
+                "top": 2852,
+                "width": 117,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Chief Financial Officer Company Secretary",
+            "words": [
+              {
+                "text": "Chief",
+                "left": 1207,
+                "top": 2887,
+                "width": 69,
+                "height": 22
+              },
+              {
+                "text": "Financial",
+                "left": 1286,
+                "top": 2887,
+                "width": 117,
+                "height": 22
+              },
+              {
+                "text": "Officer",
+                "left": 1413,
+                "top": 2887,
+                "width": 91,
+                "height": 22
+              },
+              {
+                "text": "Company",
+                "left": 1736,
+                "top": 2887,
+                "width": 129,
+                "height": 27
+              },
+              {
+                "text": "Secretary",
+                "left": 1874,
+                "top": 2887,
+                "width": 129,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "477",
+            "words": [
+              {
+                "text": "477",
+                "left": 2220,
+                "top": 2919,
+                "width": 79,
+                "height": 36
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "llm_model": "gemini-2.5-flash"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "source": "New Dataset/Balance Sheet/Consolidated Balance Sheet 2017.pdf",
+  "http_status": 503,
+  "response": {
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  }
+}

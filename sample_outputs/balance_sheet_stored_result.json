@@ -1,0 +1,3280 @@
+{
+  "document_name": "Consolidated Balance Sheet 2026.pdf",
+  "document_type": "balance_sheet",
+  "processing_status": "PASS",
+  "file_validation": {
+    "file_type": "application/pdf",
+    "is_supported": true,
+    "is_readable": true,
+    "page_count": 1,
+    "status": "PASS"
+  },
+  "extracted_data": {
+    "fields": {
+      "as_at_date": {
+        "value": "March 31, 2026",
+        "source_text": "As at March 31, 2026",
+        "page_number": 1
+      },
+      "currency_and_unit": {
+        "value": "(= in crore)",
+        "source_text": "(= in crore)",
+        "page_number": 1
+      },
+      "document_title": {
+        "value": "CONSOLIDATED BALANCE SHEET",
+        "source_text": "CONSOLIDATED BALANCE SHEET",
+        "page_number": 1
+      }
+    },
+    "tables": [
+      {
+        "title": "Statement rows - page 1",
+        "columns": [
+          "label",
+          "section",
+          "schedule",
+          "section_schedule",
+          "2026",
+          "2025"
+        ],
+        "rows": [
+          {
+            "label": {
+              "value": "Capital",
+              "source_text": "Capital 1 1,539.34 765.22",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "1",
+              "source_text": "Capital 1 1,539.34 765.22",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "1,539.34",
+              "source_text": "Capital 1 1,539.34 765.22",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "765.22",
+              "source_text": "Capital 1 1,539.34 765.22",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Employees stock options / units outstanding",
+              "source_text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "18 (4)",
+              "source_text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "4,545.11",
+              "source_text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "3,805.19",
+              "source_text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Reserves and surplus",
+              "source_text": "Reserves and surplus 2 579,975.02 517,218.98",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "2",
+              "source_text": "Reserves and surplus 2 579,975.02 517,218.98",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "579,975.02",
+              "source_text": "Reserves and surplus 2 579,975.02 517,218.98",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "517,218.98",
+              "source_text": "Reserves and surplus 2 579,975.02 517,218.98",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Minority interest",
+              "source_text": "Minority interest 2A 22,384.96 16,359.04",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "2A",
+              "source_text": "Minority interest 2A 22,384.96 16,359.04",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "22,384.96",
+              "source_text": "Minority interest 2A 22,384.96 16,359.04",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "16,359.04",
+              "source_text": "Minority interest 2A 22,384.96 16,359.04",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Deposits",
+              "source_text": "Deposits 3 3,099,638.29 2,710,898.23",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "3",
+              "source_text": "Deposits 3 3,099,638.29 2,710,898.23",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,099,638.29",
+              "source_text": "Deposits 3 3,099,638.29 2,710,898.23",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "2,710,898.23",
+              "source_text": "Deposits 3 3,099,638.29 2,710,898.23",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Borrowings",
+              "source_text": "Borrowings 4 588,484.55 634,605.57",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "4",
+              "source_text": "Borrowings 4 588,484.55 634,605.57",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "588,484.55",
+              "source_text": "Borrowings 4 588,484.55 634,605.57",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "634,605.57",
+              "source_text": "Borrowings 4 588,484.55 634,605.57",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Other liabilities and provisions",
+              "source_text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "5",
+              "source_text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "252,977.53",
+              "source_text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "188,163.66",
+              "source_text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Policyholders' funds",
+              "source_text": "Policyholders' funds 358,496.04 320,601.53",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Policyholders' funds 358,496.04 320,601.53",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "358,496.04",
+              "source_text": "Policyholders' funds 358,496.04 320,601.53",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "320,601.53",
+              "source_text": "Policyholders' funds 358,496.04 320,601.53",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Total",
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            },
+            "section": {
+              "value": "CAPITAL AND LIABILITIES",
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "CAPITAL AND LIABILITIES",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "4,908,040.84",
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "4,392,417.42",
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Cash and balances with Reserve Bank of India",
+              "source_text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "6",
+              "source_text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "200,707.11",
+              "source_text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "144,390.25",
+              "source_text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Balances with banks and money at call and short notice",
+              "source_text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "7",
+              "source_text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "111,218.94",
+              "source_text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "105,557.65",
+              "source_text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Investments",
+              "source_text": "Investments 8 1,280,216.29 1,186,472.89",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "8",
+              "source_text": "Investments 8 1,280,216.29 1,186,472.89",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "1,280,216.29",
+              "source_text": "Investments 8 1,280,216.29 1,186,472.89",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "1,186,472.89",
+              "source_text": "Investments 8 1,280,216.29 1,186,472.89",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Advances",
+              "source_text": "Advances 9 3,050,783.23 2,724,938.16",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "9",
+              "source_text": "Advances 9 3,050,783.23 2,724,938.16",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,050,783.23",
+              "source_text": "Advances 9 3,050,783.23 2,724,938.16",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "2,724,938.16",
+              "source_text": "Advances 9 3,050,783.23 2,724,938.16",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Fixed assets",
+              "source_text": "Fixed assets 10 16,491.59 15,257.94",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "10",
+              "source_text": "Fixed assets 10 16,491.59 15,257.94",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "16,491.59",
+              "source_text": "Fixed assets 10 16,491.59 15,257.94",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "15,257.94",
+              "source_text": "Fixed assets 10 16,491.59 15,257.94",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Other assets",
+              "source_text": "Other assets 11 248,623.68 215,800.53",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "11",
+              "source_text": "Other assets 11 248,623.68 215,800.53",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "248,623.68",
+              "source_text": "Other assets 11 248,623.68 215,800.53",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "215,800.53",
+              "source_text": "Other assets 11 248,623.68 215,800.53",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Total",
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "4,908,040.84",
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "4,392,417.42",
+              "source_text": "Total 4,908,040.84 4,392,417.42",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Contingent liabilities",
+              "source_text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "12",
+              "source_text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,479,487.31",
+              "source_text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "2,709,921.85",
+              "source_text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Bills for collection",
+              "source_text": "Bills for collection 82,470.05 70,679.55",
+              "page_number": 1
+            },
+            "section": {
+              "value": "ASSETS",
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Bills for collection 82,470.05 70,679.55",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "ASSETS",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "82,470.05",
+              "source_text": "Bills for collection 82,470.05 70,679.55",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "70,679.55",
+              "source_text": "Bills for collection 82,470.05 70,679.55",
+              "page_number": 1
+            }
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "label": "As at March 31, 2026",
+        "fields": {
+          "capital": {
+            "value": "1,539.34",
+            "source_text": "Capital 1 1,539.34 765.22",
+            "page_number": 1
+          },
+          "employees_stock_options_units_outstanding": {
+            "value": "4,545.11",
+            "source_text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+            "page_number": 1
+          },
+          "reserves_and_surplus": {
+            "value": "579,975.02",
+            "source_text": "Reserves and surplus 2 579,975.02 517,218.98",
+            "page_number": 1
+          },
+          "minority_interest": {
+            "value": "22,384.96",
+            "source_text": "Minority interest 2A 22,384.96 16,359.04",
+            "page_number": 1
+          },
+          "deposits": {
+            "value": "3,099,638.29",
+            "source_text": "Deposits 3 3,099,638.29 2,710,898.23",
+            "page_number": 1
+          },
+          "borrowings": {
+            "value": "588,484.55",
+            "source_text": "Borrowings 4 588,484.55 634,605.57",
+            "page_number": 1
+          },
+          "other_liabilities_and_provisions": {
+            "value": "252,977.53",
+            "source_text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+            "page_number": 1
+          },
+          "policyholders_funds": {
+            "value": "358,496.04",
+            "source_text": "Policyholders' funds 358,496.04 320,601.53",
+            "page_number": 1
+          },
+          "total_capital_and_liabilities": {
+            "value": "4,908,040.84",
+            "source_text": "Total 4,908,040.84 4,392,417.42",
+            "page_number": 1
+          },
+          "cash_and_balances_with_reserve_bank_of_india": {
+            "value": "200,707.11",
+            "source_text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+            "page_number": 1
+          },
+          "balances_with_banks_and_money_at_call_and_short_notice": {
+            "value": "111,218.94",
+            "source_text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+            "page_number": 1
+          },
+          "investments": {
+            "value": "1,280,216.29",
+            "source_text": "Investments 8 1,280,216.29 1,186,472.89",
+            "page_number": 1
+          },
+          "advances": {
+            "value": "3,050,783.23",
+            "source_text": "Advances 9 3,050,783.23 2,724,938.16",
+            "page_number": 1
+          },
+          "fixed_assets": {
+            "value": "16,491.59",
+            "source_text": "Fixed assets 10 16,491.59 15,257.94",
+            "page_number": 1
+          },
+          "other_assets": {
+            "value": "248,623.68",
+            "source_text": "Other assets 11 248,623.68 215,800.53",
+            "page_number": 1
+          },
+          "total_assets": {
+            "value": "4,908,040.84",
+            "source_text": "Total 4,908,040.84 4,392,417.42",
+            "page_number": 1
+          },
+          "contingent_liabilities": {
+            "value": "3,479,487.31",
+            "source_text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+            "page_number": 1
+          },
+          "bills_for_collection": {
+            "value": "82,470.05",
+            "source_text": "Bills for collection 82,470.05 70,679.55",
+            "page_number": 1
+          },
+          "total_liabilities": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "total_equity": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          }
+        },
+        "asset_components": [
+          "cash_and_balances_with_reserve_bank_of_india",
+          "balances_with_banks_and_money_at_call_and_short_notice",
+          "investments",
+          "advances",
+          "fixed_assets",
+          "other_assets"
+        ],
+        "liability_components": [
+          "capital",
+          "employees_stock_options_units_outstanding",
+          "reserves_and_surplus",
+          "minority_interest",
+          "deposits",
+          "borrowings",
+          "other_liabilities_and_provisions",
+          "policyholders_funds"
+        ],
+        "asset_components_complete": true,
+        "liability_components_complete": true
+      },
+      {
+        "label": "As at March 31, 2025",
+        "fields": {
+          "capital": {
+            "value": "765.22",
+            "source_text": "Capital 1 1,539.34 765.22",
+            "page_number": 1
+          },
+          "employees_stock_options_units_outstanding": {
+            "value": "3,805.19",
+            "source_text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+            "page_number": 1
+          },
+          "reserves_and_surplus": {
+            "value": "517,218.98",
+            "source_text": "Reserves and surplus 2 579,975.02 517,218.98",
+            "page_number": 1
+          },
+          "minority_interest": {
+            "value": "16,359.04",
+            "source_text": "Minority interest 2A 22,384.96 16,359.04",
+            "page_number": 1
+          },
+          "deposits": {
+            "value": "2,710,898.23",
+            "source_text": "Deposits 3 3,099,638.29 2,710,898.23",
+            "page_number": 1
+          },
+          "borrowings": {
+            "value": "634,605.57",
+            "source_text": "Borrowings 4 588,484.55 634,605.57",
+            "page_number": 1
+          },
+          "other_liabilities_and_provisions": {
+            "value": "188,163.66",
+            "source_text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+            "page_number": 1
+          },
+          "policyholders_funds": {
+            "value": "320,601.53",
+            "source_text": "Policyholders' funds 358,496.04 320,601.53",
+            "page_number": 1
+          },
+          "total_capital_and_liabilities": {
+            "value": "4,392,417.42",
+            "source_text": "Total 4,908,040.84 4,392,417.42",
+            "page_number": 1
+          },
+          "cash_and_balances_with_reserve_bank_of_india": {
+            "value": "144,390.25",
+            "source_text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+            "page_number": 1
+          },
+          "balances_with_banks_and_money_at_call_and_short_notice": {
+            "value": "105,557.65",
+            "source_text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+            "page_number": 1
+          },
+          "investments": {
+            "value": "1,186,472.89",
+            "source_text": "Investments 8 1,280,216.29 1,186,472.89",
+            "page_number": 1
+          },
+          "advances": {
+            "value": "2,724,938.16",
+            "source_text": "Advances 9 3,050,783.23 2,724,938.16",
+            "page_number": 1
+          },
+          "fixed_assets": {
+            "value": "15,257.94",
+            "source_text": "Fixed assets 10 16,491.59 15,257.94",
+            "page_number": 1
+          },
+          "other_assets": {
+            "value": "215,800.53",
+            "source_text": "Other assets 11 248,623.68 215,800.53",
+            "page_number": 1
+          },
+          "total_assets": {
+            "value": "4,392,417.42",
+            "source_text": "Total 4,908,040.84 4,392,417.42",
+            "page_number": 1
+          },
+          "contingent_liabilities": {
+            "value": "2,709,921.85",
+            "source_text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+            "page_number": 1
+          },
+          "bills_for_collection": {
+            "value": "70,679.55",
+            "source_text": "Bills for collection 82,470.05 70,679.55",
+            "page_number": 1
+          },
+          "total_liabilities": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "total_equity": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          }
+        },
+        "asset_components": [
+          "cash_and_balances_with_reserve_bank_of_india",
+          "balances_with_banks_and_money_at_call_and_short_notice",
+          "investments",
+          "advances",
+          "fixed_assets",
+          "other_assets"
+        ],
+        "liability_components": [
+          "capital",
+          "employees_stock_options_units_outstanding",
+          "reserves_and_surplus",
+          "minority_interest",
+          "deposits",
+          "borrowings",
+          "other_liabilities_and_provisions",
+          "policyholders_funds"
+        ],
+        "asset_components_complete": true,
+        "liability_components_complete": true
+      }
+    ],
+    "line_items": [],
+    "line_items_tax_included": null,
+    "tax_included": null,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "capital_liabilities_equal_assets",
+        "period": "As at March 31, 2026",
+        "formula": "total_capital_and_liabilities = total_assets",
+        "operands": {
+          "total_capital_and_liabilities": "4908040.84"
+        },
+        "calculated_value": "4908040.84",
+        "reported_value": "4908040.84",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "liabilities_plus_equity",
+        "period": "As at March 31, 2026",
+        "formula": "total_liabilities + total_equity = total_assets",
+        "operands": {
+          "total_liabilities": null,
+          "total_equity": null
+        },
+        "calculated_value": null,
+        "reported_value": "4908040.84",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "asset_components",
+        "period": "As at March 31, 2026",
+        "formula": "cash_and_balances_with_reserve_bank_of_india + balances_with_banks_and_money_at_call_and_short_notice + investments + advances + fixed_assets + other_assets = total_assets",
+        "operands": {
+          "cash_and_balances_with_reserve_bank_of_india": "200707.11",
+          "balances_with_banks_and_money_at_call_and_short_notice": "111218.94",
+          "investments": "1280216.29",
+          "advances": "3050783.23",
+          "fixed_assets": "16491.59",
+          "other_assets": "248623.68"
+        },
+        "calculated_value": "4908040.84",
+        "reported_value": "4908040.84",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "capital_liability_components",
+        "period": "As at March 31, 2026",
+        "formula": "capital + employees_stock_options_units_outstanding + reserves_and_surplus + minority_interest + deposits + borrowings + other_liabilities_and_provisions + policyholders_funds = total_capital_and_liabilities",
+        "operands": {
+          "capital": "1539.34",
+          "employees_stock_options_units_outstanding": "4545.11",
+          "reserves_and_surplus": "579975.02",
+          "minority_interest": "22384.96",
+          "deposits": "3099638.29",
+          "borrowings": "588484.55",
+          "other_liabilities_and_provisions": "252977.53",
+          "policyholders_funds": "358496.04"
+        },
+        "calculated_value": "4908040.84",
+        "reported_value": "4908040.84",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "capital_liabilities_equal_assets",
+        "period": "As at March 31, 2025",
+        "formula": "total_capital_and_liabilities = total_assets",
+        "operands": {
+          "total_capital_and_liabilities": "4392417.42"
+        },
+        "calculated_value": "4392417.42",
+        "reported_value": "4392417.42",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "liabilities_plus_equity",
+        "period": "As at March 31, 2025",
+        "formula": "total_liabilities + total_equity = total_assets",
+        "operands": {
+          "total_liabilities": null,
+          "total_equity": null
+        },
+        "calculated_value": null,
+        "reported_value": "4392417.42",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "asset_components",
+        "period": "As at March 31, 2025",
+        "formula": "cash_and_balances_with_reserve_bank_of_india + balances_with_banks_and_money_at_call_and_short_notice + investments + advances + fixed_assets + other_assets = total_assets",
+        "operands": {
+          "cash_and_balances_with_reserve_bank_of_india": "144390.25",
+          "balances_with_banks_and_money_at_call_and_short_notice": "105557.65",
+          "investments": "1186472.89",
+          "advances": "2724938.16",
+          "fixed_assets": "15257.94",
+          "other_assets": "215800.53"
+        },
+        "calculated_value": "4392417.42",
+        "reported_value": "4392417.42",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "capital_liability_components",
+        "period": "As at March 31, 2025",
+        "formula": "capital + employees_stock_options_units_outstanding + reserves_and_surplus + minority_interest + deposits + borrowings + other_liabilities_and_provisions + policyholders_funds = total_capital_and_liabilities",
+        "operands": {
+          "capital": "765.22",
+          "employees_stock_options_units_outstanding": "3805.19",
+          "reserves_and_surplus": "517218.98",
+          "minority_interest": "16359.04",
+          "deposits": "2710898.23",
+          "borrowings": "634605.57",
+          "other_liabilities_and_provisions": "188163.66",
+          "policyholders_funds": "320601.53"
+        },
+        "calculated_value": "4392417.42",
+        "reported_value": "4392417.42",
+        "variance": "0.00",
+        "status": "PASS"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": []
+  },
+  "processing_metadata": {
+    "ocr_used": true,
+    "processed_at": "2026-09-10T17:28:48.297825+00:00",
+    "processing_time_ms": 27873,
+    "source_pages": [
+      {
+        "page_number": 1,
+        "text": "rs\nLal\nCONSOLIDATED BALANCE SHEET\nAs at March 31, 2026\n(= in crore)\nAs at As at\nSchedule\nMarch 31,2026 March 31, 2025\nCAPITAL AND LIABILITIES\nCapital 1 1,539.34 765.22\nEmployees stock options / units outstanding 18 (4) 4,545.11 3,805.19\nReserves and surplus 2 579,975.02 517,218.98\nMinority interest 2A 22,384.96 16,359.04\nDeposits 3 3,099,638.29 2,710,898.23\nBorrowings 4 588,484.55 634,605.57\nOther liabilities and provisions 5 252,977.53 188,163.66\nPolicyholders' funds 358,496.04 320,601.53\nTotal 4,908,040.84 4,392,417.42\nASSETS\nCash and balances with Reserve Bank of India 6 200,707.11 144,390.25\nBalances with banks and money at call and short notice 7 111,218.94 105,557.65\nInvestments 8 1,280,216.29 1,186,472.89\nAdvances 9 3,050,783.23 2,724,938.16\nFixed assets 10 16,491.59 15,257.94\nOther assets 11 248,623.68 215,800.53\nTotal 4,908,040.84 4,392,417.42\nContingent liabilities 12 3,479,487.31 2,709,921.85\nBills for collection 82,470.05 70,679.55\nSignificant accounting policies and notes to the Consolidated Financial Statements 17&18\nThe schedules referred to above form an integral part of the Consolidated Balance Sheet.\nAs per our report of even date. For and on behalf of the Board\nFor Batliboi & Purohit ForBSR &Co. LLP Keki Mistry Sandeep Parekh\nChartered Accountants Chartered Accountants Interim Part-Time Chairman Independent Director\nICAI Firm No.: ICAI Firm No.: & Non-Executive\nRegistration Registration\n(Non-Independent) Director\n101048W 101248W/W-100022\nM. D. Ranganath Sunita Maheshwari\nIndependent Director Independent Director\nJanak Mehta Sudhir Soni Lily Vadera Renu Karnad\nPartner Partner Independent Director Non-Executive (Non-\nMembership No.: 116976 Membership No.: 041870 Independent Director)\nHarsh Kumar Bhanwala Santhosh Keshavan\nIndependent Director Independent Director\nSashidhar Jagdishan Kaizad Bharucha\nManaging Director & Chief Deputy Managing Director\nExecutive Officer\nBhavesh Zaveri V. Srinivasa Rangan\nExecutive Director Executive Director\nMumbai, April 18, 2026 Srinivasan Vaidyanathan Ajay Agarwal\nChief Financial Officer Company Secretary\nHDFC Bank Limited\n476 Integrated Annual Report 2025-26",
+        "layout_rows": [
+          {
+            "text": "rs",
+            "words": [
+              {
+                "text": "rs",
+                "left": 179,
+                "top": 96,
+                "width": 62,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Lal",
+            "words": [
+              {
+                "text": "Lal",
+                "left": 179,
+                "top": 118,
+                "width": 62,
+                "height": 41
+              }
+            ]
+          },
+          {
+            "text": "CONSOLIDATED BALANCE SHEET",
+            "words": [
+              {
+                "text": "CONSOLIDATED",
+                "left": 182,
+                "top": 208,
+                "width": 499,
+                "height": 43
+              },
+              {
+                "text": "BALANCE",
+                "left": 715,
+                "top": 208,
+                "width": 298,
+                "height": 43
+              },
+              {
+                "text": "SHEET",
+                "left": 1046,
+                "top": 208,
+                "width": 206,
+                "height": 43
+              }
+            ]
+          },
+          {
+            "text": "As at March 31, 2026",
+            "words": [
+              {
+                "text": "As",
+                "left": 180,
+                "top": 273,
+                "width": 40,
+                "height": 28
+              },
+              {
+                "text": "at",
+                "left": 233,
+                "top": 275,
+                "width": 28,
+                "height": 26
+              },
+              {
+                "text": "March",
+                "left": 276,
+                "top": 273,
+                "width": 99,
+                "height": 28
+              },
+              {
+                "text": "31,",
+                "left": 388,
+                "top": 274,
+                "width": 44,
+                "height": 31
+              },
+              {
+                "text": "2026",
+                "left": 447,
+                "top": 274,
+                "width": 81,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "(= in crore)",
+            "words": [
+              {
+                "text": "(=",
+                "left": 2147,
+                "top": 296,
+                "width": 20,
+                "height": 27
+              },
+              {
+                "text": "in",
+                "left": 2178,
+                "top": 296,
+                "width": 19,
+                "height": 22
+              },
+              {
+                "text": "crore)",
+                "left": 2208,
+                "top": 296,
+                "width": 72,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "As at As at",
+            "words": [
+              {
+                "text": "As",
+                "left": 1924,
+                "top": 355,
+                "width": 37,
+                "height": 22
+              },
+              {
+                "text": "at",
+                "left": 1970,
+                "top": 356,
+                "width": 27,
+                "height": 21
+              },
+              {
+                "text": "As",
+                "left": 2209,
+                "top": 355,
+                "width": 36,
+                "height": 22
+              },
+              {
+                "text": "at",
+                "left": 2254,
+                "top": 356,
+                "width": 27,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Schedule",
+            "words": [
+              {
+                "text": "Schedule",
+                "left": 1584,
+                "top": 372,
+                "width": 134,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "March 31,2026 March 31, 2025",
+            "words": [
+              {
+                "text": "March",
+                "left": 1782,
+                "top": 390,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "31,2026",
+                "left": 1881,
+                "top": 390,
+                "width": 116,
+                "height": 26
+              },
+              {
+                "text": "March",
+                "left": 2067,
+                "top": 390,
+                "width": 88,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 2165,
+                "top": 390,
+                "width": 39,
+                "height": 26
+              },
+              {
+                "text": "2025",
+                "left": 2213,
+                "top": 390,
+                "width": 68,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "CAPITAL AND LIABILITIES",
+            "words": [
+              {
+                "text": "CAPITAL",
+                "left": 189,
+                "top": 448,
+                "width": 158,
+                "height": 28
+              },
+              {
+                "text": "AND",
+                "left": 358,
+                "top": 449,
+                "width": 81,
+                "height": 27
+              },
+              {
+                "text": "LIABILITIES",
+                "left": 454,
+                "top": 448,
+                "width": 214,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Capital 1 1,539.34 765.22",
+            "words": [
+              {
+                "text": "Capital",
+                "left": 189,
+                "top": 509,
+                "width": 102,
+                "height": 39
+              },
+              {
+                "text": "1",
+                "left": 1565,
+                "top": 501,
+                "width": 171,
+                "height": 55
+              },
+              {
+                "text": "1,539.34",
+                "left": 1870,
+                "top": 514,
+                "width": 126,
+                "height": 28
+              },
+              {
+                "text": "765.22",
+                "left": 2181,
+                "top": 514,
+                "width": 98,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Employees stock options / units outstanding 18 (4) 4,545.11 3,805.19",
+            "words": [
+              {
+                "text": "Employees",
+                "left": 190,
+                "top": 575,
+                "width": 161,
+                "height": 31
+              },
+              {
+                "text": "stock",
+                "left": 363,
+                "top": 575,
+                "width": 80,
+                "height": 24
+              },
+              {
+                "text": "options",
+                "left": 454,
+                "top": 575,
+                "width": 109,
+                "height": 30
+              },
+              {
+                "text": "/",
+                "left": 582,
+                "top": 575,
+                "width": 12,
+                "height": 24
+              },
+              {
+                "text": "units",
+                "left": 614,
+                "top": 575,
+                "width": 69,
+                "height": 24
+              },
+              {
+                "text": "outstanding",
+                "left": 694,
+                "top": 575,
+                "width": 174,
+                "height": 31
+              },
+              {
+                "text": "18",
+                "left": 1614,
+                "top": 575,
+                "width": 33,
+                "height": 24
+              },
+              {
+                "text": "(4)",
+                "left": 1659,
+                "top": 575,
+                "width": 33,
+                "height": 30
+              },
+              {
+                "text": "4,545.11",
+                "left": 1868,
+                "top": 575,
+                "width": 123,
+                "height": 29
+              },
+              {
+                "text": "3,805.19",
+                "left": 2152,
+                "top": 575,
+                "width": 128,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Reserves and surplus 2 579,975.02 517,218.98",
+            "words": [
+              {
+                "text": "Reserves",
+                "left": 190,
+                "top": 637,
+                "width": 134,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 336,
+                "top": 637,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "surplus",
+                "left": 402,
+                "top": 637,
+                "width": 106,
+                "height": 31
+              },
+              {
+                "text": "2",
+                "left": 1565,
+                "top": 629,
+                "width": 171,
+                "height": 47
+              },
+              {
+                "text": "579,975.02",
+                "left": 1831,
+                "top": 637,
+                "width": 164,
+                "height": 28
+              },
+              {
+                "text": "517,218.98",
+                "left": 2115,
+                "top": 637,
+                "width": 165,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Minority interest 2A 22,384.96 16,359.04",
+            "words": [
+              {
+                "text": "Minority",
+                "left": 190,
+                "top": 698,
+                "width": 117,
+                "height": 31
+              },
+              {
+                "text": "interest",
+                "left": 319,
+                "top": 698,
+                "width": 107,
+                "height": 25
+              },
+              {
+                "text": "2A",
+                "left": 1633,
+                "top": 698,
+                "width": 39,
+                "height": 25
+              },
+              {
+                "text": "22,384.96",
+                "left": 1849,
+                "top": 698,
+                "width": 147,
+                "height": 29
+              },
+              {
+                "text": "16,359.04",
+                "left": 2135,
+                "top": 698,
+                "width": 145,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Deposits 3 3,099,638.29 2,710,898.23",
+            "words": [
+              {
+                "text": "Deposits",
+                "left": 190,
+                "top": 756,
+                "width": 128,
+                "height": 39
+              },
+              {
+                "text": "3",
+                "left": 1565,
+                "top": 748,
+                "width": 171,
+                "height": 55
+              },
+              {
+                "text": "3,099,638.29",
+                "left": 1803,
+                "top": 761,
+                "width": 193,
+                "height": 28
+              },
+              {
+                "text": "2,710,898.23",
+                "left": 2087,
+                "top": 761,
+                "width": 193,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Borrowings 4 588,484.55 634,605.57",
+            "words": [
+              {
+                "text": "Borrowings",
+                "left": 190,
+                "top": 822,
+                "width": 167,
+                "height": 31
+              },
+              {
+                "text": "4",
+                "left": 1565,
+                "top": 814,
+                "width": 171,
+                "height": 47
+              },
+              {
+                "text": "588,484.55",
+                "left": 1831,
+                "top": 822,
+                "width": 165,
+                "height": 29
+              },
+              {
+                "text": "634,605.57",
+                "left": 2115,
+                "top": 822,
+                "width": 165,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Other liabilities and provisions 5 252,977.53 188,163.66",
+            "words": [
+              {
+                "text": "Other",
+                "left": 189,
+                "top": 883,
+                "width": 82,
+                "height": 25
+              },
+              {
+                "text": "liabilities",
+                "left": 283,
+                "top": 883,
+                "width": 124,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 418,
+                "top": 884,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "provisions",
+                "left": 485,
+                "top": 884,
+                "width": 149,
+                "height": 30
+              },
+              {
+                "text": "5",
+                "left": 1644,
+                "top": 884,
+                "width": 16,
+                "height": 24
+              },
+              {
+                "text": "252,977.53",
+                "left": 1831,
+                "top": 884,
+                "width": 165,
+                "height": 28
+              },
+              {
+                "text": "188,163.66",
+                "left": 2117,
+                "top": 884,
+                "width": 163,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Policyholders' funds 358,496.04 320,601.53",
+            "words": [
+              {
+                "text": "Policyholders'",
+                "left": 190,
+                "top": 945,
+                "width": 205,
+                "height": 31
+              },
+              {
+                "text": "funds",
+                "left": 408,
+                "top": 945,
+                "width": 82,
+                "height": 25
+              },
+              {
+                "text": "358,496.04",
+                "left": 1831,
+                "top": 945,
+                "width": 165,
+                "height": 29
+              },
+              {
+                "text": "320,601.53",
+                "left": 2115,
+                "top": 945,
+                "width": 165,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Total 4,908,040.84 4,392,417.42",
+            "words": [
+              {
+                "text": "Total",
+                "left": 188,
+                "top": 1003,
+                "width": 75,
+                "height": 39
+              },
+              {
+                "text": "4,908,040.84",
+                "left": 1803,
+                "top": 1007,
+                "width": 194,
+                "height": 30
+              },
+              {
+                "text": "4,392,417.42",
+                "left": 2087,
+                "top": 1007,
+                "width": 194,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "ASSETS",
+            "words": [
+              {
+                "text": "ASSETS",
+                "left": 187,
+                "top": 1068,
+                "width": 150,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Cash and balances with Reserve Bank of India 6 200,707.11 144,390.25",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 189,
+                "top": 1133,
+                "width": 74,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 275,
+                "top": 1133,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "balances",
+                "left": 342,
+                "top": 1133,
+                "width": 131,
+                "height": 25
+              },
+              {
+                "text": "with",
+                "left": 484,
+                "top": 1133,
+                "width": 59,
+                "height": 24
+              },
+              {
+                "text": "Reserve",
+                "left": 557,
+                "top": 1133,
+                "width": 118,
+                "height": 25
+              },
+              {
+                "text": "Bank",
+                "left": 688,
+                "top": 1133,
+                "width": 73,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 772,
+                "top": 1133,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "India",
+                "left": 812,
+                "top": 1133,
+                "width": 69,
+                "height": 25
+              },
+              {
+                "text": "6",
+                "left": 1565,
+                "top": 1125,
+                "width": 171,
+                "height": 45
+              },
+              {
+                "text": "200,707.11",
+                "left": 1831,
+                "top": 1134,
+                "width": 160,
+                "height": 28
+              },
+              {
+                "text": "144,390.25",
+                "left": 2117,
+                "top": 1134,
+                "width": 163,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Balances with banks and money at call and short notice 7 111,218.94 105,557.65",
+            "words": [
+              {
+                "text": "Balances",
+                "left": 190,
+                "top": 1195,
+                "width": 134,
+                "height": 24
+              },
+              {
+                "text": "with",
+                "left": 335,
+                "top": 1195,
+                "width": 59,
+                "height": 24
+              },
+              {
+                "text": "banks",
+                "left": 408,
+                "top": 1195,
+                "width": 87,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 506,
+                "top": 1195,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "money",
+                "left": 573,
+                "top": 1201,
+                "width": 98,
+                "height": 25
+              },
+              {
+                "text": "at",
+                "left": 682,
+                "top": 1196,
+                "width": 26,
+                "height": 23
+              },
+              {
+                "text": "call",
+                "left": 720,
+                "top": 1195,
+                "width": 47,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 780,
+                "top": 1195,
+                "width": 52,
+                "height": 24
+              },
+              {
+                "text": "short",
+                "left": 845,
+                "top": 1195,
+                "width": 74,
+                "height": 24
+              },
+              {
+                "text": "notice",
+                "left": 932,
+                "top": 1195,
+                "width": 88,
+                "height": 24
+              },
+              {
+                "text": "7",
+                "left": 1565,
+                "top": 1187,
+                "width": 171,
+                "height": 47
+              },
+              {
+                "text": "111,218.94",
+                "left": 1833,
+                "top": 1195,
+                "width": 163,
+                "height": 29
+              },
+              {
+                "text": "105,557.65",
+                "left": 2117,
+                "top": 1195,
+                "width": 163,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Investments 8 1,280,216.29 1,186,472.89",
+            "words": [
+              {
+                "text": "Investments",
+                "left": 190,
+                "top": 1257,
+                "width": 178,
+                "height": 24
+              },
+              {
+                "text": "8",
+                "left": 1565,
+                "top": 1249,
+                "width": 171,
+                "height": 44
+              },
+              {
+                "text": "1,280,216.29",
+                "left": 1805,
+                "top": 1257,
+                "width": 191,
+                "height": 28
+              },
+              {
+                "text": "1,186,472.89",
+                "left": 2089,
+                "top": 1257,
+                "width": 191,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Advances 9 3,050,783.23 2,724,938.16",
+            "words": [
+              {
+                "text": "Advances",
+                "left": 188,
+                "top": 1318,
+                "width": 146,
+                "height": 25
+              },
+              {
+                "text": "9",
+                "left": 1565,
+                "top": 1310,
+                "width": 171,
+                "height": 45
+              },
+              {
+                "text": "3,050,783.23",
+                "left": 1803,
+                "top": 1318,
+                "width": 193,
+                "height": 29
+              },
+              {
+                "text": "2,724,938.16",
+                "left": 2087,
+                "top": 1318,
+                "width": 193,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Fixed assets 10 16,491.59 15,257.94",
+            "words": [
+              {
+                "text": "Fixed",
+                "left": 190,
+                "top": 1380,
+                "width": 77,
+                "height": 25
+              },
+              {
+                "text": "assets",
+                "left": 280,
+                "top": 1382,
+                "width": 94,
+                "height": 23
+              },
+              {
+                "text": "10",
+                "left": 1636,
+                "top": 1380,
+                "width": 33,
+                "height": 25
+              },
+              {
+                "text": "16,491.59",
+                "left": 1851,
+                "top": 1380,
+                "width": 145,
+                "height": 29
+              },
+              {
+                "text": "15,257.94",
+                "left": 2135,
+                "top": 1380,
+                "width": 145,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Other assets 11 248,623.68 215,800.53",
+            "words": [
+              {
+                "text": "Other",
+                "left": 189,
+                "top": 1441,
+                "width": 82,
+                "height": 25
+              },
+              {
+                "text": "assets",
+                "left": 282,
+                "top": 1443,
+                "width": 94,
+                "height": 23
+              },
+              {
+                "text": "11",
+                "left": 1565,
+                "top": 1433,
+                "width": 171,
+                "height": 46
+              },
+              {
+                "text": "248,623.68",
+                "left": 1831,
+                "top": 1442,
+                "width": 165,
+                "height": 29
+              },
+              {
+                "text": "215,800.53",
+                "left": 2115,
+                "top": 1442,
+                "width": 165,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Total 4,908,040.84 4,392,417.42",
+            "words": [
+              {
+                "text": "Total",
+                "left": 188,
+                "top": 1499,
+                "width": 75,
+                "height": 39
+              },
+              {
+                "text": "4,908,040.84",
+                "left": 1803,
+                "top": 1503,
+                "width": 194,
+                "height": 30
+              },
+              {
+                "text": "4,392,417.42",
+                "left": 2087,
+                "top": 1503,
+                "width": 194,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Contingent liabilities 12 3,479,487.31 2,709,921.85",
+            "words": [
+              {
+                "text": "Contingent",
+                "left": 189,
+                "top": 1565,
+                "width": 162,
+                "height": 31
+              },
+              {
+                "text": "liabilities",
+                "left": 363,
+                "top": 1565,
+                "width": 125,
+                "height": 25
+              },
+              {
+                "text": "12",
+                "left": 1636,
+                "top": 1565,
+                "width": 33,
+                "height": 24
+              },
+              {
+                "text": "3,479,487.31",
+                "left": 1803,
+                "top": 1565,
+                "width": 188,
+                "height": 29
+              },
+              {
+                "text": "2,709,921.85",
+                "left": 2087,
+                "top": 1565,
+                "width": 193,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Bills for collection 82,470.05 70,679.55",
+            "words": [
+              {
+                "text": "Bills",
+                "left": 190,
+                "top": 1627,
+                "width": 58,
+                "height": 24
+              },
+              {
+                "text": "for",
+                "left": 259,
+                "top": 1626,
+                "width": 40,
+                "height": 25
+              },
+              {
+                "text": "collection",
+                "left": 309,
+                "top": 1627,
+                "width": 141,
+                "height": 24
+              },
+              {
+                "text": "82,470.05",
+                "left": 1850,
+                "top": 1627,
+                "width": 146,
+                "height": 28
+              },
+              {
+                "text": "70,679.55",
+                "left": 2134,
+                "top": 1627,
+                "width": 146,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Significant accounting policies and notes to the Consolidated Financial Statements 17&18",
+            "words": [
+              {
+                "text": "Significant",
+                "left": 189,
+                "top": 1688,
+                "width": 154,
+                "height": 32
+              },
+              {
+                "text": "accounting",
+                "left": 354,
+                "top": 1688,
+                "width": 163,
+                "height": 32
+              },
+              {
+                "text": "policies",
+                "left": 531,
+                "top": 1688,
+                "width": 110,
+                "height": 31
+              },
+              {
+                "text": "and",
+                "left": 653,
+                "top": 1688,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "notes",
+                "left": 719,
+                "top": 1690,
+                "width": 80,
+                "height": 23
+              },
+              {
+                "text": "to",
+                "left": 810,
+                "top": 1690,
+                "width": 28,
+                "height": 23
+              },
+              {
+                "text": "the",
+                "left": 848,
+                "top": 1688,
+                "width": 47,
+                "height": 25
+              },
+              {
+                "text": "Consolidated",
+                "left": 906,
+                "top": 1688,
+                "width": 195,
+                "height": 25
+              },
+              {
+                "text": "Financial",
+                "left": 1115,
+                "top": 1688,
+                "width": 128,
+                "height": 25
+              },
+              {
+                "text": "Statements",
+                "left": 1255,
+                "top": 1688,
+                "width": 169,
+                "height": 25
+              },
+              {
+                "text": "17&18",
+                "left": 1598,
+                "top": 1688,
+                "width": 110,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": "The schedules referred to above form an integral part of the Consolidated Balance Sheet.",
+            "words": [
+              {
+                "text": "The",
+                "left": 188,
+                "top": 1729,
+                "width": 55,
+                "height": 24
+              },
+              {
+                "text": "schedules",
+                "left": 254,
+                "top": 1728,
+                "width": 149,
+                "height": 25
+              },
+              {
+                "text": "referred",
+                "left": 416,
+                "top": 1729,
+                "width": 111,
+                "height": 24
+              },
+              {
+                "text": "to",
+                "left": 539,
+                "top": 1730,
+                "width": 28,
+                "height": 23
+              },
+              {
+                "text": "above",
+                "left": 578,
+                "top": 1729,
+                "width": 90,
+                "height": 24
+              },
+              {
+                "text": "form",
+                "left": 679,
+                "top": 1729,
+                "width": 66,
+                "height": 24
+              },
+              {
+                "text": "an",
+                "left": 757,
+                "top": 1735,
+                "width": 33,
+                "height": 18
+              },
+              {
+                "text": "integral",
+                "left": 804,
+                "top": 1728,
+                "width": 106,
+                "height": 32
+              },
+              {
+                "text": "part",
+                "left": 924,
+                "top": 1730,
+                "width": 56,
+                "height": 29
+              },
+              {
+                "text": "of",
+                "left": 991,
+                "top": 1729,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "the",
+                "left": 1029,
+                "top": 1729,
+                "width": 45,
+                "height": 24
+              },
+              {
+                "text": "Consolidated",
+                "left": 1086,
+                "top": 1728,
+                "width": 195,
+                "height": 25
+              },
+              {
+                "text": "Balance",
+                "left": 1295,
+                "top": 1728,
+                "width": 117,
+                "height": 25
+              },
+              {
+                "text": "Sheet.",
+                "left": 1423,
+                "top": 1728,
+                "width": 93,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": "As per our report of even date. For and on behalf of the Board",
+            "words": [
+              {
+                "text": "As",
+                "left": 179,
+                "top": 1840,
+                "width": 34,
+                "height": 21
+              },
+              {
+                "text": "per",
+                "left": 224,
+                "top": 1846,
+                "width": 42,
+                "height": 21
+              },
+              {
+                "text": "our",
+                "left": 275,
+                "top": 1846,
+                "width": 43,
+                "height": 15
+              },
+              {
+                "text": "report",
+                "left": 327,
+                "top": 1841,
+                "width": 80,
+                "height": 26
+              },
+              {
+                "text": "of",
+                "left": 417,
+                "top": 1840,
+                "width": 25,
+                "height": 21
+              },
+              {
+                "text": "even",
+                "left": 451,
+                "top": 1846,
+                "width": 60,
+                "height": 15
+              },
+              {
+                "text": "date.",
+                "left": 522,
+                "top": 1840,
+                "width": 64,
+                "height": 22
+              },
+              {
+                "text": "For",
+                "left": 1208,
+                "top": 1840,
+                "width": 42,
+                "height": 21
+              },
+              {
+                "text": "and",
+                "left": 1259,
+                "top": 1840,
+                "width": 47,
+                "height": 21
+              },
+              {
+                "text": "on",
+                "left": 1317,
+                "top": 1846,
+                "width": 31,
+                "height": 15
+              },
+              {
+                "text": "behalf",
+                "left": 1360,
+                "top": 1840,
+                "width": 81,
+                "height": 22
+              },
+              {
+                "text": "of",
+                "left": 1450,
+                "top": 1840,
+                "width": 25,
+                "height": 21
+              },
+              {
+                "text": "the",
+                "left": 1483,
+                "top": 1840,
+                "width": 41,
+                "height": 21
+              },
+              {
+                "text": "Board",
+                "left": 1535,
+                "top": 1840,
+                "width": 78,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "For Batliboi & Purohit ForBSR &Co. LLP Keki Mistry Sandeep Parekh",
+            "words": [
+              {
+                "text": "For",
+                "left": 181,
+                "top": 1898,
+                "width": 46,
+                "height": 21
+              },
+              {
+                "text": "Batliboi",
+                "left": 237,
+                "top": 1898,
+                "width": 108,
+                "height": 21
+              },
+              {
+                "text": "&",
+                "left": 355,
+                "top": 1898,
+                "width": 20,
+                "height": 21
+              },
+              {
+                "text": "Purohit",
+                "left": 385,
+                "top": 1898,
+                "width": 103,
+                "height": 21
+              },
+              {
+                "text": "ForBSR",
+                "left": 692,
+                "top": 1897,
+                "width": 129,
+                "height": 22
+              },
+              {
+                "text": "&Co.",
+                "left": 831,
+                "top": 1897,
+                "width": 75,
+                "height": 22
+              },
+              {
+                "text": "LLP",
+                "left": 917,
+                "top": 1898,
+                "width": 52,
+                "height": 21
+              },
+              {
+                "text": "Keki",
+                "left": 1208,
+                "top": 1898,
+                "width": 60,
+                "height": 21
+              },
+              {
+                "text": "Mistry",
+                "left": 1280,
+                "top": 1898,
+                "width": 89,
+                "height": 26
+              },
+              {
+                "text": "Sandeep",
+                "left": 1735,
+                "top": 1897,
+                "width": 126,
+                "height": 27
+              },
+              {
+                "text": "Parekh",
+                "left": 1872,
+                "top": 1898,
+                "width": 99,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Chartered Accountants Chartered Accountants Interim Part-Time Chairman Independent Director",
+            "words": [
+              {
+                "text": "Chartered",
+                "left": 181,
+                "top": 1939,
+                "width": 132,
+                "height": 22
+              },
+              {
+                "text": "Accountants",
+                "left": 323,
+                "top": 1940,
+                "width": 169,
+                "height": 21
+              },
+              {
+                "text": "Chartered",
+                "left": 691,
+                "top": 1939,
+                "width": 132,
+                "height": 22
+              },
+              {
+                "text": "Accountants",
+                "left": 833,
+                "top": 1940,
+                "width": 169,
+                "height": 21
+              },
+              {
+                "text": "Interim",
+                "left": 1208,
+                "top": 1933,
+                "width": 88,
+                "height": 22
+              },
+              {
+                "text": "Part-Time",
+                "left": 1309,
+                "top": 1933,
+                "width": 128,
+                "height": 22
+              },
+              {
+                "text": "Chairman",
+                "left": 1446,
+                "top": 1932,
+                "width": 127,
+                "height": 23
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 1933,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1915,
+                "top": 1933,
+                "width": 106,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "ICAI Firm No.: ICAI Firm No.: & Non-Executive",
+            "words": [
+              {
+                "text": "ICAI",
+                "left": 181,
+                "top": 1981,
+                "width": 53,
+                "height": 22
+              },
+              {
+                "text": "Firm",
+                "left": 246,
+                "top": 1981,
+                "width": 55,
+                "height": 22
+              },
+              {
+                "text": "No.:",
+                "left": 484,
+                "top": 1981,
+                "width": 50,
+                "height": 22
+              },
+              {
+                "text": "ICAI",
+                "left": 692,
+                "top": 1981,
+                "width": 52,
+                "height": 22
+              },
+              {
+                "text": "Firm",
+                "left": 756,
+                "top": 1981,
+                "width": 56,
+                "height": 22
+              },
+              {
+                "text": "No.:",
+                "left": 995,
+                "top": 1981,
+                "width": 49,
+                "height": 22
+              },
+              {
+                "text": "&",
+                "left": 1207,
+                "top": 1968,
+                "width": 17,
+                "height": 22
+              },
+              {
+                "text": "Non-Executive",
+                "left": 1235,
+                "top": 1968,
+                "width": 195,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Registration Registration",
+            "words": [
+              {
+                "text": "Registration",
+                "left": 313,
+                "top": 1981,
+                "width": 159,
+                "height": 28
+              },
+              {
+                "text": "Registration",
+                "left": 824,
+                "top": 1981,
+                "width": 158,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "(Non-Independent) Director",
+            "words": [
+              {
+                "text": "(Non-Independent)",
+                "left": 1207,
+                "top": 2002,
+                "width": 251,
+                "height": 28
+              },
+              {
+                "text": "Director",
+                "left": 1470,
+                "top": 2003,
+                "width": 105,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "101048W 101248W/W-100022",
+            "words": [
+              {
+                "text": "101048W",
+                "left": 182,
+                "top": 2023,
+                "width": 121,
+                "height": 22
+              },
+              {
+                "text": "101248W/W-100022",
+                "left": 692,
+                "top": 2022,
+                "width": 266,
+                "height": 23
+              }
+            ]
+          },
+          {
+            "text": "M. D. Ranganath Sunita Maheshwari",
+            "words": [
+              {
+                "text": "M.",
+                "left": 1208,
+                "top": 2076,
+                "width": 32,
+                "height": 21
+              },
+              {
+                "text": "D.",
+                "left": 1252,
+                "top": 2076,
+                "width": 26,
+                "height": 21
+              },
+              {
+                "text": "Ranganath",
+                "left": 1289,
+                "top": 2076,
+                "width": 155,
+                "height": 27
+              },
+              {
+                "text": "Sunita",
+                "left": 1736,
+                "top": 2076,
+                "width": 90,
+                "height": 22
+              },
+              {
+                "text": "Maheshwari",
+                "left": 1838,
+                "top": 2076,
+                "width": 173,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Independent Director Independent Director",
+            "words": [
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2111,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1386,
+                "top": 2111,
+                "width": 106,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2111,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1915,
+                "top": 2111,
+                "width": 106,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Janak Mehta Sudhir Soni Lily Vadera Renu Karnad",
+            "words": [
+              {
+                "text": "Janak",
+                "left": 180,
+                "top": 2174,
+                "width": 83,
+                "height": 22
+              },
+              {
+                "text": "Mehta",
+                "left": 273,
+                "top": 2174,
+                "width": 85,
+                "height": 22
+              },
+              {
+                "text": "Sudhir",
+                "left": 691,
+                "top": 2174,
+                "width": 93,
+                "height": 22
+              },
+              {
+                "text": "Soni",
+                "left": 793,
+                "top": 2174,
+                "width": 62,
+                "height": 22
+              },
+              {
+                "text": "Lily",
+                "left": 1208,
+                "top": 2174,
+                "width": 47,
+                "height": 27
+              },
+              {
+                "text": "Vadera",
+                "left": 1264,
+                "top": 2174,
+                "width": 100,
+                "height": 22
+              },
+              {
+                "text": "Renu",
+                "left": 1737,
+                "top": 2174,
+                "width": 71,
+                "height": 22
+              },
+              {
+                "text": "Karnad",
+                "left": 1820,
+                "top": 2174,
+                "width": 101,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Partner Partner Independent Director Non-Executive (Non-",
+            "words": [
+              {
+                "text": "Partner",
+                "left": 182,
+                "top": 2215,
+                "width": 92,
+                "height": 21
+              },
+              {
+                "text": "Partner",
+                "left": 692,
+                "top": 2215,
+                "width": 97,
+                "height": 21
+              },
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2209,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1386,
+                "top": 2209,
+                "width": 106,
+                "height": 22
+              },
+              {
+                "text": "Non-Executive",
+                "left": 1737,
+                "top": 2209,
+                "width": 195,
+                "height": 22
+              },
+              {
+                "text": "(Non-",
+                "left": 1950,
+                "top": 2209,
+                "width": 73,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Membership No.: 116976 Membership No.: 041870 Independent Director)",
+            "words": [
+              {
+                "text": "Membership",
+                "left": 182,
+                "top": 2256,
+                "width": 165,
+                "height": 27
+              },
+              {
+                "text": "No.:",
+                "left": 358,
+                "top": 2256,
+                "width": 50,
+                "height": 22
+              },
+              {
+                "text": "116976",
+                "left": 421,
+                "top": 2256,
+                "width": 91,
+                "height": 22
+              },
+              {
+                "text": "Membership",
+                "left": 692,
+                "top": 2256,
+                "width": 165,
+                "height": 27
+              },
+              {
+                "text": "No.:",
+                "left": 869,
+                "top": 2256,
+                "width": 50,
+                "height": 22
+              },
+              {
+                "text": "041870",
+                "left": 931,
+                "top": 2256,
+                "width": 92,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2244,
+                "width": 167,
+                "height": 28
+              },
+              {
+                "text": "Director)",
+                "left": 1915,
+                "top": 2244,
+                "width": 112,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Harsh Kumar Bhanwala Santhosh Keshavan",
+            "words": [
+              {
+                "text": "Harsh",
+                "left": 1208,
+                "top": 2314,
+                "width": 83,
+                "height": 22
+              },
+              {
+                "text": "Kumar",
+                "left": 1302,
+                "top": 2314,
+                "width": 94,
+                "height": 22
+              },
+              {
+                "text": "Bhanwala",
+                "left": 1406,
+                "top": 2314,
+                "width": 139,
+                "height": 22
+              },
+              {
+                "text": "Santhosh",
+                "left": 1735,
+                "top": 2313,
+                "width": 135,
+                "height": 23
+              },
+              {
+                "text": "Keshavan",
+                "left": 1882,
+                "top": 2314,
+                "width": 138,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Independent Director Independent Director",
+            "words": [
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2349,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1386,
+                "top": 2349,
+                "width": 106,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2349,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1915,
+                "top": 2349,
+                "width": 106,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Sashidhar Jagdishan Kaizad Bharucha",
+            "words": [
+              {
+                "text": "Sashidhar",
+                "left": 1207,
+                "top": 2428,
+                "width": 145,
+                "height": 22
+              },
+              {
+                "text": "Jagdishan",
+                "left": 1361,
+                "top": 2429,
+                "width": 148,
+                "height": 26
+              },
+              {
+                "text": "Kaizad",
+                "left": 1737,
+                "top": 2429,
+                "width": 95,
+                "height": 21
+              },
+              {
+                "text": "Bharucha",
+                "left": 1844,
+                "top": 2429,
+                "width": 137,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Managing Director & Chief Deputy Managing Director",
+            "words": [
+              {
+                "text": "Managing",
+                "left": 1208,
+                "top": 2464,
+                "width": 129,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1349,
+                "top": 2464,
+                "width": 106,
+                "height": 21
+              },
+              {
+                "text": "&",
+                "left": 1463,
+                "top": 2464,
+                "width": 17,
+                "height": 21
+              },
+              {
+                "text": "Chief",
+                "left": 1490,
+                "top": 2463,
+                "width": 69,
+                "height": 22
+              },
+              {
+                "text": "Deputy",
+                "left": 1737,
+                "top": 2464,
+                "width": 95,
+                "height": 27
+              },
+              {
+                "text": "Managing",
+                "left": 1843,
+                "top": 2464,
+                "width": 128,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1983,
+                "top": 2464,
+                "width": 106,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Executive Officer",
+            "words": [
+              {
+                "text": "Executive",
+                "left": 1208,
+                "top": 2499,
+                "width": 127,
+                "height": 21
+              },
+              {
+                "text": "Officer",
+                "left": 1345,
+                "top": 2498,
+                "width": 90,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Bhavesh Zaveri V. Srinivasa Rangan",
+            "words": [
+              {
+                "text": "Bhavesh",
+                "left": 1208,
+                "top": 2576,
+                "width": 120,
+                "height": 22
+              },
+              {
+                "text": "Zaveri",
+                "left": 1338,
+                "top": 2576,
+                "width": 88,
+                "height": 22
+              },
+              {
+                "text": "V.",
+                "left": 1735,
+                "top": 2576,
+                "width": 24,
+                "height": 22
+              },
+              {
+                "text": "Srinivasa",
+                "left": 1770,
+                "top": 2576,
+                "width": 131,
+                "height": 22
+              },
+              {
+                "text": "Rangan",
+                "left": 1912,
+                "top": 2576,
+                "width": 108,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Executive Director Executive Director",
+            "words": [
+              {
+                "text": "Executive",
+                "left": 1208,
+                "top": 2611,
+                "width": 127,
+                "height": 22
+              },
+              {
+                "text": "Director",
+                "left": 1346,
+                "top": 2611,
+                "width": 106,
+                "height": 22
+              },
+              {
+                "text": "Executive",
+                "left": 1737,
+                "top": 2611,
+                "width": 127,
+                "height": 22
+              },
+              {
+                "text": "Director",
+                "left": 1875,
+                "top": 2611,
+                "width": 106,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Mumbai, April 18, 2026 Srinivasan Vaidyanathan Ajay Agarwal",
+            "words": [
+              {
+                "text": "Mumbai,",
+                "left": 182,
+                "top": 2699,
+                "width": 112,
+                "height": 25
+              },
+              {
+                "text": "April",
+                "left": 305,
+                "top": 2699,
+                "width": 59,
+                "height": 27
+              },
+              {
+                "text": "18,",
+                "left": 376,
+                "top": 2699,
+                "width": 36,
+                "height": 25
+              },
+              {
+                "text": "2026",
+                "left": 423,
+                "top": 2699,
+                "width": 64,
+                "height": 22
+              },
+              {
+                "text": "Srinivasan",
+                "left": 1207,
+                "top": 2699,
+                "width": 149,
+                "height": 22
+              },
+              {
+                "text": "Vaidyanathan",
+                "left": 1365,
+                "top": 2699,
+                "width": 195,
+                "height": 26
+              },
+              {
+                "text": "Ajay",
+                "left": 1735,
+                "top": 2699,
+                "width": 62,
+                "height": 26
+              },
+              {
+                "text": "Agarwal",
+                "left": 1805,
+                "top": 2699,
+                "width": 118,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Chief Financial Officer Company Secretary",
+            "words": [
+              {
+                "text": "Chief",
+                "left": 1207,
+                "top": 2734,
+                "width": 69,
+                "height": 22
+              },
+              {
+                "text": "Financial",
+                "left": 1286,
+                "top": 2734,
+                "width": 116,
+                "height": 22
+              },
+              {
+                "text": "Officer",
+                "left": 1413,
+                "top": 2734,
+                "width": 90,
+                "height": 22
+              },
+              {
+                "text": "Company",
+                "left": 1736,
+                "top": 2734,
+                "width": 128,
+                "height": 27
+              },
+              {
+                "text": "Secretary",
+                "left": 1874,
+                "top": 2734,
+                "width": 129,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "HDFC Bank Limited",
+            "words": [
+              {
+                "text": "HDFC",
+                "left": 335,
+                "top": 2894,
+                "width": 82,
+                "height": 24
+              },
+              {
+                "text": "Bank",
+                "left": 429,
+                "top": 2894,
+                "width": 69,
+                "height": 24
+              },
+              {
+                "text": "Limited",
+                "left": 509,
+                "top": 2894,
+                "width": 100,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "476 Integrated Annual Report 2025-26",
+            "words": [
+              {
+                "text": "476",
+                "left": 180,
+                "top": 2919,
+                "width": 79,
+                "height": 36
+              },
+              {
+                "text": "Integrated",
+                "left": 335,
+                "top": 2932,
+                "width": 139,
+                "height": 29
+              },
+              {
+                "text": "Annual",
+                "left": 485,
+                "top": 2932,
+                "width": 95,
+                "height": 23
+              },
+              {
+                "text": "Report",
+                "left": 592,
+                "top": 2932,
+                "width": 94,
+                "height": 29
+              },
+              {
+                "text": "2025-26",
+                "left": 696,
+                "top": 2932,
+                "width": 114,
+                "height": 23
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "llm_model": "gemini-2.5-flash"
+  }
+}

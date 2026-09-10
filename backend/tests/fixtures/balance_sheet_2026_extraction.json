@@ -1,0 +1,265 @@
+{
+  "fields": {
+    "currency": {
+      "value": "crore",
+      "source_text": "(@ in crore)",
+      "page_number": 1
+    }
+  },
+  "tables": [],
+  "periods": [
+    {
+      "label": "March 31, 2026",
+      "fields": {
+        "capital": {
+          "value": 1539.34,
+          "source_text": "1,539.34",
+          "page_number": 1
+        },
+        "employees_stock_options_units_outstanding": {
+          "value": 4545.11,
+          "source_text": "4,545.11",
+          "page_number": 1
+        },
+        "reserves_and_surplus": {
+          "value": 579975.02,
+          "source_text": "579,975.02",
+          "page_number": 1
+        },
+        "minority_interest": {
+          "value": 22384.96,
+          "source_text": "22,384.96",
+          "page_number": 1
+        },
+        "deposits": {
+          "value": 3099638.29,
+          "source_text": "3,099,638.29",
+          "page_number": 1
+        },
+        "borrowings": {
+          "value": 588484.55,
+          "source_text": "588,484.55",
+          "page_number": 1
+        },
+        "other_liabilities_and_provisions": {
+          "value": 252977.53,
+          "source_text": "252,977.53",
+          "page_number": 1
+        },
+        "policyholders_funds": {
+          "value": 358496.04,
+          "source_text": "358,496.04",
+          "page_number": 1
+        },
+        "total_capital_and_liabilities": {
+          "value": 4908040.84,
+          "source_text": "4,908,040.84",
+          "page_number": 1
+        },
+        "cash_and_balances_with_reserve_bank_of_india": {
+          "value": 200707.11,
+          "source_text": "200,707.11",
+          "page_number": 1
+        },
+        "balances_with_banks_and_money_at_call_and_short_notice": {
+          "value": 111218.94,
+          "source_text": "111,218.94",
+          "page_number": 1
+        },
+        "investments": {
+          "value": 1280216.29,
+          "source_text": "1,280,216.29",
+          "page_number": 1
+        },
+        "advances": {
+          "value": 3050783.23,
+          "source_text": "3,050,783.23",
+          "page_number": 1
+        },
+        "fixed_assets": {
+          "value": 16491.59,
+          "source_text": "16,491.59",
+          "page_number": 1
+        },
+        "other_assets": {
+          "value": 248623.68,
+          "source_text": "248,623.68",
+          "page_number": 1
+        },
+        "total_assets": {
+          "value": 4908040.84,
+          "source_text": "4,908,040.84",
+          "page_number": 1
+        },
+        "contingent_liabilities": {
+          "value": 3479487.31,
+          "source_text": "3,479,487.31",
+          "page_number": 1
+        },
+        "bills_for_collection": {
+          "value": 82470.05,
+          "source_text": "82,470.05",
+          "page_number": 1
+        },
+        "total_liabilities": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "total_equity": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        }
+      },
+      "asset_components": [
+        "cash_and_balances_with_reserve_bank_of_india",
+        "balances_with_banks_and_money_at_call_and_short_notice",
+        "investments",
+        "advances",
+        "fixed_assets",
+        "other_assets"
+      ],
+      "liability_components": [
+        "capital",
+        "employees_stock_options_units_outstanding",
+        "reserves_and_surplus",
+        "minority_interest",
+        "deposits",
+        "borrowings",
+        "other_liabilities_and_provisions",
+        "policyholders_funds"
+      ],
+      "asset_components_complete": true,
+      "liability_components_complete": true
+    },
+    {
+      "label": "March 31, 2025",
+      "fields": {
+        "capital": {
+          "value": 765.22,
+          "source_text": "765.22",
+          "page_number": 1
+        },
+        "employees_stock_options_units_outstanding": {
+          "value": 3805.19,
+          "source_text": "3,805.19",
+          "page_number": 1
+        },
+        "reserves_and_surplus": {
+          "value": 517218.98,
+          "source_text": "517,218.98",
+          "page_number": 1
+        },
+        "minority_interest": {
+          "value": 16359.04,
+          "source_text": "16,359.04",
+          "page_number": 1
+        },
+        "deposits": {
+          "value": 2710898.23,
+          "source_text": "2,710,898.23",
+          "page_number": 1
+        },
+        "borrowings": {
+          "value": 634605.57,
+          "source_text": "634,605.57",
+          "page_number": 1
+        },
+        "other_liabilities_and_provisions": {
+          "value": 188163.66,
+          "source_text": "188,163.66",
+          "page_number": 1
+        },
+        "policyholders_funds": {
+          "value": 320601.53,
+          "source_text": "320,601.53",
+          "page_number": 1
+        },
+        "total_capital_and_liabilities": {
+          "value": 4392417.42,
+          "source_text": "4,392,417.42",
+          "page_number": 1
+        },
+        "cash_and_balances_with_reserve_bank_of_india": {
+          "value": 144390.25,
+          "source_text": "144,390.25",
+          "page_number": 1
+        },
+        "balances_with_banks_and_money_at_call_and_short_notice": {
+          "value": 105557.65,
+          "source_text": "105,557.65",
+          "page_number": 1
+        },
+        "investments": {
+          "value": 1186472.89,
+          "source_text": "1,186,472.89",
+          "page_number": 1
+        },
+        "advances": {
+          "value": 2724938.16,
+          "source_text": "2,724,938.16",
+          "page_number": 1
+        },
+        "fixed_assets": {
+          "value": 15257.94,
+          "source_text": "15,257.94",
+          "page_number": 1
+        },
+        "other_assets": {
+          "value": 215800.53,
+          "source_text": "215,800.53",
+          "page_number": 1
+        },
+        "total_assets": {
+          "value": 4392417.42,
+          "source_text": "4,392,417.42",
+          "page_number": 1
+        },
+        "contingent_liabilities": {
+          "value": 2709921.85,
+          "source_text": "2,709,921.85",
+          "page_number": 1
+        },
+        "bills_for_collection": {
+          "value": 70679.55,
+          "source_text": "70,679.55",
+          "page_number": 1
+        },
+        "total_liabilities": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        },
+        "total_equity": {
+          "value": null,
+          "source_text": null,
+          "page_number": null
+        }
+      },
+      "asset_components": [
+        "cash_and_balances_with_reserve_bank_of_india",
+        "balances_with_banks_and_money_at_call_and_short_notice",
+        "investments",
+        "advances",
+        "fixed_assets",
+        "other_assets"
+      ],
+      "liability_components": [
+        "capital",
+        "employees_stock_options_units_outstanding",
+        "reserves_and_surplus",
+        "minority_interest",
+        "deposits",
+        "borrowings",
+        "other_liabilities_and_provisions",
+        "policyholders_funds"
+      ],
+      "asset_components_complete": true,
+      "liability_components_complete": true
+    }
+  ],
+  "line_items": [],
+  "tax_included": null,
+  "issues": []
+}

@@ -1,0 +1,6248 @@
+{
+  "document_name": "Consolidated Cash Flow Statement 2026.pdf",
+  "document_type": "cash_flow_statement",
+  "processing_status": "PASS",
+  "file_validation": {
+    "file_type": "application/pdf",
+    "is_supported": true,
+    "is_readable": true,
+    "page_count": 2,
+    "status": "PASS"
+  },
+  "extracted_data": {
+    "fields": {
+      "document_title": {
+        "value": "CONSOLIDATED CASH FLOW STATEMENT",
+        "source_text": "CONSOLIDATED CASH FLOW STATEMENT",
+        "page_number": 1
+      },
+      "report_date": {
+        "value": "March 31, 2026",
+        "source_text": "March 31, 2026",
+        "page_number": 1
+      },
+      "currency_unit": {
+        "value": "crore",
+        "source_text": "(= in crore)",
+        "page_number": 1
+      },
+      "company_name": {
+        "value": "HDFC Bank Limited",
+        "source_text": "HDFC Bank Limited",
+        "page_number": 1
+      },
+      "report_type": {
+        "value": "Integrated Annual Report",
+        "source_text": "Integrated Annual Report 2025-26",
+        "page_number": 1
+      },
+      "report_year": {
+        "value": "2025-26",
+        "source_text": "2025-26",
+        "page_number": 1
+      },
+      "cash_and_cash_equivalents_note": {
+        "value": "Cash and cash equivalents include Cash and balances with Reserve Bank of India and Balances with banks and money at call and short notice (Refer Schedule 6 and Schedule 7).",
+        "source_text": "Cash and cash equivalents include Cash and balances with Reserve Bank of India and Balances with banks and money at call and short notice\n(Refer Schedule 6 and Schedule 7).",
+        "page_number": 2
+      }
+    },
+    "tables": [
+      {
+        "title": "Statement rows - page 1",
+        "columns": [
+          "label",
+          "section",
+          "schedule",
+          "section_schedule",
+          "2026",
+          "2025"
+        ],
+        "rows": [
+          {
+            "label": {
+              "value": "Consolidated Profit after tax and minority interest",
+              "source_text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from operating activities:",
+              "source_text": "Cash flows from operating activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from operating activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "76,025.97",
+              "source_text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "70,792.25",
+              "source_text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Add: Provision for income tax ( Refer schedule 18 (9))",
+              "source_text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from operating activities:",
+              "source_text": "Cash flows from operating activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": "18 (9)",
+              "source_text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from operating activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "22,921.99",
+              "source_text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "22,801.88",
+              "source_text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Consolidated profit before income tax and after minority interest",
+              "source_text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from operating activities:",
+              "source_text": "Cash flows from operating activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from operating activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "98,947.96",
+              "source_text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "93,594.13",
+              "source_text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Depreciation on fixed assets",
+              "source_text": "Depreciation on fixed assets 4,194.90 3,805.23",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Depreciation on fixed assets 4,194.90 3,805.23",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "4,194.90",
+              "source_text": "Depreciation on fixed assets 4,194.90 3,805.23",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "3,805.23",
+              "source_text": "Depreciation on fixed assets 4,194.90 3,805.23",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Loss on revaluation of investments",
+              "source_text": "Loss on revaluation of investments 7,739.96 3,909.10",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Loss on revaluation of investments 7,739.96 3,909.10",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "7,739.96",
+              "source_text": "Loss on revaluation of investments 7,739.96 3,909.10",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "3,909.10",
+              "source_text": "Loss on revaluation of investments 7,739.96 3,909.10",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Amortisation of premium on investments",
+              "source_text": "Amortisation of premium on investments 986.17 87.07",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Amortisation of premium on investments 986.17 87.07",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "986.17",
+              "source_text": "Amortisation of premium on investments 986.17 87.07",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "87.07",
+              "source_text": "Amortisation of premium on investments 986.17 87.07",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Profit on sale of fixed assets",
+              "source_text": "Profit on sale of fixed assets (207.91) (22.03)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Profit on sale of fixed assets (207.91) (22.03)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(207.91)",
+              "source_text": "Profit on sale of fixed assets (207.91) (22.03)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(22.03)",
+              "source_text": "Profit on sale of fixed assets (207.91) (22.03)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "(Profit) / loss on sale of investment in subsidiary",
+              "source_text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(7,000.27)",
+              "source_text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "8.00",
+              "source_text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Provision / charge for non performing assets",
+              "source_text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "14,445.98",
+              "source_text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "15,385.24",
+              "source_text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Floating provisions",
+              "source_text": "Floating provisions 9,000.00 -",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Floating provisions 9,000.00 -",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "9,000.00",
+              "source_text": "Floating provisions 9,000.00 -",
+              "page_number": 1
+            },
+            "2025": {
+              "value": null,
+              "source_text": "Floating provisions 9,000.00 -",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Provision / (write-back) for standard assets and contingencies",
+              "source_text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "3,210.24",
+              "source_text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(1,210.63)",
+              "source_text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Employee stock options / units expense",
+              "source_text": "Employee stock options / units expense 2,228.30 2,086.05",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Employee stock options / units expense 2,228.30 2,086.05",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "2,228.30",
+              "source_text": "Employee stock options / units expense 2,228.30 2,086.05",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "2,086.05",
+              "source_text": "Employee stock options / units expense 2,228.30 2,086.05",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": null,
+              "source_text": "133,545.33 117,642.16",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "133,545.33 117,642.16",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "133,545.33",
+              "source_text": "133,545.33 117,642.16",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "117,642.16",
+              "source_text": "133,545.33 117,642.16",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Increase in investments",
+              "source_text": "Increase in investments (102,572.73) (180,362.67)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in investments (102,572.73) (180,362.67)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(102,572.73)",
+              "source_text": "Increase in investments (102,572.73) (180,362.67)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(180,362.67)",
+              "source_text": "Increase in investments (102,572.73) (180,362.67)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Increase in advances",
+              "source_text": "Increase in advances (340,270.74) (169,918.22)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in advances (340,270.74) (169,918.22)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(340,270.74)",
+              "source_text": "Increase in advances (340,270.74) (169,918.22)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(169,918.22)",
+              "source_text": "Increase in advances (340,270.74) (169,918.22)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Increase in deposits",
+              "source_text": "Increase in deposits 388,740.06 334,010.95",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in deposits 388,740.06 334,010.95",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "388,740.06",
+              "source_text": "Increase in deposits 388,740.06 334,010.95",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "334,010.95",
+              "source_text": "Increase in deposits 388,740.06 334,010.95",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Increase in other assets",
+              "source_text": "Increase in other assets (29,678.54) (10,829.67)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in other assets (29,678.54) (10,829.67)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(29,678.54)",
+              "source_text": "Increase in other assets (29,678.54) (10,829.67)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(10,829.67)",
+              "source_text": "Increase in other assets (29,678.54) (10,829.67)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Increase in other liabilities and provisions",
+              "source_text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "52,338.92",
+              "source_text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "13,117.98",
+              "source_text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Increase in policyholders' funds",
+              "source_text": "Increase in policyholders' funds 34,060.45 43,289.99",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in policyholders' funds 34,060.45 43,289.99",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "34,060.45",
+              "source_text": "Increase in policyholders' funds 34,060.45 43,289.99",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "43,289.99",
+              "source_text": "Increase in policyholders' funds 34,060.45 43,289.99",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": null,
+              "source_text": "136,162.75 146,950.52",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "136,162.75 146,950.52",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "136,162.75",
+              "source_text": "136,162.75 146,950.52",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "146,950.52",
+              "source_text": "136,162.75 146,950.52",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Direct taxes paid (net of refunds)",
+              "source_text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(22,656.37)",
+              "source_text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(19,708.68)",
+              "source_text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Net cash flows from operating activities",
+              "source_text": "Net cash flows from operating activities 113,506.38 127,241.84",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Adjustments for:",
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Net cash flows from operating activities 113,506.38 127,241.84",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Adjustments for:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "113,506.38",
+              "source_text": "Net cash flows from operating activities 113,506.38 127,241.84",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "127,241.84",
+              "source_text": "Net cash flows from operating activities 113,506.38 127,241.84",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Purchase of fixed assets",
+              "source_text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from investing activities:",
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(3,889.97)",
+              "source_text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(4,075.89)",
+              "source_text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Proceeds from sale of fixed assets",
+              "source_text": "Proceeds from sale of fixed assets 527.56 100.72",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from investing activities:",
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Proceeds from sale of fixed assets 527.56 100.72",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "527.56",
+              "source_text": "Proceeds from sale of fixed assets 527.56 100.72",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "100.72",
+              "source_text": "Proceeds from sale of fixed assets 527.56 100.72",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Proceeds from sale of investment in subsidiary (net of expenses)",
+              "source_text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from investing activities:",
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "9,806.00",
+              "source_text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "192.00",
+              "source_text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Investment in subsidiaries",
+              "source_text": "Investment in subsidiaries (80.87) (67.47)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from investing activities:",
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Investment in subsidiaries (80.87) (67.47)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "(80.87)",
+              "source_text": "Investment in subsidiaries (80.87) (67.47)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(67.47)",
+              "source_text": "Investment in subsidiaries (80.87) (67.47)",
+              "page_number": 1
+            }
+          },
+          {
+            "label": {
+              "value": "Net cash flow from / (used in) investing activities",
+              "source_text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+              "page_number": 1
+            },
+            "section": {
+              "value": "Cash flows from investing activities:",
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+              "page_number": 1
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from investing activities:",
+              "page_number": 1
+            },
+            "2026": {
+              "value": "6,362.72",
+              "source_text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+              "page_number": 1
+            },
+            "2025": {
+              "value": "(3,850.64)",
+              "source_text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+              "page_number": 1
+            }
+          }
+        ]
+      },
+      {
+        "title": "Statement rows - page 2",
+        "columns": [
+          "label",
+          "section",
+          "schedule",
+          "section_schedule",
+          "2026",
+          "2025"
+        ],
+        "rows": [
+          {
+            "label": {
+              "value": "Increase in minority interest (including issue of ESOPs by subsidiaries)",
+              "source_text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "2,331.21",
+              "source_text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "2,382.88",
+              "source_text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Proceeds from issue of share capital",
+              "source_text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "5,108.50",
+              "source_text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "6,346.50",
+              "source_text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses)",
+              "source_text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "2,456.61",
+              "source_text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+              "page_number": 2
+            },
+            "2025": {
+              "value": null,
+              "source_text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Proceeds from issue of Tier 1 and Tier 2 capital instruments",
+              "source_text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "700.00",
+              "source_text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "1,182.00",
+              "source_text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Repayment of Tier 1 and Tier 2 capital instruments",
+              "source_text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": null,
+              "source_text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "(500.00)",
+              "source_text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Repayments from other borrowings (net)",
+              "source_text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "(48,895.19)",
+              "source_text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "(97,062.73)",
+              "source_text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Dividend paid during the year",
+              "source_text": "Dividend paid during the year (20,705.98) (14,826.19)",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Dividend paid during the year (20,705.98) (14,826.19)",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "(20,705.98)",
+              "source_text": "Dividend paid during the year (20,705.98) (14,826.19)",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "(14,826.19)",
+              "source_text": "Dividend paid during the year (20,705.98) (14,826.19)",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Net cash flow used in financing activities",
+              "source_text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "(59,004.85)",
+              "source_text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "(102,477.54)",
+              "source_text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Effect of fluctuation in foreign currency translation reserve",
+              "source_text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "1,113.90",
+              "source_text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "199.73",
+              "source_text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Net increase in cash and cash equivalents",
+              "source_text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "61,978.15",
+              "source_text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "21,113.39",
+              "source_text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Cash and cash equivalents at the beginning of the year",
+              "source_text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "249,947.90",
+              "source_text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "228,834.51",
+              "source_text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+              "page_number": 2
+            }
+          },
+          {
+            "label": {
+              "value": "Cash and cash equivalents at the end of the year",
+              "source_text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+              "page_number": 2
+            },
+            "section": {
+              "value": "Cash flows from financing activities:",
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "schedule": {
+              "value": null,
+              "source_text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+              "page_number": 2
+            },
+            "section_schedule": {
+              "value": null,
+              "source_text": "Cash flows from financing activities:",
+              "page_number": 2
+            },
+            "2026": {
+              "value": "311,926.05",
+              "source_text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+              "page_number": 2
+            },
+            "2025": {
+              "value": "249,947.90",
+              "source_text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+              "page_number": 2
+            }
+          }
+        ]
+      }
+    ],
+    "periods": [
+      {
+        "label": "Year ended March 31, 2026",
+        "fields": {
+          "consolidated_profit_after_tax_and_minority_interest": {
+            "value": "76,025.97",
+            "source_text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+            "page_number": 1
+          },
+          "add_provision_for_income_tax_refer_schedule_18_9": {
+            "value": "22,921.99",
+            "source_text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+            "page_number": 1
+          },
+          "consolidated_profit_before_income_tax_and_after_minority_interest": {
+            "value": "98,947.96",
+            "source_text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+            "page_number": 1
+          },
+          "depreciation_on_fixed_assets": {
+            "value": "4,194.90",
+            "source_text": "Depreciation on fixed assets 4,194.90 3,805.23",
+            "page_number": 1
+          },
+          "loss_on_revaluation_of_investments": {
+            "value": "7,739.96",
+            "source_text": "Loss on revaluation of investments 7,739.96 3,909.10",
+            "page_number": 1
+          },
+          "amortisation_of_premium_on_investments": {
+            "value": "986.17",
+            "source_text": "Amortisation of premium on investments 986.17 87.07",
+            "page_number": 1
+          },
+          "profit_on_sale_of_fixed_assets": {
+            "value": "(207.91)",
+            "source_text": "Profit on sale of fixed assets (207.91) (22.03)",
+            "page_number": 1
+          },
+          "profit_loss_on_sale_of_investment_in_subsidiary": {
+            "value": "(7,000.27)",
+            "source_text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+            "page_number": 1
+          },
+          "provision_charge_for_non_performing_assets": {
+            "value": "14,445.98",
+            "source_text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+            "page_number": 1
+          },
+          "floating_provisions": {
+            "value": "9,000.00",
+            "source_text": "Floating provisions 9,000.00 -",
+            "page_number": 1
+          },
+          "provision_write_back_for_standard_assets_and_contingencies": {
+            "value": "3,210.24",
+            "source_text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+            "page_number": 1
+          },
+          "employee_stock_options_units_expense": {
+            "value": "2,228.30",
+            "source_text": "Employee stock options / units expense 2,228.30 2,086.05",
+            "page_number": 1
+          },
+          "subtotal_cash_flows_from_operating_activities_adjustments": {
+            "value": 133545.33,
+            "source_text": "133,545.33",
+            "page_number": 1
+          },
+          "increase_in_investments": {
+            "value": "(102,572.73)",
+            "source_text": "Increase in investments (102,572.73) (180,362.67)",
+            "page_number": 1
+          },
+          "increase_in_advances": {
+            "value": "(340,270.74)",
+            "source_text": "Increase in advances (340,270.74) (169,918.22)",
+            "page_number": 1
+          },
+          "increase_in_deposits": {
+            "value": "388,740.06",
+            "source_text": "Increase in deposits 388,740.06 334,010.95",
+            "page_number": 1
+          },
+          "increase_in_other_assets": {
+            "value": "(29,678.54)",
+            "source_text": "Increase in other assets (29,678.54) (10,829.67)",
+            "page_number": 1
+          },
+          "increase_in_other_liabilities_and_provisions": {
+            "value": "52,338.92",
+            "source_text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+            "page_number": 1
+          },
+          "increase_in_policyholders_funds": {
+            "value": "34,060.45",
+            "source_text": "Increase in policyholders' funds 34,060.45 43,289.99",
+            "page_number": 1
+          },
+          "subtotal_cash_flows_from_operating_activities_working_capital_adjustments": {
+            "value": 136162.75,
+            "source_text": "136,162.75",
+            "page_number": 1
+          },
+          "direct_taxes_paid_net_of_refunds": {
+            "value": "(22,656.37)",
+            "source_text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+            "page_number": 1
+          },
+          "operating_cash_flow": {
+            "value": "113,506.38",
+            "source_text": "Net cash flows from operating activities 113,506.38 127,241.84",
+            "page_number": 1
+          },
+          "purchase_of_fixed_assets": {
+            "value": "(3,889.97)",
+            "source_text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+            "page_number": 1
+          },
+          "proceeds_from_sale_of_fixed_assets": {
+            "value": "527.56",
+            "source_text": "Proceeds from sale of fixed assets 527.56 100.72",
+            "page_number": 1
+          },
+          "proceeds_from_sale_of_investment_in_subsidiary_net_of_expenses": {
+            "value": "9,806.00",
+            "source_text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+            "page_number": 1
+          },
+          "investment_in_subsidiaries": {
+            "value": "(80.87)",
+            "source_text": "Investment in subsidiaries (80.87) (67.47)",
+            "page_number": 1
+          },
+          "investing_cash_flow": {
+            "value": "6,362.72",
+            "source_text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+            "page_number": 1
+          },
+          "increase_in_minority_interest_including_issue_of_esops_by_subsidiaries": {
+            "value": "2,331.21",
+            "source_text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+            "page_number": 2
+          },
+          "proceeds_from_issue_of_share_capital": {
+            "value": "5,108.50",
+            "source_text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+            "page_number": 2
+          },
+          "proceeds_from_issue_of_shares_through_subsidiary_ipo_net_of_issue_expenses": {
+            "value": "2,456.61",
+            "source_text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+            "page_number": 2
+          },
+          "proceeds_from_issue_of_tier_1_and_tier_2_capital_instruments": {
+            "value": "700.00",
+            "source_text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+            "page_number": 2
+          },
+          "repayment_of_tier_1_and_tier_2_capital_instruments": {
+            "value": null,
+            "source_text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+            "page_number": 2
+          },
+          "repayments_from_other_borrowings_net": {
+            "value": "(48,895.19)",
+            "source_text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+            "page_number": 2
+          },
+          "dividend_paid_during_the_year": {
+            "value": "(20,705.98)",
+            "source_text": "Dividend paid during the year (20,705.98) (14,826.19)",
+            "page_number": 2
+          },
+          "financing_cash_flow": {
+            "value": "(59,004.85)",
+            "source_text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+            "page_number": 2
+          },
+          "fx_adjustment": {
+            "value": "1,113.90",
+            "source_text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+            "page_number": 2
+          },
+          "net_change_in_cash": {
+            "value": "61,978.15",
+            "source_text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+            "page_number": 2
+          },
+          "opening_cash": {
+            "value": "249,947.90",
+            "source_text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+            "page_number": 2
+          },
+          "closing_cash": {
+            "value": "311,926.05",
+            "source_text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+            "page_number": 2
+          },
+          "cash_acquired_or_other_adjustments": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      },
+      {
+        "label": "Year ended March 31, 2025",
+        "fields": {
+          "consolidated_profit_after_tax_and_minority_interest": {
+            "value": "70,792.25",
+            "source_text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+            "page_number": 1
+          },
+          "add_provision_for_income_tax_refer_schedule_18_9": {
+            "value": "22,801.88",
+            "source_text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+            "page_number": 1
+          },
+          "consolidated_profit_before_income_tax_and_after_minority_interest": {
+            "value": "93,594.13",
+            "source_text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+            "page_number": 1
+          },
+          "depreciation_on_fixed_assets": {
+            "value": "3,805.23",
+            "source_text": "Depreciation on fixed assets 4,194.90 3,805.23",
+            "page_number": 1
+          },
+          "loss_on_revaluation_of_investments": {
+            "value": "3,909.10",
+            "source_text": "Loss on revaluation of investments 7,739.96 3,909.10",
+            "page_number": 1
+          },
+          "amortisation_of_premium_on_investments": {
+            "value": "87.07",
+            "source_text": "Amortisation of premium on investments 986.17 87.07",
+            "page_number": 1
+          },
+          "profit_on_sale_of_fixed_assets": {
+            "value": "(22.03)",
+            "source_text": "Profit on sale of fixed assets (207.91) (22.03)",
+            "page_number": 1
+          },
+          "profit_loss_on_sale_of_investment_in_subsidiary": {
+            "value": "8.00",
+            "source_text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+            "page_number": 1
+          },
+          "provision_charge_for_non_performing_assets": {
+            "value": "15,385.24",
+            "source_text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+            "page_number": 1
+          },
+          "floating_provisions": {
+            "value": null,
+            "source_text": "Floating provisions 9,000.00 -",
+            "page_number": 1
+          },
+          "provision_write_back_for_standard_assets_and_contingencies": {
+            "value": "(1,210.63)",
+            "source_text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+            "page_number": 1
+          },
+          "employee_stock_options_units_expense": {
+            "value": "2,086.05",
+            "source_text": "Employee stock options / units expense 2,228.30 2,086.05",
+            "page_number": 1
+          },
+          "subtotal_cash_flows_from_operating_activities_adjustments": {
+            "value": 117642.16,
+            "source_text": "117,642.16",
+            "page_number": 1
+          },
+          "increase_in_investments": {
+            "value": "(180,362.67)",
+            "source_text": "Increase in investments (102,572.73) (180,362.67)",
+            "page_number": 1
+          },
+          "increase_in_advances": {
+            "value": "(169,918.22)",
+            "source_text": "Increase in advances (340,270.74) (169,918.22)",
+            "page_number": 1
+          },
+          "increase_in_deposits": {
+            "value": "334,010.95",
+            "source_text": "Increase in deposits 388,740.06 334,010.95",
+            "page_number": 1
+          },
+          "increase_in_other_assets": {
+            "value": "(10,829.67)",
+            "source_text": "Increase in other assets (29,678.54) (10,829.67)",
+            "page_number": 1
+          },
+          "increase_in_other_liabilities_and_provisions": {
+            "value": "13,117.98",
+            "source_text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+            "page_number": 1
+          },
+          "increase_in_policyholders_funds": {
+            "value": "43,289.99",
+            "source_text": "Increase in policyholders' funds 34,060.45 43,289.99",
+            "page_number": 1
+          },
+          "subtotal_cash_flows_from_operating_activities_working_capital_adjustments": {
+            "value": 146950.52,
+            "source_text": "146,950.52",
+            "page_number": 1
+          },
+          "direct_taxes_paid_net_of_refunds": {
+            "value": "(19,708.68)",
+            "source_text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+            "page_number": 1
+          },
+          "operating_cash_flow": {
+            "value": "127,241.84",
+            "source_text": "Net cash flows from operating activities 113,506.38 127,241.84",
+            "page_number": 1
+          },
+          "purchase_of_fixed_assets": {
+            "value": "(4,075.89)",
+            "source_text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+            "page_number": 1
+          },
+          "proceeds_from_sale_of_fixed_assets": {
+            "value": "100.72",
+            "source_text": "Proceeds from sale of fixed assets 527.56 100.72",
+            "page_number": 1
+          },
+          "proceeds_from_sale_of_investment_in_subsidiary_net_of_expenses": {
+            "value": "192.00",
+            "source_text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+            "page_number": 1
+          },
+          "investment_in_subsidiaries": {
+            "value": "(67.47)",
+            "source_text": "Investment in subsidiaries (80.87) (67.47)",
+            "page_number": 1
+          },
+          "investing_cash_flow": {
+            "value": "(3,850.64)",
+            "source_text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+            "page_number": 1
+          },
+          "increase_in_minority_interest_including_issue_of_esops_by_subsidiaries": {
+            "value": "2,382.88",
+            "source_text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+            "page_number": 2
+          },
+          "proceeds_from_issue_of_share_capital": {
+            "value": "6,346.50",
+            "source_text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+            "page_number": 2
+          },
+          "proceeds_from_issue_of_shares_through_subsidiary_ipo_net_of_issue_expenses": {
+            "value": null,
+            "source_text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+            "page_number": 2
+          },
+          "proceeds_from_issue_of_tier_1_and_tier_2_capital_instruments": {
+            "value": "1,182.00",
+            "source_text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+            "page_number": 2
+          },
+          "repayment_of_tier_1_and_tier_2_capital_instruments": {
+            "value": "(500.00)",
+            "source_text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+            "page_number": 2
+          },
+          "repayments_from_other_borrowings_net": {
+            "value": "(97,062.73)",
+            "source_text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+            "page_number": 2
+          },
+          "dividend_paid_during_the_year": {
+            "value": "(14,826.19)",
+            "source_text": "Dividend paid during the year (20,705.98) (14,826.19)",
+            "page_number": 2
+          },
+          "financing_cash_flow": {
+            "value": "(102,477.54)",
+            "source_text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+            "page_number": 2
+          },
+          "fx_adjustment": {
+            "value": "199.73",
+            "source_text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+            "page_number": 2
+          },
+          "net_change_in_cash": {
+            "value": "21,113.39",
+            "source_text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+            "page_number": 2
+          },
+          "opening_cash": {
+            "value": "228,834.51",
+            "source_text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+            "page_number": 2
+          },
+          "closing_cash": {
+            "value": "249,947.90",
+            "source_text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+            "page_number": 2
+          },
+          "cash_acquired_or_other_adjustments": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      }
+    ],
+    "line_items": [],
+    "line_items_tax_included": null,
+    "tax_included": null,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "net_cash_change",
+        "period": "Year ended March 31, 2026",
+        "formula": "operating_cash_flow + investing_cash_flow + financing_cash_flow + fx_adjustment = net_change_in_cash",
+        "operands": {
+          "operating_cash_flow": "113506.38",
+          "investing_cash_flow": "6362.72",
+          "financing_cash_flow": "-59004.85",
+          "fx_adjustment": "1113.90"
+        },
+        "calculated_value": "61978.15",
+        "reported_value": "61978.15",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "closing_cash",
+        "period": "Year ended March 31, 2026",
+        "formula": "opening_cash + net_change_in_cash + cash_acquired_or_other_adjustments = closing_cash",
+        "operands": {
+          "opening_cash": "249947.90",
+          "net_change_in_cash": "61978.15",
+          "cash_acquired_or_other_adjustments": null
+        },
+        "calculated_value": null,
+        "reported_value": "311926.05",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "net_cash_change",
+        "period": "Year ended March 31, 2025",
+        "formula": "operating_cash_flow + investing_cash_flow + financing_cash_flow + fx_adjustment = net_change_in_cash",
+        "operands": {
+          "operating_cash_flow": "127241.84",
+          "investing_cash_flow": "-3850.64",
+          "financing_cash_flow": "-102477.54",
+          "fx_adjustment": "199.73"
+        },
+        "calculated_value": "21113.39",
+        "reported_value": "21113.39",
+        "variance": "0.00",
+        "status": "PASS"
+      },
+      {
+        "name": "closing_cash",
+        "period": "Year ended March 31, 2025",
+        "formula": "opening_cash + net_change_in_cash + cash_acquired_or_other_adjustments = closing_cash",
+        "operands": {
+          "opening_cash": "228834.51",
+          "net_change_in_cash": "21113.39",
+          "cash_acquired_or_other_adjustments": null
+        },
+        "calculated_value": null,
+        "reported_value": "249947.90",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": []
+  },
+  "processing_metadata": {
+    "ocr_used": true,
+    "processed_at": "2026-09-10T17:31:26.744447+00:00",
+    "processing_time_ms": 58963,
+    "source_pages": [
+      {
+        "page_number": 1,
+        "text": "rs\nLal\nCONSOLIDATED CASH FLOW STATEMENT\nFor the year ended March 31, 2026\n(= in crore)\nYear ended Year ended\nMarch 31, 2026 March 31, 2025\nCash flows from operating activities:\n.\nConsolidated Profit after tax and minority interest 76,025.97 70,792.25\nAdd: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88\nConsolidated profit before income tax and after minority interest 98,947.96 93,594.13\nAdjustments for:\nDepreciation on fixed assets 4,194.90 3,805.23\n.\nLoss on revaluation of investments 7,739.96 3,909.10\n.\nAmortisation of premium on investments 986.17 87.07\n.\nProfit on sale of fixed assets (207.91) (22.03)\n(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00\n.\nProvision / charge for non performing assets 14,445.98 15,385.24\n.\nFloating provisions 9,000.00 -\n.\nProvision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)\nEmployee stock options / units expense 2,228.30 2,086.05\n133,545.33 117,642.16\nAdjustments for:\nIncrease in investments (102,572.73) (180,362.67)\nIncrease in advances (340,270.74) (169,918.22)\nIncrease in deposits 388,740.06 334,010.95\n.\nIncrease in other assets (29,678.54) (10,829.67)\n.\nIncrease in other liabilities and provisions 52,338.92 13,117.98\n.\nIncrease in policyholders' funds 34,060.45 43,289.99\n136,162.75 146,950.52\nDirect taxes paid (net of refunds) (22,656.37) (19,708.68)\nNet cash flows from operating activities 113,506.38 127,241.84\nCash flows from investing activities:\n.\nPurchase of fixed assets (3,889.97) (4,075.89)\nProceeds from sale of fixed assets 527.56 100.72\nProceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00\nInvestment in subsidiaries (80.87) (67.47)\nNet cash flow from / (used in) investing activities 6,362.72 (3,850.64)\nHDFC Bank Limited\n478 Integrated Annual Report 2025-26",
+        "layout_rows": [
+          {
+            "text": "rs",
+            "words": [
+              {
+                "text": "rs",
+                "left": 179,
+                "top": 96,
+                "width": 62,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Lal",
+            "words": [
+              {
+                "text": "Lal",
+                "left": 179,
+                "top": 118,
+                "width": 62,
+                "height": 41
+              }
+            ]
+          },
+          {
+            "text": "CONSOLIDATED CASH FLOW STATEMENT",
+            "words": [
+              {
+                "text": "CONSOLIDATED",
+                "left": 182,
+                "top": 208,
+                "width": 499,
+                "height": 43
+              },
+              {
+                "text": "CASH",
+                "left": 713,
+                "top": 208,
+                "width": 169,
+                "height": 43
+              },
+              {
+                "text": "FLOW",
+                "left": 919,
+                "top": 208,
+                "width": 173,
+                "height": 43
+              },
+              {
+                "text": "STATEMENT",
+                "left": 1123,
+                "top": 208,
+                "width": 373,
+                "height": 43
+              }
+            ]
+          },
+          {
+            "text": "For the year ended March 31, 2026",
+            "words": [
+              {
+                "text": "For",
+                "left": 182,
+                "top": 273,
+                "width": 51,
+                "height": 28
+              },
+              {
+                "text": "the",
+                "left": 243,
+                "top": 273,
+                "width": 50,
+                "height": 28
+              },
+              {
+                "text": "year",
+                "left": 305,
+                "top": 280,
+                "width": 69,
+                "height": 28
+              },
+              {
+                "text": "ended",
+                "left": 385,
+                "top": 273,
+                "width": 101,
+                "height": 28
+              },
+              {
+                "text": "March",
+                "left": 502,
+                "top": 273,
+                "width": 99,
+                "height": 28
+              },
+              {
+                "text": "31,",
+                "left": 614,
+                "top": 274,
+                "width": 44,
+                "height": 31
+              },
+              {
+                "text": "2026",
+                "left": 673,
+                "top": 274,
+                "width": 81,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "(= in crore)",
+            "words": [
+              {
+                "text": "(=",
+                "left": 2146,
+                "top": 370,
+                "width": 20,
+                "height": 28
+              },
+              {
+                "text": "in",
+                "left": 2177,
+                "top": 370,
+                "width": 19,
+                "height": 22
+              },
+              {
+                "text": "crore)",
+                "left": 2206,
+                "top": 370,
+                "width": 73,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Year ended Year ended",
+            "words": [
+              {
+                "text": "Year",
+                "left": 1834,
+                "top": 426,
+                "width": 66,
+                "height": 22
+              },
+              {
+                "text": "ended",
+                "left": 1908,
+                "top": 426,
+                "width": 88,
+                "height": 22
+              },
+              {
+                "text": "Year",
+                "left": 2117,
+                "top": 426,
+                "width": 65,
+                "height": 22
+              },
+              {
+                "text": "ended",
+                "left": 2191,
+                "top": 426,
+                "width": 87,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "March 31, 2026 March 31, 2025",
+            "words": [
+              {
+                "text": "March",
+                "left": 1782,
+                "top": 461,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 1881,
+                "top": 461,
+                "width": 39,
+                "height": 26
+              },
+              {
+                "text": "2026",
+                "left": 1930,
+                "top": 461,
+                "width": 67,
+                "height": 22
+              },
+              {
+                "text": "March",
+                "left": 2065,
+                "top": 461,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 2164,
+                "top": 461,
+                "width": 38,
+                "height": 26
+              },
+              {
+                "text": "2025",
+                "left": 2212,
+                "top": 461,
+                "width": 67,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Cash flows from operating activities:",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 189,
+                "top": 521,
+                "width": 90,
+                "height": 28
+              },
+              {
+                "text": "flows",
+                "left": 292,
+                "top": 522,
+                "width": 97,
+                "height": 27
+              },
+              {
+                "text": "from",
+                "left": 400,
+                "top": 522,
+                "width": 84,
+                "height": 27
+              },
+              {
+                "text": "operating",
+                "left": 498,
+                "top": 522,
+                "width": 174,
+                "height": 34
+              },
+              {
+                "text": "activities:",
+                "left": 686,
+                "top": 522,
+                "width": 174,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 572,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Consolidated Profit after tax and minority interest 76,025.97 70,792.25",
+            "words": [
+              {
+                "text": "Consolidated",
+                "left": 189,
+                "top": 596,
+                "width": 195,
+                "height": 25
+              },
+              {
+                "text": "Profit",
+                "left": 398,
+                "top": 596,
+                "width": 76,
+                "height": 25
+              },
+              {
+                "text": "after",
+                "left": 485,
+                "top": 596,
+                "width": 66,
+                "height": 25
+              },
+              {
+                "text": "tax",
+                "left": 561,
+                "top": 597,
+                "width": 45,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 617,
+                "top": 596,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "minority",
+                "left": 683,
+                "top": 596,
+                "width": 117,
+                "height": 31
+              },
+              {
+                "text": "interest",
+                "left": 812,
+                "top": 596,
+                "width": 107,
+                "height": 25
+              },
+              {
+                "text": "76,025.97",
+                "left": 1833,
+                "top": 596,
+                "width": 145,
+                "height": 29
+              },
+              {
+                "text": "70,792.25",
+                "left": 2115,
+                "top": 596,
+                "width": 146,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Add: Provision for income tax ( Refer schedule 18 (9)) 22,921.99 22,801.88",
+            "words": [
+              {
+                "text": "Add:",
+                "left": 188,
+                "top": 667,
+                "width": 67,
+                "height": 25
+              },
+              {
+                "text": "Provision",
+                "left": 270,
+                "top": 667,
+                "width": 133,
+                "height": 25
+              },
+              {
+                "text": "for",
+                "left": 415,
+                "top": 667,
+                "width": 39,
+                "height": 25
+              },
+              {
+                "text": "income",
+                "left": 466,
+                "top": 667,
+                "width": 107,
+                "height": 25
+              },
+              {
+                "text": "tax",
+                "left": 582,
+                "top": 669,
+                "width": 46,
+                "height": 23
+              },
+              {
+                "text": "(",
+                "left": 639,
+                "top": 667,
+                "width": 7,
+                "height": 31
+              },
+              {
+                "text": "Refer",
+                "left": 658,
+                "top": 667,
+                "width": 77,
+                "height": 25
+              },
+              {
+                "text": "schedule",
+                "left": 745,
+                "top": 667,
+                "width": 134,
+                "height": 25
+              },
+              {
+                "text": "18",
+                "left": 891,
+                "top": 667,
+                "width": 33,
+                "height": 25
+              },
+              {
+                "text": "(9))",
+                "left": 936,
+                "top": 667,
+                "width": 42,
+                "height": 31
+              },
+              {
+                "text": "22,921.99",
+                "left": 1832,
+                "top": 667,
+                "width": 146,
+                "height": 29
+              },
+              {
+                "text": "22,801.88",
+                "left": 2114,
+                "top": 667,
+                "width": 147,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Consolidated profit before income tax and after minority interest 98,947.96 93,594.13",
+            "words": [
+              {
+                "text": "Consolidated",
+                "left": 189,
+                "top": 738,
+                "width": 242,
+                "height": 28
+              },
+              {
+                "text": "profit",
+                "left": 445,
+                "top": 739,
+                "width": 97,
+                "height": 33
+              },
+              {
+                "text": "before",
+                "left": 555,
+                "top": 739,
+                "width": 116,
+                "height": 27
+              },
+              {
+                "text": "income",
+                "left": 685,
+                "top": 739,
+                "width": 132,
+                "height": 27
+              },
+              {
+                "text": "tax",
+                "left": 828,
+                "top": 740,
+                "width": 57,
+                "height": 26
+              },
+              {
+                "text": "and",
+                "left": 897,
+                "top": 739,
+                "width": 65,
+                "height": 27
+              },
+              {
+                "text": "after",
+                "left": 976,
+                "top": 739,
+                "width": 86,
+                "height": 27
+              },
+              {
+                "text": "minority",
+                "left": 1074,
+                "top": 739,
+                "width": 150,
+                "height": 33
+              },
+              {
+                "text": "interest",
+                "left": 1237,
+                "top": 739,
+                "width": 138,
+                "height": 27
+              },
+              {
+                "text": "98,947.96",
+                "left": 1832,
+                "top": 740,
+                "width": 147,
+                "height": 29
+              },
+              {
+                "text": "93,594.13",
+                "left": 2114,
+                "top": 740,
+                "width": 148,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Adjustments for:",
+            "words": [
+              {
+                "text": "Adjustments",
+                "left": 187,
+                "top": 813,
+                "width": 233,
+                "height": 34
+              },
+              {
+                "text": "for:",
+                "left": 431,
+                "top": 813,
+                "width": 60,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Depreciation on fixed assets 4,194.90 3,805.23",
+            "words": [
+              {
+                "text": "Depreciation",
+                "left": 190,
+                "top": 888,
+                "width": 184,
+                "height": 31
+              },
+              {
+                "text": "on",
+                "left": 387,
+                "top": 894,
+                "width": 34,
+                "height": 19
+              },
+              {
+                "text": "fixed",
+                "left": 433,
+                "top": 888,
+                "width": 70,
+                "height": 25
+              },
+              {
+                "text": "assets",
+                "left": 515,
+                "top": 889,
+                "width": 95,
+                "height": 24
+              },
+              {
+                "text": "4,194.90",
+                "left": 1850,
+                "top": 888,
+                "width": 128,
+                "height": 29
+              },
+              {
+                "text": "3,805.23",
+                "left": 2133,
+                "top": 888,
+                "width": 128,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 935,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Loss on revaluation of investments 7,739.96 3,909.10",
+            "words": [
+              {
+                "text": "Loss",
+                "left": 190,
+                "top": 959,
+                "width": 68,
+                "height": 25
+              },
+              {
+                "text": "on",
+                "left": 269,
+                "top": 965,
+                "width": 35,
+                "height": 19
+              },
+              {
+                "text": "revaluation",
+                "left": 317,
+                "top": 959,
+                "width": 159,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 488,
+                "top": 959,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "investments",
+                "left": 528,
+                "top": 959,
+                "width": 177,
+                "height": 25
+              },
+              {
+                "text": "7,739.96",
+                "left": 1851,
+                "top": 959,
+                "width": 128,
+                "height": 29
+              },
+              {
+                "text": "3,909.10",
+                "left": 2133,
+                "top": 959,
+                "width": 128,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1006,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Amortisation of premium on investments 986.17 87.07",
+            "words": [
+              {
+                "text": "Amortisation",
+                "left": 188,
+                "top": 1030,
+                "width": 186,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 387,
+                "top": 1030,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "premium",
+                "left": 426,
+                "top": 1030,
+                "width": 127,
+                "height": 31
+              },
+              {
+                "text": "on",
+                "left": 566,
+                "top": 1036,
+                "width": 34,
+                "height": 19
+              },
+              {
+                "text": "investments",
+                "left": 614,
+                "top": 1030,
+                "width": 176,
+                "height": 25
+              },
+              {
+                "text": "986.17",
+                "left": 1878,
+                "top": 1030,
+                "width": 100,
+                "height": 25
+              },
+              {
+                "text": "87.07",
+                "left": 2180,
+                "top": 1030,
+                "width": 81,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1077,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Profit on sale of fixed assets (207.91) (22.03)",
+            "words": [
+              {
+                "text": "Profit",
+                "left": 190,
+                "top": 1101,
+                "width": 76,
+                "height": 25
+              },
+              {
+                "text": "on",
+                "left": 277,
+                "top": 1108,
+                "width": 35,
+                "height": 18
+              },
+              {
+                "text": "sale",
+                "left": 324,
+                "top": 1101,
+                "width": 59,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 393,
+                "top": 1101,
+                "width": 29,
+                "height": 25
+              },
+              {
+                "text": "fixed",
+                "left": 431,
+                "top": 1101,
+                "width": 70,
+                "height": 25
+              },
+              {
+                "text": "assets",
+                "left": 514,
+                "top": 1103,
+                "width": 94,
+                "height": 23
+              },
+              {
+                "text": "(207.91)",
+                "left": 1862,
+                "top": 1101,
+                "width": 116,
+                "height": 31
+              },
+              {
+                "text": "(22.03)",
+                "left": 2163,
+                "top": 1101,
+                "width": 98,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "(Profit) / loss on sale of investment in subsidiary (7,000.27) 8.00",
+            "words": [
+              {
+                "text": "(Profit)",
+                "left": 189,
+                "top": 1172,
+                "width": 93,
+                "height": 31
+              },
+              {
+                "text": "/",
+                "left": 308,
+                "top": 1172,
+                "width": 6,
+                "height": 25
+              },
+              {
+                "text": "loss",
+                "left": 334,
+                "top": 1173,
+                "width": 58,
+                "height": 24
+              },
+              {
+                "text": "on",
+                "left": 403,
+                "top": 1179,
+                "width": 34,
+                "height": 18
+              },
+              {
+                "text": "sale",
+                "left": 450,
+                "top": 1173,
+                "width": 58,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 519,
+                "top": 1172,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "investment",
+                "left": 558,
+                "top": 1173,
+                "width": 161,
+                "height": 24
+              },
+              {
+                "text": "in",
+                "left": 731,
+                "top": 1173,
+                "width": 22,
+                "height": 23
+              },
+              {
+                "text": "subsidiary",
+                "left": 765,
+                "top": 1173,
+                "width": 151,
+                "height": 30
+              },
+              {
+                "text": "(7,000.27)",
+                "left": 1834,
+                "top": 1172,
+                "width": 144,
+                "height": 31
+              },
+              {
+                "text": "8.00",
+                "left": 2198,
+                "top": 1173,
+                "width": 63,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1220,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Provision / charge for non performing assets 14,445.98 15,385.24",
+            "words": [
+              {
+                "text": "Provision",
+                "left": 190,
+                "top": 1244,
+                "width": 133,
+                "height": 24
+              },
+              {
+                "text": "/",
+                "left": 343,
+                "top": 1243,
+                "width": 12,
+                "height": 26
+              },
+              {
+                "text": "charge",
+                "left": 374,
+                "top": 1244,
+                "width": 100,
+                "height": 31
+              },
+              {
+                "text": "for",
+                "left": 485,
+                "top": 1243,
+                "width": 39,
+                "height": 25
+              },
+              {
+                "text": "non",
+                "left": 536,
+                "top": 1250,
+                "width": 52,
+                "height": 18
+              },
+              {
+                "text": "performing",
+                "left": 601,
+                "top": 1243,
+                "width": 159,
+                "height": 32
+              },
+              {
+                "text": "assets",
+                "left": 772,
+                "top": 1245,
+                "width": 95,
+                "height": 23
+              },
+              {
+                "text": "14,445.98",
+                "left": 1834,
+                "top": 1244,
+                "width": 144,
+                "height": 28
+              },
+              {
+                "text": "15,385.24",
+                "left": 2116,
+                "top": 1244,
+                "width": 145,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1291,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Floating provisions 9,000.00 -",
+            "words": [
+              {
+                "text": "Floating",
+                "left": 190,
+                "top": 1315,
+                "width": 115,
+                "height": 31
+              },
+              {
+                "text": "provisions",
+                "left": 318,
+                "top": 1315,
+                "width": 150,
+                "height": 31
+              },
+              {
+                "text": "9,000.00",
+                "left": 1851,
+                "top": 1315,
+                "width": 127,
+                "height": 28
+              },
+              {
+                "text": "-",
+                "left": 2250,
+                "top": 1328,
+                "width": 11,
+                "height": 3
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1362,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Provision / (write-back) for standard assets and contingencies 3,210.24 (1,210.63)",
+            "words": [
+              {
+                "text": "Provision",
+                "left": 190,
+                "top": 1386,
+                "width": 133,
+                "height": 24
+              },
+              {
+                "text": "/",
+                "left": 343,
+                "top": 1385,
+                "width": 12,
+                "height": 26
+              },
+              {
+                "text": "(write-back)",
+                "left": 375,
+                "top": 1385,
+                "width": 172,
+                "height": 32
+              },
+              {
+                "text": "for",
+                "left": 558,
+                "top": 1386,
+                "width": 41,
+                "height": 24
+              },
+              {
+                "text": "standard",
+                "left": 609,
+                "top": 1386,
+                "width": 128,
+                "height": 24
+              },
+              {
+                "text": "assets",
+                "left": 750,
+                "top": 1387,
+                "width": 94,
+                "height": 23
+              },
+              {
+                "text": "and",
+                "left": 855,
+                "top": 1386,
+                "width": 54,
+                "height": 24
+              },
+              {
+                "text": "contingencies",
+                "left": 921,
+                "top": 1386,
+                "width": 206,
+                "height": 31
+              },
+              {
+                "text": "3,210.24",
+                "left": 1851,
+                "top": 1386,
+                "width": 127,
+                "height": 29
+              },
+              {
+                "text": "(1,210.63)",
+                "left": 2116,
+                "top": 1385,
+                "width": 145,
+                "height": 32
+              }
+            ]
+          },
+          {
+            "text": "Employee stock options / units expense 2,228.30 2,086.05",
+            "words": [
+              {
+                "text": "Employee",
+                "left": 190,
+                "top": 1457,
+                "width": 145,
+                "height": 31
+              },
+              {
+                "text": "stock",
+                "left": 346,
+                "top": 1457,
+                "width": 80,
+                "height": 24
+              },
+              {
+                "text": "options",
+                "left": 437,
+                "top": 1457,
+                "width": 109,
+                "height": 31
+              },
+              {
+                "text": "/",
+                "left": 565,
+                "top": 1457,
+                "width": 12,
+                "height": 25
+              },
+              {
+                "text": "units",
+                "left": 597,
+                "top": 1457,
+                "width": 69,
+                "height": 24
+              },
+              {
+                "text": "expense",
+                "left": 678,
+                "top": 1463,
+                "width": 124,
+                "height": 25
+              },
+              {
+                "text": "2,228.30",
+                "left": 1850,
+                "top": 1457,
+                "width": 128,
+                "height": 29
+              },
+              {
+                "text": "2,086.05",
+                "left": 2133,
+                "top": 1457,
+                "width": 128,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "133,545.33 117,642.16",
+            "words": [
+              {
+                "text": "133,545.33",
+                "left": 1815,
+                "top": 1528,
+                "width": 164,
+                "height": 30
+              },
+              {
+                "text": "117,642.16",
+                "left": 2097,
+                "top": 1528,
+                "width": 165,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Adjustments for:",
+            "words": [
+              {
+                "text": "Adjustments",
+                "left": 188,
+                "top": 1599,
+                "width": 232,
+                "height": 34
+              },
+              {
+                "text": "for:",
+                "left": 431,
+                "top": 1599,
+                "width": 60,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Increase in investments (102,572.73) (180,362.67)",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 1673,
+                "width": 123,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 325,
+                "top": 1673,
+                "width": 22,
+                "height": 25
+              },
+              {
+                "text": "investments",
+                "left": 360,
+                "top": 1673,
+                "width": 177,
+                "height": 25
+              },
+              {
+                "text": "(102,572.73)",
+                "left": 1797,
+                "top": 1673,
+                "width": 181,
+                "height": 31
+              },
+              {
+                "text": "(180,362.67)",
+                "left": 2079,
+                "top": 1673,
+                "width": 182,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Increase in advances (340,270.74) (169,918.22)",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 1744,
+                "width": 123,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 325,
+                "top": 1745,
+                "width": 22,
+                "height": 24
+              },
+              {
+                "text": "advances",
+                "left": 359,
+                "top": 1744,
+                "width": 142,
+                "height": 25
+              },
+              {
+                "text": "(340,270.74)",
+                "left": 1797,
+                "top": 1744,
+                "width": 181,
+                "height": 31
+              },
+              {
+                "text": "(169,918.22)",
+                "left": 2079,
+                "top": 1744,
+                "width": 182,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Increase in deposits 388,740.06 334,010.95",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 1816,
+                "width": 123,
+                "height": 24
+              },
+              {
+                "text": "in",
+                "left": 325,
+                "top": 1816,
+                "width": 22,
+                "height": 24
+              },
+              {
+                "text": "deposits",
+                "left": 359,
+                "top": 1816,
+                "width": 126,
+                "height": 30
+              },
+              {
+                "text": "388,740.06",
+                "left": 1813,
+                "top": 1816,
+                "width": 166,
+                "height": 29
+              },
+              {
+                "text": "334,010.95",
+                "left": 2096,
+                "top": 1816,
+                "width": 165,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1863,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Increase in other assets (29,678.54) (10,829.67)",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 1887,
+                "width": 123,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 325,
+                "top": 1887,
+                "width": 22,
+                "height": 24
+              },
+              {
+                "text": "other",
+                "left": 359,
+                "top": 1887,
+                "width": 77,
+                "height": 25
+              },
+              {
+                "text": "assets",
+                "left": 446,
+                "top": 1888,
+                "width": 94,
+                "height": 24
+              },
+              {
+                "text": "(29,678.54)",
+                "left": 1815,
+                "top": 1882,
+                "width": 163,
+                "height": 40
+              },
+              {
+                "text": "(10,829.67)",
+                "left": 2098,
+                "top": 1886,
+                "width": 163,
+                "height": 32
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 1934,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Increase in other liabilities and provisions 52,338.92 13,117.98",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 1958,
+                "width": 123,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 325,
+                "top": 1958,
+                "width": 22,
+                "height": 24
+              },
+              {
+                "text": "other",
+                "left": 359,
+                "top": 1958,
+                "width": 77,
+                "height": 25
+              },
+              {
+                "text": "liabilities",
+                "left": 447,
+                "top": 1958,
+                "width": 125,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 583,
+                "top": 1958,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "provisions",
+                "left": 649,
+                "top": 1958,
+                "width": 149,
+                "height": 31
+              },
+              {
+                "text": "52,338.92",
+                "left": 1832,
+                "top": 1958,
+                "width": 146,
+                "height": 29
+              },
+              {
+                "text": "13,117.98",
+                "left": 2116,
+                "top": 1958,
+                "width": 145,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 2005,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Increase in policyholders' funds 34,060.45 43,289.99",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 2029,
+                "width": 123,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 325,
+                "top": 2029,
+                "width": 22,
+                "height": 24
+              },
+              {
+                "text": "policyholders'",
+                "left": 360,
+                "top": 2029,
+                "width": 204,
+                "height": 31
+              },
+              {
+                "text": "funds",
+                "left": 576,
+                "top": 2029,
+                "width": 83,
+                "height": 25
+              },
+              {
+                "text": "34,060.45",
+                "left": 1832,
+                "top": 2029,
+                "width": 146,
+                "height": 29
+              },
+              {
+                "text": "43,289.99",
+                "left": 2114,
+                "top": 2029,
+                "width": 147,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "136,162.75 146,950.52",
+            "words": [
+              {
+                "text": "136,162.75",
+                "left": 1815,
+                "top": 2101,
+                "width": 164,
+                "height": 29
+              },
+              {
+                "text": "146,950.52",
+                "left": 2097,
+                "top": 2101,
+                "width": 165,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Direct taxes paid (net of refunds) (22,656.37) (19,708.68)",
+            "words": [
+              {
+                "text": "Direct",
+                "left": 190,
+                "top": 2172,
+                "width": 84,
+                "height": 24
+              },
+              {
+                "text": "taxes",
+                "left": 285,
+                "top": 2173,
+                "width": 79,
+                "height": 23
+              },
+              {
+                "text": "paid",
+                "left": 376,
+                "top": 2172,
+                "width": 61,
+                "height": 30
+              },
+              {
+                "text": "(net",
+                "left": 450,
+                "top": 2171,
+                "width": 53,
+                "height": 31
+              },
+              {
+                "text": "of",
+                "left": 515,
+                "top": 2171,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "refunds)",
+                "left": 554,
+                "top": 2171,
+                "width": 117,
+                "height": 31
+              },
+              {
+                "text": "(22,656.37)",
+                "left": 1815,
+                "top": 2167,
+                "width": 163,
+                "height": 39
+              },
+              {
+                "text": "(19,708.68)",
+                "left": 2098,
+                "top": 2171,
+                "width": 163,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Net cash flows from operating activities 113,506.38 127,241.84",
+            "words": [
+              {
+                "text": "Net",
+                "left": 190,
+                "top": 2243,
+                "width": 61,
+                "height": 28
+              },
+              {
+                "text": "cash",
+                "left": 263,
+                "top": 2243,
+                "width": 85,
+                "height": 28
+              },
+              {
+                "text": "flows",
+                "left": 360,
+                "top": 2243,
+                "width": 97,
+                "height": 28
+              },
+              {
+                "text": "from",
+                "left": 468,
+                "top": 2243,
+                "width": 84,
+                "height": 28
+              },
+              {
+                "text": "operating",
+                "left": 566,
+                "top": 2243,
+                "width": 175,
+                "height": 34
+              },
+              {
+                "text": "activities",
+                "left": 754,
+                "top": 2243,
+                "width": 165,
+                "height": 28
+              },
+              {
+                "text": "113,506.38",
+                "left": 1815,
+                "top": 2239,
+                "width": 164,
+                "height": 42
+              },
+              {
+                "text": "127,241.84",
+                "left": 2097,
+                "top": 2244,
+                "width": 165,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Cash flows from investing activities:",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 189,
+                "top": 2316,
+                "width": 90,
+                "height": 29
+              },
+              {
+                "text": "flows",
+                "left": 292,
+                "top": 2317,
+                "width": 97,
+                "height": 28
+              },
+              {
+                "text": "from",
+                "left": 400,
+                "top": 2317,
+                "width": 84,
+                "height": 28
+              },
+              {
+                "text": "investing",
+                "left": 499,
+                "top": 2317,
+                "width": 162,
+                "height": 34
+              },
+              {
+                "text": "activities:",
+                "left": 674,
+                "top": 2317,
+                "width": 174,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": ".",
+            "words": [
+              {
+                "text": ".",
+                "left": 2013,
+                "top": 2367,
+                "width": 3,
+                "height": 1
+              }
+            ]
+          },
+          {
+            "text": "Purchase of fixed assets (3,889.97) (4,075.89)",
+            "words": [
+              {
+                "text": "Purchase",
+                "left": 190,
+                "top": 2391,
+                "width": 137,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 338,
+                "top": 2391,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "fixed",
+                "left": 375,
+                "top": 2391,
+                "width": 70,
+                "height": 24
+              },
+              {
+                "text": "assets",
+                "left": 458,
+                "top": 2392,
+                "width": 94,
+                "height": 23
+              },
+              {
+                "text": "(3,889.97)",
+                "left": 1834,
+                "top": 2387,
+                "width": 144,
+                "height": 39
+              },
+              {
+                "text": "(4,075.89)",
+                "left": 2116,
+                "top": 2391,
+                "width": 145,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Proceeds from sale of fixed assets 527.56 100.72",
+            "words": [
+              {
+                "text": "Proceeds",
+                "left": 190,
+                "top": 2462,
+                "width": 139,
+                "height": 25
+              },
+              {
+                "text": "from",
+                "left": 339,
+                "top": 2462,
+                "width": 66,
+                "height": 25
+              },
+              {
+                "text": "sale",
+                "left": 417,
+                "top": 2462,
+                "width": 58,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 486,
+                "top": 2462,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "fixed",
+                "left": 524,
+                "top": 2462,
+                "width": 70,
+                "height": 25
+              },
+              {
+                "text": "assets",
+                "left": 606,
+                "top": 2464,
+                "width": 95,
+                "height": 23
+              },
+              {
+                "text": "527.56",
+                "left": 1878,
+                "top": 2462,
+                "width": 101,
+                "height": 25
+              },
+              {
+                "text": "100.72",
+                "left": 2163,
+                "top": 2462,
+                "width": 97,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": "Proceeds from sale of investment in subsidiary (net of expenses) 9,806.00 192.00",
+            "words": [
+              {
+                "text": "Proceeds",
+                "left": 190,
+                "top": 2533,
+                "width": 139,
+                "height": 25
+              },
+              {
+                "text": "from",
+                "left": 339,
+                "top": 2533,
+                "width": 66,
+                "height": 25
+              },
+              {
+                "text": "sale",
+                "left": 417,
+                "top": 2533,
+                "width": 58,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 486,
+                "top": 2533,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "investment",
+                "left": 526,
+                "top": 2533,
+                "width": 160,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 699,
+                "top": 2533,
+                "width": 21,
+                "height": 25
+              },
+              {
+                "text": "subsidiary",
+                "left": 733,
+                "top": 2533,
+                "width": 150,
+                "height": 32
+              },
+              {
+                "text": "(net",
+                "left": 894,
+                "top": 2533,
+                "width": 54,
+                "height": 31
+              },
+              {
+                "text": "of",
+                "left": 959,
+                "top": 2533,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "expenses)",
+                "left": 997,
+                "top": 2533,
+                "width": 149,
+                "height": 31
+              },
+              {
+                "text": "9,806.00",
+                "left": 1851,
+                "top": 2534,
+                "width": 127,
+                "height": 28
+              },
+              {
+                "text": "192.00",
+                "left": 2163,
+                "top": 2534,
+                "width": 98,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Investment in subsidiaries (80.87) (67.47)",
+            "words": [
+              {
+                "text": "Investment",
+                "left": 190,
+                "top": 2604,
+                "width": 162,
+                "height": 25
+              },
+              {
+                "text": "in",
+                "left": 364,
+                "top": 2604,
+                "width": 22,
+                "height": 25
+              },
+              {
+                "text": "subsidiaries",
+                "left": 398,
+                "top": 2604,
+                "width": 175,
+                "height": 25
+              },
+              {
+                "text": "(80.87)",
+                "left": 1880,
+                "top": 2600,
+                "width": 98,
+                "height": 39
+              },
+              {
+                "text": "(67.47)",
+                "left": 2163,
+                "top": 2604,
+                "width": 98,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Net cash flow from / (used in) investing activities 6,362.72 (3,850.64)",
+            "words": [
+              {
+                "text": "Net",
+                "left": 190,
+                "top": 2675,
+                "width": 61,
+                "height": 28
+              },
+              {
+                "text": "cash",
+                "left": 263,
+                "top": 2675,
+                "width": 85,
+                "height": 28
+              },
+              {
+                "text": "flow",
+                "left": 360,
+                "top": 2675,
+                "width": 77,
+                "height": 28
+              },
+              {
+                "text": "from",
+                "left": 448,
+                "top": 2676,
+                "width": 84,
+                "height": 27
+              },
+              {
+                "text": "/",
+                "left": 555,
+                "top": 2675,
+                "width": 14,
+                "height": 28
+              },
+              {
+                "text": "(used",
+                "left": 591,
+                "top": 2675,
+                "width": 97,
+                "height": 35
+              },
+              {
+                "text": "in)",
+                "left": 703,
+                "top": 2675,
+                "width": 39,
+                "height": 35
+              },
+              {
+                "text": "investing",
+                "left": 757,
+                "top": 2675,
+                "width": 162,
+                "height": 35
+              },
+              {
+                "text": "activities",
+                "left": 933,
+                "top": 2675,
+                "width": 164,
+                "height": 28
+              },
+              {
+                "text": "6,362.72",
+                "left": 1850,
+                "top": 2677,
+                "width": 129,
+                "height": 29
+              },
+              {
+                "text": "(3,850.64)",
+                "left": 2114,
+                "top": 2676,
+                "width": 146,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "HDFC Bank Limited",
+            "words": [
+              {
+                "text": "HDFC",
+                "left": 335,
+                "top": 2894,
+                "width": 82,
+                "height": 24
+              },
+              {
+                "text": "Bank",
+                "left": 429,
+                "top": 2894,
+                "width": 69,
+                "height": 24
+              },
+              {
+                "text": "Limited",
+                "left": 509,
+                "top": 2894,
+                "width": 100,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "478 Integrated Annual Report 2025-26",
+            "words": [
+              {
+                "text": "478",
+                "left": 180,
+                "top": 2919,
+                "width": 79,
+                "height": 36
+              },
+              {
+                "text": "Integrated",
+                "left": 335,
+                "top": 2932,
+                "width": 139,
+                "height": 29
+              },
+              {
+                "text": "Annual",
+                "left": 485,
+                "top": 2932,
+                "width": 95,
+                "height": 23
+              },
+              {
+                "text": "Report",
+                "left": 592,
+                "top": 2932,
+                "width": 94,
+                "height": 29
+              },
+              {
+                "text": "2025-26",
+                "left": 696,
+                "top": 2932,
+                "width": 114,
+                "height": 23
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": "CONSOLIDATED CASH FLOW STATEMENT\nFor the year ended March 31, 2026\n(@ in crore)\nYear ended Year ended\nMarch 31, 2026 March 31, 2025\nCash flows from financing activities:\nIncrease in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88\nProceeds from issue of share capital 5,108.50 6,346.50\nProceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -\nProceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00\nRepayment of Tier 1 and Tier 2 capital instruments - (500.00)\nRepayments from other borrowings (net) (48,895.19) (97,062.73)\nDividend paid during the year (20,705.98) (14,826.19)\nNet cash flow used in financing activities (59,004.85) (102,477.54)\nEffect of fluctuation in foreign currency translation reserve 1,113.90 199.73\nNet increase in cash and cash equivalents 61,978.15 21,113.39\nCash and cash equivalents at the beginning of the year 249,947.90 228,834.51\nCash and cash equivalents at the end of the year 311,926.05 249,947.90\nCash and cash equivalents include Cash and balances with Reserve Bank of India and Balances with banks and money at call and short notice\n(Refer Schedule 6 and Schedule 7).\nAs per our report of even date. For and on behalf of the Board\nFor Batliboi & Purohit ForBSR&Co. LLP Keki Mistry Sandeep Parekh\nChartered Accountants Chartered Accountants Interim Part-Time Chairman Independent Director\nICAI Firm No.: ICAI Firm No.: & Non-Executive\nRegistration Registration\n(Non-Independent) Director\n101048W 101248W/W-100022\nM. D. Ranganath Sunita Maheshwari\nIndependent Director Independent Director\nJanak Mehta Sudhir Soni Lily Vadera Renu Karnad\nPartner Partner Independent Director Non-Executive (Non-\nMembership No.: 116976 Membership No.: 041870 Independent Director)\nHarsh Kumar Bhanwala Santhosh Keshavan\nIndependent Director Independent Director\nSashidhar Jagdishan Kaizad Bharucha\nManaging Director & Chief Deputy Managing Director\nExecutive Officer\nBhavesh Zaveri V. Srinivasa Rangan\nExecutive Director Executive Director\nMumbai, April 18, 2026 Srinivasan Vaidyanathan Ajay Agarwal\nChief Financial Officer Company Secretary\n479",
+        "layout_rows": [
+          {
+            "text": "CONSOLIDATED CASH FLOW STATEMENT",
+            "words": [
+              {
+                "text": "CONSOLIDATED",
+                "left": 182,
+                "top": 203,
+                "width": 499,
+                "height": 44
+              },
+              {
+                "text": "CASH",
+                "left": 713,
+                "top": 203,
+                "width": 169,
+                "height": 44
+              },
+              {
+                "text": "FLOW",
+                "left": 919,
+                "top": 203,
+                "width": 174,
+                "height": 44
+              },
+              {
+                "text": "STATEMENT",
+                "left": 1123,
+                "top": 203,
+                "width": 374,
+                "height": 44
+              }
+            ]
+          },
+          {
+            "text": "For the year ended March 31, 2026",
+            "words": [
+              {
+                "text": "For",
+                "left": 182,
+                "top": 269,
+                "width": 51,
+                "height": 28
+              },
+              {
+                "text": "the",
+                "left": 243,
+                "top": 269,
+                "width": 51,
+                "height": 28
+              },
+              {
+                "text": "year",
+                "left": 305,
+                "top": 276,
+                "width": 69,
+                "height": 28
+              },
+              {
+                "text": "ended",
+                "left": 386,
+                "top": 269,
+                "width": 101,
+                "height": 28
+              },
+              {
+                "text": "March",
+                "left": 502,
+                "top": 269,
+                "width": 99,
+                "height": 28
+              },
+              {
+                "text": "31,",
+                "left": 615,
+                "top": 270,
+                "width": 43,
+                "height": 31
+              },
+              {
+                "text": "2026",
+                "left": 673,
+                "top": 270,
+                "width": 81,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "(@ in crore)",
+            "words": [
+              {
+                "text": "(@",
+                "left": 2146,
+                "top": 370,
+                "width": 20,
+                "height": 28
+              },
+              {
+                "text": "in",
+                "left": 2177,
+                "top": 370,
+                "width": 19,
+                "height": 22
+              },
+              {
+                "text": "crore)",
+                "left": 2207,
+                "top": 370,
+                "width": 72,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Year ended Year ended",
+            "words": [
+              {
+                "text": "Year",
+                "left": 1835,
+                "top": 426,
+                "width": 65,
+                "height": 22
+              },
+              {
+                "text": "ended",
+                "left": 1909,
+                "top": 426,
+                "width": 87,
+                "height": 22
+              },
+              {
+                "text": "Year",
+                "left": 2117,
+                "top": 426,
+                "width": 65,
+                "height": 22
+              },
+              {
+                "text": "ended",
+                "left": 2191,
+                "top": 426,
+                "width": 88,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "March 31, 2026 March 31, 2025",
+            "words": [
+              {
+                "text": "March",
+                "left": 1783,
+                "top": 461,
+                "width": 88,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 1882,
+                "top": 461,
+                "width": 38,
+                "height": 26
+              },
+              {
+                "text": "2026",
+                "left": 1930,
+                "top": 461,
+                "width": 67,
+                "height": 22
+              },
+              {
+                "text": "March",
+                "left": 2065,
+                "top": 461,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "31,",
+                "left": 2164,
+                "top": 461,
+                "width": 38,
+                "height": 26
+              },
+              {
+                "text": "2025",
+                "left": 2213,
+                "top": 461,
+                "width": 67,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Cash flows from financing activities:",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 189,
+                "top": 522,
+                "width": 91,
+                "height": 28
+              },
+              {
+                "text": "flows",
+                "left": 292,
+                "top": 523,
+                "width": 97,
+                "height": 27
+              },
+              {
+                "text": "from",
+                "left": 400,
+                "top": 523,
+                "width": 84,
+                "height": 27
+              },
+              {
+                "text": "financing",
+                "left": 497,
+                "top": 523,
+                "width": 168,
+                "height": 34
+              },
+              {
+                "text": "activities:",
+                "left": 679,
+                "top": 523,
+                "width": 174,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Increase in minority interest (including issue of ESOPs by subsidiaries) 2,331.21 2,382.88",
+            "words": [
+              {
+                "text": "Increase",
+                "left": 190,
+                "top": 597,
+                "width": 123,
+                "height": 24
+              },
+              {
+                "text": "in",
+                "left": 326,
+                "top": 597,
+                "width": 21,
+                "height": 23
+              },
+              {
+                "text": "minority",
+                "left": 361,
+                "top": 597,
+                "width": 117,
+                "height": 31
+              },
+              {
+                "text": "interest",
+                "left": 489,
+                "top": 597,
+                "width": 108,
+                "height": 24
+              },
+              {
+                "text": "(including",
+                "left": 608,
+                "top": 596,
+                "width": 140,
+                "height": 32
+              },
+              {
+                "text": "issue",
+                "left": 762,
+                "top": 597,
+                "width": 74,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 847,
+                "top": 596,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "ESOPs",
+                "left": 887,
+                "top": 596,
+                "width": 103,
+                "height": 25
+              },
+              {
+                "text": "by",
+                "left": 1002,
+                "top": 597,
+                "width": 33,
+                "height": 31
+              },
+              {
+                "text": "subsidiaries)",
+                "left": 1047,
+                "top": 596,
+                "width": 183,
+                "height": 32
+              },
+              {
+                "text": "2,331.21",
+                "left": 1851,
+                "top": 597,
+                "width": 122,
+                "height": 28
+              },
+              {
+                "text": "2,382.88",
+                "left": 2133,
+                "top": 597,
+                "width": 128,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Proceeds from issue of share capital 5,108.50 6,346.50",
+            "words": [
+              {
+                "text": "Proceeds",
+                "left": 190,
+                "top": 668,
+                "width": 139,
+                "height": 24
+              },
+              {
+                "text": "from",
+                "left": 339,
+                "top": 667,
+                "width": 66,
+                "height": 25
+              },
+              {
+                "text": "issue",
+                "left": 418,
+                "top": 668,
+                "width": 75,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 504,
+                "top": 667,
+                "width": 28,
+                "height": 25
+              },
+              {
+                "text": "share",
+                "left": 542,
+                "top": 668,
+                "width": 80,
+                "height": 24
+              },
+              {
+                "text": "capital",
+                "left": 633,
+                "top": 668,
+                "width": 96,
+                "height": 31
+              },
+              {
+                "text": "5,108.50",
+                "left": 1851,
+                "top": 668,
+                "width": 127,
+                "height": 28
+              },
+              {
+                "text": "6,346.50",
+                "left": 2134,
+                "top": 668,
+                "width": 127,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Proceeds from issue of shares through subsidiary IPO (net of issue expenses) 2,456.61 -",
+            "words": [
+              {
+                "text": "Proceeds",
+                "left": 190,
+                "top": 739,
+                "width": 139,
+                "height": 24
+              },
+              {
+                "text": "from",
+                "left": 339,
+                "top": 739,
+                "width": 66,
+                "height": 24
+              },
+              {
+                "text": "issue",
+                "left": 418,
+                "top": 739,
+                "width": 75,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 504,
+                "top": 739,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "shares",
+                "left": 542,
+                "top": 739,
+                "width": 96,
+                "height": 24
+              },
+              {
+                "text": "through",
+                "left": 649,
+                "top": 739,
+                "width": 113,
+                "height": 31
+              },
+              {
+                "text": "subsidiary",
+                "left": 774,
+                "top": 739,
+                "width": 151,
+                "height": 31
+              },
+              {
+                "text": "IPO",
+                "left": 937,
+                "top": 739,
+                "width": 52,
+                "height": 25
+              },
+              {
+                "text": "(net",
+                "left": 1001,
+                "top": 739,
+                "width": 53,
+                "height": 31
+              },
+              {
+                "text": "of",
+                "left": 1065,
+                "top": 739,
+                "width": 29,
+                "height": 24
+              },
+              {
+                "text": "issue",
+                "left": 1105,
+                "top": 739,
+                "width": 74,
+                "height": 24
+              },
+              {
+                "text": "expenses)",
+                "left": 1191,
+                "top": 739,
+                "width": 149,
+                "height": 31
+              },
+              {
+                "text": "2,456.61",
+                "left": 1851,
+                "top": 739,
+                "width": 122,
+                "height": 29
+              },
+              {
+                "text": "-",
+                "left": 2251,
+                "top": 752,
+                "width": 10,
+                "height": 3
+              }
+            ]
+          },
+          {
+            "text": "Proceeds from issue of Tier 1 and Tier 2 capital instruments 700.00 1,182.00",
+            "words": [
+              {
+                "text": "Proceeds",
+                "left": 190,
+                "top": 810,
+                "width": 139,
+                "height": 24
+              },
+              {
+                "text": "from",
+                "left": 339,
+                "top": 810,
+                "width": 66,
+                "height": 24
+              },
+              {
+                "text": "issue",
+                "left": 418,
+                "top": 810,
+                "width": 75,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 504,
+                "top": 810,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "Tier",
+                "left": 541,
+                "top": 810,
+                "width": 56,
+                "height": 24
+              },
+              {
+                "text": "1",
+                "left": 609,
+                "top": 810,
+                "width": 9,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 635,
+                "top": 810,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "Tier",
+                "left": 699,
+                "top": 810,
+                "width": 56,
+                "height": 24
+              },
+              {
+                "text": "2",
+                "left": 765,
+                "top": 810,
+                "width": 16,
+                "height": 24
+              },
+              {
+                "text": "capital",
+                "left": 793,
+                "top": 810,
+                "width": 97,
+                "height": 31
+              },
+              {
+                "text": "instruments",
+                "left": 903,
+                "top": 810,
+                "width": 172,
+                "height": 24
+              },
+              {
+                "text": "700.00",
+                "left": 1879,
+                "top": 810,
+                "width": 99,
+                "height": 25
+              },
+              {
+                "text": "1,182.00",
+                "left": 2135,
+                "top": 810,
+                "width": 126,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Repayment of Tier 1 and Tier 2 capital instruments - (500.00)",
+            "words": [
+              {
+                "text": "Repayment",
+                "left": 190,
+                "top": 881,
+                "width": 168,
+                "height": 31
+              },
+              {
+                "text": "of",
+                "left": 369,
+                "top": 881,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "Tier",
+                "left": 406,
+                "top": 881,
+                "width": 56,
+                "height": 24
+              },
+              {
+                "text": "1",
+                "left": 474,
+                "top": 881,
+                "width": 9,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 500,
+                "top": 881,
+                "width": 53,
+                "height": 24
+              },
+              {
+                "text": "Tier",
+                "left": 564,
+                "top": 881,
+                "width": 56,
+                "height": 24
+              },
+              {
+                "text": "2",
+                "left": 630,
+                "top": 881,
+                "width": 16,
+                "height": 24
+              },
+              {
+                "text": "capital",
+                "left": 659,
+                "top": 881,
+                "width": 95,
+                "height": 31
+              },
+              {
+                "text": "instruments",
+                "left": 768,
+                "top": 881,
+                "width": 172,
+                "height": 24
+              },
+              {
+                "text": "-",
+                "left": 1968,
+                "top": 894,
+                "width": 11,
+                "height": 4
+              },
+              {
+                "text": "(500.00)",
+                "left": 2145,
+                "top": 881,
+                "width": 116,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Repayments from other borrowings (net) (48,895.19) (97,062.73)",
+            "words": [
+              {
+                "text": "Repayments",
+                "left": 190,
+                "top": 952,
+                "width": 184,
+                "height": 32
+              },
+              {
+                "text": "from",
+                "left": 385,
+                "top": 952,
+                "width": 65,
+                "height": 25
+              },
+              {
+                "text": "other",
+                "left": 463,
+                "top": 952,
+                "width": 76,
+                "height": 25
+              },
+              {
+                "text": "borrowings",
+                "left": 550,
+                "top": 952,
+                "width": 164,
+                "height": 32
+              },
+              {
+                "text": "(net)",
+                "left": 726,
+                "top": 952,
+                "width": 62,
+                "height": 31
+              },
+              {
+                "text": "(48,895.19)",
+                "left": 1815,
+                "top": 948,
+                "width": 163,
+                "height": 39
+              },
+              {
+                "text": "(97,062.73)",
+                "left": 2098,
+                "top": 952,
+                "width": 163,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Dividend paid during the year (20,705.98) (14,826.19)",
+            "words": [
+              {
+                "text": "Dividend",
+                "left": 190,
+                "top": 1023,
+                "width": 127,
+                "height": 25
+              },
+              {
+                "text": "paid",
+                "left": 331,
+                "top": 1023,
+                "width": 60,
+                "height": 31
+              },
+              {
+                "text": "during",
+                "left": 404,
+                "top": 1023,
+                "width": 91,
+                "height": 32
+              },
+              {
+                "text": "the",
+                "left": 507,
+                "top": 1023,
+                "width": 46,
+                "height": 25
+              },
+              {
+                "text": "year",
+                "left": 563,
+                "top": 1030,
+                "width": 64,
+                "height": 25
+              },
+              {
+                "text": "(20,705.98)",
+                "left": 1815,
+                "top": 1019,
+                "width": 163,
+                "height": 39
+              },
+              {
+                "text": "(14,826.19)",
+                "left": 2098,
+                "top": 1023,
+                "width": 163,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "Net cash flow used in financing activities (59,004.85) (102,477.54)",
+            "words": [
+              {
+                "text": "Net",
+                "left": 190,
+                "top": 1095,
+                "width": 61,
+                "height": 27
+              },
+              {
+                "text": "cash",
+                "left": 263,
+                "top": 1095,
+                "width": 85,
+                "height": 27
+              },
+              {
+                "text": "flow",
+                "left": 361,
+                "top": 1095,
+                "width": 76,
+                "height": 27
+              },
+              {
+                "text": "used",
+                "left": 450,
+                "top": 1095,
+                "width": 85,
+                "height": 27
+              },
+              {
+                "text": "in",
+                "left": 550,
+                "top": 1095,
+                "width": 28,
+                "height": 27
+              },
+              {
+                "text": "financing",
+                "left": 591,
+                "top": 1095,
+                "width": 168,
+                "height": 34
+              },
+              {
+                "text": "activities",
+                "left": 773,
+                "top": 1095,
+                "width": 164,
+                "height": 27
+              },
+              {
+                "text": "(59,004.85)",
+                "left": 1813,
+                "top": 1090,
+                "width": 165,
+                "height": 42
+              },
+              {
+                "text": "(102,477.54)",
+                "left": 2077,
+                "top": 1096,
+                "width": 183,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Effect of fluctuation in foreign currency translation reserve 1,113.90 199.73",
+            "words": [
+              {
+                "text": "Effect",
+                "left": 190,
+                "top": 1169,
+                "width": 83,
+                "height": 24
+              },
+              {
+                "text": "of",
+                "left": 284,
+                "top": 1169,
+                "width": 28,
+                "height": 24
+              },
+              {
+                "text": "fluctuation",
+                "left": 321,
+                "top": 1169,
+                "width": 155,
+                "height": 24
+              },
+              {
+                "text": "in",
+                "left": 489,
+                "top": 1169,
+                "width": 22,
+                "height": 24
+              },
+              {
+                "text": "foreign",
+                "left": 523,
+                "top": 1169,
+                "width": 100,
+                "height": 31
+              },
+              {
+                "text": "currency",
+                "left": 636,
+                "top": 1175,
+                "width": 127,
+                "height": 25
+              },
+              {
+                "text": "translation",
+                "left": 773,
+                "top": 1169,
+                "width": 154,
+                "height": 24
+              },
+              {
+                "text": "reserve",
+                "left": 940,
+                "top": 1175,
+                "width": 106,
+                "height": 18
+              },
+              {
+                "text": "1,113.90",
+                "left": 1852,
+                "top": 1169,
+                "width": 126,
+                "height": 29
+              },
+              {
+                "text": "199.73",
+                "left": 2163,
+                "top": 1169,
+                "width": 98,
+                "height": 24
+              }
+            ]
+          },
+          {
+            "text": "Net increase in cash and cash equivalents 61,978.15 21,113.39",
+            "words": [
+              {
+                "text": "Net",
+                "left": 190,
+                "top": 1240,
+                "width": 61,
+                "height": 27
+              },
+              {
+                "text": "increase",
+                "left": 264,
+                "top": 1240,
+                "width": 155,
+                "height": 27
+              },
+              {
+                "text": "in",
+                "left": 433,
+                "top": 1240,
+                "width": 28,
+                "height": 27
+              },
+              {
+                "text": "cash",
+                "left": 475,
+                "top": 1240,
+                "width": 85,
+                "height": 27
+              },
+              {
+                "text": "and",
+                "left": 573,
+                "top": 1240,
+                "width": 65,
+                "height": 27
+              },
+              {
+                "text": "cash",
+                "left": 652,
+                "top": 1240,
+                "width": 84,
+                "height": 27
+              },
+              {
+                "text": "equivalents",
+                "left": 750,
+                "top": 1240,
+                "width": 209,
+                "height": 34
+              },
+              {
+                "text": "61,978.15",
+                "left": 1832,
+                "top": 1241,
+                "width": 147,
+                "height": 30
+              },
+              {
+                "text": "21,113.39",
+                "left": 2115,
+                "top": 1241,
+                "width": 147,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Cash and cash equivalents at the beginning of the year 249,947.90 228,834.51",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 189,
+                "top": 1313,
+                "width": 91,
+                "height": 29
+              },
+              {
+                "text": "and",
+                "left": 293,
+                "top": 1314,
+                "width": 66,
+                "height": 28
+              },
+              {
+                "text": "cash",
+                "left": 372,
+                "top": 1314,
+                "width": 85,
+                "height": 28
+              },
+              {
+                "text": "equivalents",
+                "left": 470,
+                "top": 1314,
+                "width": 209,
+                "height": 34
+              },
+              {
+                "text": "at",
+                "left": 692,
+                "top": 1316,
+                "width": 34,
+                "height": 26
+              },
+              {
+                "text": "the",
+                "left": 737,
+                "top": 1314,
+                "width": 58,
+                "height": 28
+              },
+              {
+                "text": "beginning",
+                "left": 808,
+                "top": 1314,
+                "width": 178,
+                "height": 35
+              },
+              {
+                "text": "of",
+                "left": 1000,
+                "top": 1314,
+                "width": 35,
+                "height": 28
+              },
+              {
+                "text": "the",
+                "left": 1045,
+                "top": 1314,
+                "width": 58,
+                "height": 28
+              },
+              {
+                "text": "year",
+                "left": 1114,
+                "top": 1321,
+                "width": 79,
+                "height": 27
+              },
+              {
+                "text": "249,947.90",
+                "left": 1814,
+                "top": 1315,
+                "width": 165,
+                "height": 30
+              },
+              {
+                "text": "228,834.51",
+                "left": 2096,
+                "top": 1315,
+                "width": 161,
+                "height": 30
+              }
+            ]
+          },
+          {
+            "text": "Cash and cash equivalents at the end of the year 311,926.05 249,947.90",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 189,
+                "top": 1388,
+                "width": 91,
+                "height": 28
+              },
+              {
+                "text": "and",
+                "left": 293,
+                "top": 1389,
+                "width": 66,
+                "height": 27
+              },
+              {
+                "text": "cash",
+                "left": 372,
+                "top": 1389,
+                "width": 85,
+                "height": 27
+              },
+              {
+                "text": "equivalents",
+                "left": 470,
+                "top": 1388,
+                "width": 209,
+                "height": 34
+              },
+              {
+                "text": "at",
+                "left": 692,
+                "top": 1390,
+                "width": 34,
+                "height": 26
+              },
+              {
+                "text": "the",
+                "left": 737,
+                "top": 1389,
+                "width": 58,
+                "height": 27
+              },
+              {
+                "text": "end",
+                "left": 807,
+                "top": 1389,
+                "width": 66,
+                "height": 27
+              },
+              {
+                "text": "of",
+                "left": 886,
+                "top": 1389,
+                "width": 35,
+                "height": 27
+              },
+              {
+                "text": "the",
+                "left": 931,
+                "top": 1389,
+                "width": 58,
+                "height": 27
+              },
+              {
+                "text": "year",
+                "left": 1001,
+                "top": 1395,
+                "width": 78,
+                "height": 27
+              },
+              {
+                "text": "311,926.05",
+                "left": 1813,
+                "top": 1390,
+                "width": 166,
+                "height": 29
+              },
+              {
+                "text": "249,947.90",
+                "left": 2096,
+                "top": 1390,
+                "width": 166,
+                "height": 29
+              }
+            ]
+          },
+          {
+            "text": "Cash and cash equivalents include Cash and balances with Reserve Bank of India and Balances with banks and money at call and short notice",
+            "words": [
+              {
+                "text": "Cash",
+                "left": 181,
+                "top": 1463,
+                "width": 74,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 267,
+                "top": 1463,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "cash",
+                "left": 332,
+                "top": 1463,
+                "width": 68,
+                "height": 25
+              },
+              {
+                "text": "equivalents",
+                "left": 412,
+                "top": 1463,
+                "width": 167,
+                "height": 31
+              },
+              {
+                "text": "include",
+                "left": 592,
+                "top": 1463,
+                "width": 104,
+                "height": 25
+              },
+              {
+                "text": "Cash",
+                "left": 707,
+                "top": 1463,
+                "width": 74,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 793,
+                "top": 1463,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "balances",
+                "left": 859,
+                "top": 1463,
+                "width": 132,
+                "height": 25
+              },
+              {
+                "text": "with",
+                "left": 1001,
+                "top": 1463,
+                "width": 59,
+                "height": 24
+              },
+              {
+                "text": "Reserve",
+                "left": 1073,
+                "top": 1463,
+                "width": 118,
+                "height": 25
+              },
+              {
+                "text": "Bank",
+                "left": 1203,
+                "top": 1463,
+                "width": 74,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 1287,
+                "top": 1463,
+                "width": 29,
+                "height": 25
+              },
+              {
+                "text": "India",
+                "left": 1327,
+                "top": 1463,
+                "width": 69,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 1407,
+                "top": 1463,
+                "width": 52,
+                "height": 25
+              },
+              {
+                "text": "Balances",
+                "left": 1473,
+                "top": 1463,
+                "width": 134,
+                "height": 25
+              },
+              {
+                "text": "with",
+                "left": 1617,
+                "top": 1463,
+                "width": 59,
+                "height": 24
+              },
+              {
+                "text": "banks",
+                "left": 1690,
+                "top": 1463,
+                "width": 87,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 1788,
+                "top": 1463,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "money",
+                "left": 1854,
+                "top": 1470,
+                "width": 98,
+                "height": 24
+              },
+              {
+                "text": "at",
+                "left": 1963,
+                "top": 1465,
+                "width": 26,
+                "height": 23
+              },
+              {
+                "text": "call",
+                "left": 2000,
+                "top": 1463,
+                "width": 48,
+                "height": 25
+              },
+              {
+                "text": "and",
+                "left": 2059,
+                "top": 1463,
+                "width": 54,
+                "height": 25
+              },
+              {
+                "text": "short",
+                "left": 2125,
+                "top": 1463,
+                "width": 74,
+                "height": 25
+              },
+              {
+                "text": "notice",
+                "left": 2211,
+                "top": 1463,
+                "width": 89,
+                "height": 25
+              }
+            ]
+          },
+          {
+            "text": "(Refer Schedule 6 and Schedule 7).",
+            "words": [
+              {
+                "text": "(Refer",
+                "left": 181,
+                "top": 1503,
+                "width": 87,
+                "height": 31
+              },
+              {
+                "text": "Schedule",
+                "left": 279,
+                "top": 1503,
+                "width": 137,
+                "height": 25
+              },
+              {
+                "text": "6",
+                "left": 427,
+                "top": 1504,
+                "width": 17,
+                "height": 24
+              },
+              {
+                "text": "and",
+                "left": 455,
+                "top": 1503,
+                "width": 53,
+                "height": 25
+              },
+              {
+                "text": "Schedule",
+                "left": 521,
+                "top": 1503,
+                "width": 138,
+                "height": 25
+              },
+              {
+                "text": "7).",
+                "left": 670,
+                "top": 1503,
+                "width": 33,
+                "height": 31
+              }
+            ]
+          },
+          {
+            "text": "As per our report of even date. For and on behalf of the Board",
+            "words": [
+              {
+                "text": "As",
+                "left": 180,
+                "top": 1728,
+                "width": 33,
+                "height": 21
+              },
+              {
+                "text": "per",
+                "left": 224,
+                "top": 1733,
+                "width": 42,
+                "height": 21
+              },
+              {
+                "text": "our",
+                "left": 275,
+                "top": 1733,
+                "width": 43,
+                "height": 16
+              },
+              {
+                "text": "report",
+                "left": 328,
+                "top": 1729,
+                "width": 79,
+                "height": 25
+              },
+              {
+                "text": "of",
+                "left": 417,
+                "top": 1728,
+                "width": 25,
+                "height": 21
+              },
+              {
+                "text": "even",
+                "left": 451,
+                "top": 1733,
+                "width": 61,
+                "height": 16
+              },
+              {
+                "text": "date.",
+                "left": 522,
+                "top": 1728,
+                "width": 64,
+                "height": 21
+              },
+              {
+                "text": "For",
+                "left": 1208,
+                "top": 1728,
+                "width": 42,
+                "height": 21
+              },
+              {
+                "text": "and",
+                "left": 1259,
+                "top": 1728,
+                "width": 48,
+                "height": 21
+              },
+              {
+                "text": "on",
+                "left": 1317,
+                "top": 1733,
+                "width": 31,
+                "height": 16
+              },
+              {
+                "text": "behalf",
+                "left": 1360,
+                "top": 1727,
+                "width": 81,
+                "height": 22
+              },
+              {
+                "text": "of",
+                "left": 1450,
+                "top": 1728,
+                "width": 25,
+                "height": 21
+              },
+              {
+                "text": "the",
+                "left": 1483,
+                "top": 1728,
+                "width": 42,
+                "height": 21
+              },
+              {
+                "text": "Board",
+                "left": 1535,
+                "top": 1728,
+                "width": 78,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "For Batliboi & Purohit ForBSR&Co. LLP Keki Mistry Sandeep Parekh",
+            "words": [
+              {
+                "text": "For",
+                "left": 181,
+                "top": 1785,
+                "width": 46,
+                "height": 22
+              },
+              {
+                "text": "Batliboi",
+                "left": 237,
+                "top": 1785,
+                "width": 108,
+                "height": 22
+              },
+              {
+                "text": "&",
+                "left": 356,
+                "top": 1785,
+                "width": 19,
+                "height": 22
+              },
+              {
+                "text": "Purohit",
+                "left": 385,
+                "top": 1785,
+                "width": 104,
+                "height": 22
+              },
+              {
+                "text": "ForBSR&Co.",
+                "left": 692,
+                "top": 1785,
+                "width": 214,
+                "height": 22
+              },
+              {
+                "text": "LLP",
+                "left": 917,
+                "top": 1785,
+                "width": 52,
+                "height": 21
+              },
+              {
+                "text": "Keki",
+                "left": 1208,
+                "top": 1785,
+                "width": 60,
+                "height": 22
+              },
+              {
+                "text": "Mistry",
+                "left": 1280,
+                "top": 1785,
+                "width": 90,
+                "height": 27
+              },
+              {
+                "text": "Sandeep",
+                "left": 1736,
+                "top": 1785,
+                "width": 126,
+                "height": 27
+              },
+              {
+                "text": "Parekh",
+                "left": 1873,
+                "top": 1785,
+                "width": 98,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Chartered Accountants Chartered Accountants Interim Part-Time Chairman Independent Director",
+            "words": [
+              {
+                "text": "Chartered",
+                "left": 181,
+                "top": 1827,
+                "width": 132,
+                "height": 21
+              },
+              {
+                "text": "Accountants",
+                "left": 323,
+                "top": 1827,
+                "width": 169,
+                "height": 21
+              },
+              {
+                "text": "Chartered",
+                "left": 691,
+                "top": 1827,
+                "width": 133,
+                "height": 21
+              },
+              {
+                "text": "Accountants",
+                "left": 833,
+                "top": 1827,
+                "width": 170,
+                "height": 21
+              },
+              {
+                "text": "Interim",
+                "left": 1208,
+                "top": 1820,
+                "width": 89,
+                "height": 22
+              },
+              {
+                "text": "Part-Time",
+                "left": 1309,
+                "top": 1820,
+                "width": 128,
+                "height": 22
+              },
+              {
+                "text": "Chairman",
+                "left": 1447,
+                "top": 1820,
+                "width": 127,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 1820,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1916,
+                "top": 1820,
+                "width": 105,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "ICAI Firm No.: ICAI Firm No.: & Non-Executive",
+            "words": [
+              {
+                "text": "ICAI",
+                "left": 182,
+                "top": 1868,
+                "width": 52,
+                "height": 22
+              },
+              {
+                "text": "Firm",
+                "left": 246,
+                "top": 1869,
+                "width": 56,
+                "height": 21
+              },
+              {
+                "text": "No.:",
+                "left": 484,
+                "top": 1869,
+                "width": 50,
+                "height": 21
+              },
+              {
+                "text": "ICAI",
+                "left": 692,
+                "top": 1868,
+                "width": 52,
+                "height": 22
+              },
+              {
+                "text": "Firm",
+                "left": 756,
+                "top": 1869,
+                "width": 56,
+                "height": 21
+              },
+              {
+                "text": "No.:",
+                "left": 995,
+                "top": 1869,
+                "width": 50,
+                "height": 21
+              },
+              {
+                "text": "&",
+                "left": 1207,
+                "top": 1855,
+                "width": 17,
+                "height": 22
+              },
+              {
+                "text": "Non-Executive",
+                "left": 1235,
+                "top": 1855,
+                "width": 195,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Registration Registration",
+            "words": [
+              {
+                "text": "Registration",
+                "left": 313,
+                "top": 1869,
+                "width": 159,
+                "height": 27
+              },
+              {
+                "text": "Registration",
+                "left": 824,
+                "top": 1869,
+                "width": 159,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "(Non-Independent) Director",
+            "words": [
+              {
+                "text": "(Non-Independent)",
+                "left": 1207,
+                "top": 1890,
+                "width": 251,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1470,
+                "top": 1890,
+                "width": 106,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "101048W 101248W/W-100022",
+            "words": [
+              {
+                "text": "101048W",
+                "left": 182,
+                "top": 1910,
+                "width": 121,
+                "height": 22
+              },
+              {
+                "text": "101248W/W-100022",
+                "left": 692,
+                "top": 1910,
+                "width": 266,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "M. D. Ranganath Sunita Maheshwari",
+            "words": [
+              {
+                "text": "M.",
+                "left": 1208,
+                "top": 1963,
+                "width": 32,
+                "height": 22
+              },
+              {
+                "text": "D.",
+                "left": 1252,
+                "top": 1963,
+                "width": 26,
+                "height": 22
+              },
+              {
+                "text": "Ranganath",
+                "left": 1289,
+                "top": 1963,
+                "width": 155,
+                "height": 27
+              },
+              {
+                "text": "Sunita",
+                "left": 1736,
+                "top": 1963,
+                "width": 90,
+                "height": 22
+              },
+              {
+                "text": "Maheshwari",
+                "left": 1838,
+                "top": 1963,
+                "width": 173,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Independent Director Independent Director",
+            "words": [
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 1998,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1387,
+                "top": 1998,
+                "width": 105,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 1998,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1916,
+                "top": 1998,
+                "width": 105,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Janak Mehta Sudhir Soni Lily Vadera Renu Karnad",
+            "words": [
+              {
+                "text": "Janak",
+                "left": 180,
+                "top": 2062,
+                "width": 83,
+                "height": 21
+              },
+              {
+                "text": "Mehta",
+                "left": 273,
+                "top": 2062,
+                "width": 85,
+                "height": 21
+              },
+              {
+                "text": "Sudhir",
+                "left": 691,
+                "top": 2061,
+                "width": 94,
+                "height": 22
+              },
+              {
+                "text": "Soni",
+                "left": 794,
+                "top": 2061,
+                "width": 61,
+                "height": 22
+              },
+              {
+                "text": "Lily",
+                "left": 1208,
+                "top": 2061,
+                "width": 48,
+                "height": 27
+              },
+              {
+                "text": "Vadera",
+                "left": 1264,
+                "top": 2062,
+                "width": 100,
+                "height": 21
+              },
+              {
+                "text": "Renu",
+                "left": 1737,
+                "top": 2062,
+                "width": 72,
+                "height": 21
+              },
+              {
+                "text": "Karnad",
+                "left": 1820,
+                "top": 2062,
+                "width": 102,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Partner Partner Independent Director Non-Executive (Non-",
+            "words": [
+              {
+                "text": "Partner",
+                "left": 182,
+                "top": 2103,
+                "width": 93,
+                "height": 21
+              },
+              {
+                "text": "Partner",
+                "left": 692,
+                "top": 2103,
+                "width": 97,
+                "height": 21
+              },
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2096,
+                "width": 167,
+                "height": 28
+              },
+              {
+                "text": "Director",
+                "left": 1387,
+                "top": 2097,
+                "width": 105,
+                "height": 21
+              },
+              {
+                "text": "Non-Executive",
+                "left": 1737,
+                "top": 2097,
+                "width": 196,
+                "height": 21
+              },
+              {
+                "text": "(Non-",
+                "left": 1951,
+                "top": 2096,
+                "width": 73,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Membership No.: 116976 Membership No.: 041870 Independent Director)",
+            "words": [
+              {
+                "text": "Membership",
+                "left": 182,
+                "top": 2144,
+                "width": 165,
+                "height": 26
+              },
+              {
+                "text": "No.:",
+                "left": 359,
+                "top": 2144,
+                "width": 49,
+                "height": 21
+              },
+              {
+                "text": "116976",
+                "left": 421,
+                "top": 2144,
+                "width": 91,
+                "height": 21
+              },
+              {
+                "text": "Membership",
+                "left": 692,
+                "top": 2144,
+                "width": 166,
+                "height": 26
+              },
+              {
+                "text": "No.:",
+                "left": 869,
+                "top": 2144,
+                "width": 50,
+                "height": 21
+              },
+              {
+                "text": "041870",
+                "left": 931,
+                "top": 2144,
+                "width": 93,
+                "height": 21
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2132,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director)",
+                "left": 1916,
+                "top": 2131,
+                "width": 112,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "Harsh Kumar Bhanwala Santhosh Keshavan",
+            "words": [
+              {
+                "text": "Harsh",
+                "left": 1208,
+                "top": 2201,
+                "width": 83,
+                "height": 22
+              },
+              {
+                "text": "Kumar",
+                "left": 1302,
+                "top": 2201,
+                "width": 94,
+                "height": 22
+              },
+              {
+                "text": "Bhanwala",
+                "left": 1407,
+                "top": 2201,
+                "width": 138,
+                "height": 22
+              },
+              {
+                "text": "Santhosh",
+                "left": 1736,
+                "top": 2201,
+                "width": 135,
+                "height": 22
+              },
+              {
+                "text": "Keshavan",
+                "left": 1883,
+                "top": 2201,
+                "width": 137,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Independent Director Independent Director",
+            "words": [
+              {
+                "text": "Independent",
+                "left": 1208,
+                "top": 2236,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1387,
+                "top": 2236,
+                "width": 105,
+                "height": 22
+              },
+              {
+                "text": "Independent",
+                "left": 1737,
+                "top": 2236,
+                "width": 167,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1916,
+                "top": 2236,
+                "width": 105,
+                "height": 22
+              }
+            ]
+          },
+          {
+            "text": "Sashidhar Jagdishan Kaizad Bharucha",
+            "words": [
+              {
+                "text": "Sashidhar",
+                "left": 1207,
+                "top": 2315,
+                "width": 146,
+                "height": 22
+              },
+              {
+                "text": "Jagdishan",
+                "left": 1361,
+                "top": 2316,
+                "width": 148,
+                "height": 27
+              },
+              {
+                "text": "Kaizad",
+                "left": 1737,
+                "top": 2316,
+                "width": 96,
+                "height": 21
+              },
+              {
+                "text": "Bharucha",
+                "left": 1844,
+                "top": 2316,
+                "width": 137,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Managing Director & Chief Deputy Managing Director",
+            "words": [
+              {
+                "text": "Managing",
+                "left": 1208,
+                "top": 2351,
+                "width": 129,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1349,
+                "top": 2351,
+                "width": 106,
+                "height": 21
+              },
+              {
+                "text": "&",
+                "left": 1464,
+                "top": 2351,
+                "width": 17,
+                "height": 21
+              },
+              {
+                "text": "Chief",
+                "left": 1490,
+                "top": 2351,
+                "width": 70,
+                "height": 21
+              },
+              {
+                "text": "Deputy",
+                "left": 1737,
+                "top": 2351,
+                "width": 95,
+                "height": 27
+              },
+              {
+                "text": "Managing",
+                "left": 1843,
+                "top": 2351,
+                "width": 128,
+                "height": 27
+              },
+              {
+                "text": "Director",
+                "left": 1984,
+                "top": 2351,
+                "width": 105,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Executive Officer",
+            "words": [
+              {
+                "text": "Executive",
+                "left": 1208,
+                "top": 2386,
+                "width": 128,
+                "height": 21
+              },
+              {
+                "text": "Officer",
+                "left": 1345,
+                "top": 2386,
+                "width": 90,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Bhavesh Zaveri V. Srinivasa Rangan",
+            "words": [
+              {
+                "text": "Bhavesh",
+                "left": 1208,
+                "top": 2464,
+                "width": 120,
+                "height": 21
+              },
+              {
+                "text": "Zaveri",
+                "left": 1338,
+                "top": 2464,
+                "width": 88,
+                "height": 21
+              },
+              {
+                "text": "V.",
+                "left": 1735,
+                "top": 2464,
+                "width": 25,
+                "height": 21
+              },
+              {
+                "text": "Srinivasa",
+                "left": 1770,
+                "top": 2463,
+                "width": 131,
+                "height": 22
+              },
+              {
+                "text": "Rangan",
+                "left": 1913,
+                "top": 2464,
+                "width": 108,
+                "height": 26
+              }
+            ]
+          },
+          {
+            "text": "Executive Director Executive Director",
+            "words": [
+              {
+                "text": "Executive",
+                "left": 1208,
+                "top": 2499,
+                "width": 128,
+                "height": 21
+              },
+              {
+                "text": "Director",
+                "left": 1347,
+                "top": 2499,
+                "width": 105,
+                "height": 21
+              },
+              {
+                "text": "Executive",
+                "left": 1737,
+                "top": 2499,
+                "width": 128,
+                "height": 21
+              },
+              {
+                "text": "Director",
+                "left": 1876,
+                "top": 2499,
+                "width": 105,
+                "height": 21
+              }
+            ]
+          },
+          {
+            "text": "Mumbai, April 18, 2026 Srinivasan Vaidyanathan Ajay Agarwal",
+            "words": [
+              {
+                "text": "Mumbai,",
+                "left": 182,
+                "top": 2586,
+                "width": 112,
+                "height": 25
+              },
+              {
+                "text": "April",
+                "left": 305,
+                "top": 2586,
+                "width": 59,
+                "height": 27
+              },
+              {
+                "text": "18,",
+                "left": 377,
+                "top": 2586,
+                "width": 35,
+                "height": 25
+              },
+              {
+                "text": "2026",
+                "left": 423,
+                "top": 2586,
+                "width": 64,
+                "height": 22
+              },
+              {
+                "text": "Srinivasan",
+                "left": 1207,
+                "top": 2586,
+                "width": 149,
+                "height": 22
+              },
+              {
+                "text": "Vaidyanathan",
+                "left": 1366,
+                "top": 2586,
+                "width": 195,
+                "height": 27
+              },
+              {
+                "text": "Ajay",
+                "left": 1735,
+                "top": 2586,
+                "width": 62,
+                "height": 27
+              },
+              {
+                "text": "Agarwal",
+                "left": 1806,
+                "top": 2586,
+                "width": 117,
+                "height": 27
+              }
+            ]
+          },
+          {
+            "text": "Chief Financial Officer Company Secretary",
+            "words": [
+              {
+                "text": "Chief",
+                "left": 1207,
+                "top": 2621,
+                "width": 69,
+                "height": 22
+              },
+              {
+                "text": "Financial",
+                "left": 1286,
+                "top": 2621,
+                "width": 117,
+                "height": 22
+              },
+              {
+                "text": "Officer",
+                "left": 1413,
+                "top": 2621,
+                "width": 91,
+                "height": 22
+              },
+              {
+                "text": "Company",
+                "left": 1736,
+                "top": 2621,
+                "width": 128,
+                "height": 28
+              },
+              {
+                "text": "Secretary",
+                "left": 1874,
+                "top": 2621,
+                "width": 129,
+                "height": 28
+              }
+            ]
+          },
+          {
+            "text": "479",
+            "words": [
+              {
+                "text": "479",
+                "left": 2220,
+                "top": 2919,
+                "width": 80,
+                "height": 36
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "llm_model": "gemini-2.5-flash"
+  }
+}

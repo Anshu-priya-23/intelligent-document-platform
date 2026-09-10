@@ -1,0 +1,299 @@
+{
+  "provenance": "Synthetic calculation demonstration; no OCR or LLM extraction",
+  "document_type": "profit_and_loss",
+  "extracted_data": {
+    "fields": {},
+    "tables": [],
+    "periods": [
+      {
+        "label": "2026",
+        "fields": {
+          "interest_earned": {
+            "value": "100",
+            "source_text": "Synthetic fixture: interest_earned 100",
+            "page_number": 1
+          },
+          "other_income": {
+            "value": "20",
+            "source_text": "Synthetic fixture: other_income 20",
+            "page_number": 1
+          },
+          "total_income": {
+            "value": "120",
+            "source_text": "Synthetic fixture: total_income 120",
+            "page_number": 1
+          },
+          "interest_expended": {
+            "value": "40",
+            "source_text": "Synthetic fixture: interest_expended 40",
+            "page_number": 1
+          },
+          "operating_expenses": {
+            "value": "30",
+            "source_text": "Synthetic fixture: operating_expenses 30",
+            "page_number": 1
+          },
+          "provisions_and_contingencies": {
+            "value": "10",
+            "source_text": "Synthetic fixture: provisions_and_contingencies 10",
+            "page_number": 1
+          },
+          "total_expenditure": {
+            "value": "80",
+            "source_text": "Synthetic fixture: total_expenditure 80",
+            "page_number": 1
+          },
+          "profit_before_minority_interest": {
+            "value": "40",
+            "source_text": "Synthetic fixture: profit_before_minority_interest 40",
+            "page_number": 1
+          },
+          "minority_interest": {
+            "value": "5",
+            "source_text": "Synthetic fixture: minority_interest 5",
+            "page_number": 1
+          },
+          "net_profit_attributable_to_group": {
+            "value": "35",
+            "source_text": "Synthetic fixture: net_profit_attributable_to_group 35",
+            "page_number": 1
+          },
+          "current_profit": {
+            "value": "35",
+            "source_text": "Synthetic fixture: current_profit 35",
+            "page_number": 1
+          },
+          "brought_forward_profit": {
+            "value": "15",
+            "source_text": "Synthetic fixture: brought_forward_profit 15",
+            "page_number": 1
+          },
+          "total_available_for_appropriation": {
+            "value": "50",
+            "source_text": "Synthetic fixture: total_available_for_appropriation 50",
+            "page_number": 1
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      },
+      {
+        "label": "2025",
+        "fields": {
+          "interest_earned": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "other_income": {
+            "value": "20",
+            "source_text": "Synthetic fixture: other_income 20",
+            "page_number": 1
+          },
+          "total_income": {
+            "value": "120",
+            "source_text": "Synthetic fixture: total_income 120",
+            "page_number": 1
+          },
+          "interest_expended": {
+            "value": "40",
+            "source_text": "Synthetic fixture: interest_expended 40",
+            "page_number": 1
+          },
+          "operating_expenses": {
+            "value": "30",
+            "source_text": "Synthetic fixture: operating_expenses 30",
+            "page_number": 1
+          },
+          "provisions_and_contingencies": {
+            "value": "10",
+            "source_text": "Synthetic fixture: provisions_and_contingencies 10",
+            "page_number": 1
+          },
+          "total_expenditure": {
+            "value": "80",
+            "source_text": "Synthetic fixture: total_expenditure 80",
+            "page_number": 1
+          },
+          "profit_before_minority_interest": {
+            "value": "40",
+            "source_text": "Synthetic fixture: profit_before_minority_interest 40",
+            "page_number": 1
+          },
+          "minority_interest": {
+            "value": "5",
+            "source_text": "Synthetic fixture: minority_interest 5",
+            "page_number": 1
+          },
+          "net_profit_attributable_to_group": {
+            "value": "35",
+            "source_text": "Synthetic fixture: net_profit_attributable_to_group 35",
+            "page_number": 1
+          },
+          "current_profit": {
+            "value": "35",
+            "source_text": "Synthetic fixture: current_profit 35",
+            "page_number": 1
+          },
+          "brought_forward_profit": {
+            "value": "15",
+            "source_text": "Synthetic fixture: brought_forward_profit 15",
+            "page_number": 1
+          },
+          "total_available_for_appropriation": {
+            "value": "50",
+            "source_text": "Synthetic fixture: total_available_for_appropriation 50",
+            "page_number": 1
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      }
+    ],
+    "line_items": [],
+    "tax_included": null,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "total_income",
+        "period": "2026",
+        "formula": "interest_earned + other_income = total_income",
+        "operands": {
+          "interest_earned": "100",
+          "other_income": "20"
+        },
+        "calculated_value": "120",
+        "reported_value": "120",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "total_expenditure",
+        "period": "2026",
+        "formula": "interest_expended + operating_expenses + provisions_and_contingencies = total_expenditure",
+        "operands": {
+          "interest_expended": "40",
+          "operating_expenses": "30",
+          "provisions_and_contingencies": "10"
+        },
+        "calculated_value": "80",
+        "reported_value": "80",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "profit_before_minority",
+        "period": "2026",
+        "formula": "total_income - total_expenditure = profit_before_minority_interest",
+        "operands": {
+          "total_income": "120",
+          "total_expenditure": "80"
+        },
+        "calculated_value": "40",
+        "reported_value": "40",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "group_profit",
+        "period": "2026",
+        "formula": "profit_before_minority_interest - minority_interest = net_profit_attributable_to_group",
+        "operands": {
+          "profit_before_minority_interest": "40",
+          "minority_interest": "5"
+        },
+        "calculated_value": "35",
+        "reported_value": "35",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "appropriation",
+        "period": "2026",
+        "formula": "current_profit + brought_forward_profit = total_available_for_appropriation",
+        "operands": {
+          "current_profit": "35",
+          "brought_forward_profit": "15"
+        },
+        "calculated_value": "50",
+        "reported_value": "50",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "total_income",
+        "period": "2025",
+        "formula": "interest_earned + other_income = total_income",
+        "operands": {
+          "interest_earned": null,
+          "other_income": "20"
+        },
+        "calculated_value": null,
+        "reported_value": "120",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "total_expenditure",
+        "period": "2025",
+        "formula": "interest_expended + operating_expenses + provisions_and_contingencies = total_expenditure",
+        "operands": {
+          "interest_expended": "40",
+          "operating_expenses": "30",
+          "provisions_and_contingencies": "10"
+        },
+        "calculated_value": "80",
+        "reported_value": "80",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "profit_before_minority",
+        "period": "2025",
+        "formula": "total_income - total_expenditure = profit_before_minority_interest",
+        "operands": {
+          "total_income": "120",
+          "total_expenditure": "80"
+        },
+        "calculated_value": "40",
+        "reported_value": "40",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "group_profit",
+        "period": "2025",
+        "formula": "profit_before_minority_interest - minority_interest = net_profit_attributable_to_group",
+        "operands": {
+          "profit_before_minority_interest": "40",
+          "minority_interest": "5"
+        },
+        "calculated_value": "35",
+        "reported_value": "35",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "appropriation",
+        "period": "2025",
+        "formula": "current_profit + brought_forward_profit = total_available_for_appropriation",
+        "operands": {
+          "current_profit": "35",
+          "brought_forward_profit": "15"
+        },
+        "calculated_value": "50",
+        "reported_value": "50",
+        "variance": "0",
+        "status": "PASS"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": []
+  }
+}

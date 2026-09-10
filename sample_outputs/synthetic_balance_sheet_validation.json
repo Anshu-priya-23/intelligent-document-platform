@@ -1,0 +1,167 @@
+{
+  "provenance": "Synthetic calculation demonstration; no OCR or LLM extraction",
+  "document_type": "balance_sheet",
+  "extracted_data": {
+    "fields": {},
+    "tables": [],
+    "periods": [
+      {
+        "label": "2026",
+        "fields": {
+          "total_assets": {
+            "value": "100",
+            "source_text": "Synthetic fixture: total_assets 100",
+            "page_number": 1
+          },
+          "total_capital_and_liabilities": {
+            "value": "100",
+            "source_text": "Synthetic fixture: total_capital_and_liabilities 100",
+            "page_number": 1
+          },
+          "total_liabilities": {
+            "value": "60",
+            "source_text": "Synthetic fixture: total_liabilities 60",
+            "page_number": 1
+          },
+          "total_equity": {
+            "value": "40",
+            "source_text": "Synthetic fixture: total_equity 40",
+            "page_number": 1
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      },
+      {
+        "label": "2025",
+        "fields": {
+          "total_assets": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "total_capital_and_liabilities": {
+            "value": "100",
+            "source_text": "Synthetic fixture: total_capital_and_liabilities 100",
+            "page_number": 1
+          },
+          "total_liabilities": {
+            "value": "60",
+            "source_text": "Synthetic fixture: total_liabilities 60",
+            "page_number": 1
+          },
+          "total_equity": {
+            "value": "40",
+            "source_text": "Synthetic fixture: total_equity 40",
+            "page_number": 1
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      }
+    ],
+    "line_items": [],
+    "tax_included": null,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "capital_liabilities_equal_assets",
+        "period": "2026",
+        "formula": "total_capital_and_liabilities = total_assets",
+        "operands": {
+          "total_capital_and_liabilities": "100"
+        },
+        "calculated_value": "100",
+        "reported_value": "100",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "liabilities_plus_equity",
+        "period": "2026",
+        "formula": "total_liabilities + total_equity = total_assets",
+        "operands": {
+          "total_liabilities": "60",
+          "total_equity": "40"
+        },
+        "calculated_value": "100",
+        "reported_value": "100",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "asset_components",
+        "period": "2026",
+        "formula": " = total_assets",
+        "operands": {},
+        "calculated_value": null,
+        "reported_value": "100",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "capital_liability_components",
+        "period": "2026",
+        "formula": " = total_capital_and_liabilities",
+        "operands": {},
+        "calculated_value": null,
+        "reported_value": "100",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "capital_liabilities_equal_assets",
+        "period": "2025",
+        "formula": "total_capital_and_liabilities = total_assets",
+        "operands": {
+          "total_capital_and_liabilities": "100"
+        },
+        "calculated_value": null,
+        "reported_value": null,
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "liabilities_plus_equity",
+        "period": "2025",
+        "formula": "total_liabilities + total_equity = total_assets",
+        "operands": {
+          "total_liabilities": "60",
+          "total_equity": "40"
+        },
+        "calculated_value": null,
+        "reported_value": null,
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "asset_components",
+        "period": "2025",
+        "formula": " = total_assets",
+        "operands": {},
+        "calculated_value": null,
+        "reported_value": null,
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "capital_liability_components",
+        "period": "2025",
+        "formula": " = total_capital_and_liabilities",
+        "operands": {},
+        "calculated_value": null,
+        "reported_value": "100",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": []
+  }
+}

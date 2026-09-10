@@ -1,0 +1,107 @@
+{
+  "provenance": "Synthetic calculation demonstration; no OCR or LLM extraction",
+  "document_type": "invoice",
+  "extracted_data": {
+    "fields": {
+      "subtotal": {
+        "value": "10",
+        "source_text": "Synthetic fixture: subtotal 10",
+        "page_number": 1
+      },
+      "tax_amount": {
+        "value": "1",
+        "source_text": "Synthetic fixture: tax_amount 1",
+        "page_number": 1
+      },
+      "taxable_amount": {
+        "value": "10",
+        "source_text": "Synthetic fixture: taxable_amount 10",
+        "page_number": 1
+      },
+      "discount": {
+        "value": "0",
+        "source_text": "Synthetic fixture: discount 0",
+        "page_number": 1
+      },
+      "total_amount": {
+        "value": "12",
+        "source_text": "Synthetic fixture: total_amount 12",
+        "page_number": 1
+      },
+      "cash_paid": {
+        "value": "20",
+        "source_text": "Synthetic fixture: cash_paid 20",
+        "page_number": 1
+      },
+      "change": {
+        "value": "8",
+        "source_text": "Synthetic fixture: change 8",
+        "page_number": 1
+      }
+    },
+    "tables": [],
+    "periods": [],
+    "line_items": [],
+    "tax_included": false,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "line_sum",
+        "period": "invoice",
+        "formula": " = subtotal",
+        "operands": {},
+        "calculated_value": null,
+        "reported_value": "10",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "taxable_plus_tax",
+        "period": "invoice",
+        "formula": "taxable_amount + tax_amount = total_amount",
+        "operands": {
+          "taxable_amount": "10",
+          "tax_amount": "1"
+        },
+        "calculated_value": "11",
+        "reported_value": "12",
+        "variance": "-1",
+        "status": "FAIL"
+      },
+      {
+        "name": "invoice_total",
+        "period": "invoice",
+        "formula": "subtotal + tax_amount - discount = total_amount",
+        "operands": {
+          "subtotal": "10",
+          "tax_amount": "1",
+          "discount": "0"
+        },
+        "calculated_value": "11",
+        "reported_value": "12",
+        "variance": "-1",
+        "status": "FAIL"
+      },
+      {
+        "name": "cash_change",
+        "period": "invoice",
+        "formula": "cash_paid - total_amount = change",
+        "operands": {
+          "cash_paid": "20",
+          "total_amount": "12"
+        },
+        "calculated_value": "8",
+        "reported_value": "8",
+        "variance": "0",
+        "status": "PASS"
+      }
+    ],
+    "overall_status": "FAIL",
+    "issues": [
+      "Financial mismatch: taxable_plus_tax (invoice)",
+      "Financial mismatch: invoice_total (invoice)"
+    ]
+  }
+}

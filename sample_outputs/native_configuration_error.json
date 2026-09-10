@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "LLM_NOT_CONFIGURED",
+    "message": "Set LLM_API_KEY, LLM_BASE_URL and LLM_MODEL to enable extraction."
+  }
+}

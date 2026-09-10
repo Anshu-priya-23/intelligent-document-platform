@@ -216,3 +216,35 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local processing and verification artifacts
+.venv/
+.env
+.env.*
+!.env.example
+data/
+.local/
+uploads/
+*.db
+*.db-*
+*.sqlite*
+*.log
+__pycache__/
+.pytest_cache/
+New Dataset*/
+*.zip
+pytest-cache-files-*/
+
+# Temporary working files and locally copied input documents
+tmp/
+temp/
+dataset/
+datasets/
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+*.swo
+.env*
+!.env.example

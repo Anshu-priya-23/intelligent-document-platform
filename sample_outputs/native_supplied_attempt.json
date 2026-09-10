@@ -1,0 +1,10 @@
+{
+  "source": "New Dataset/Cash Flows/Consolidated Cash Flow Statement 2022.pdf",
+  "http_status": 503,
+  "response": {
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  }
+}

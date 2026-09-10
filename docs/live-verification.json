@@ -1,0 +1,86 @@
+[
+  {
+    "route": "/",
+    "http_status": 200
+  },
+  {
+    "route": "/document",
+    "http_status": 200
+  },
+  {
+    "route": "/docs",
+    "http_status": 200
+  },
+  {
+    "route": "/openapi.json",
+    "http_status": 200
+  },
+  {
+    "route": "/static/js/app.js",
+    "http_status": 200
+  },
+  {
+    "route": "/static/css/app.css",
+    "http_status": 200
+  },
+  {
+    "route": "/api/v1/health",
+    "http_status": 200
+  },
+  {
+    "route": "/api/v1/documents",
+    "http_status": 200
+  },
+  {
+    "route": "/api/v1/documents/not-found.pdf",
+    "http_status": 404
+  },
+  {
+    "document": "20251118_000612.jpg",
+    "type": "invoice",
+    "http_status": 503,
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  },
+  {
+    "document": "Consolidated Balance Sheet 2017.pdf",
+    "type": "balance_sheet",
+    "http_status": 503,
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  },
+  {
+    "document": "Consolidated Profit & Loss 2017.pdf",
+    "type": "profit_and_loss",
+    "http_status": 503,
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  },
+  {
+    "document": "Consolidated Cash Flow Statement 2017.pdf",
+    "type": "cash_flow_statement",
+    "http_status": 503,
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  },
+  {
+    "document": "New Dataset/Cash Flows/Consolidated Cash Flow Statement 2022.pdf",
+    "http_status": 503,
+    "error": {
+      "code": "OCR_UNAVAILABLE",
+      "message": "Tesseract is not installed or TESSERACT_CMD is incorrect."
+    }
+  },
+  {
+    "scenario": "unsupported_file",
+    "http_status": 415
+  }
+]

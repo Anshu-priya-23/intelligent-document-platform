@@ -1,0 +1,175 @@
+{
+  "provenance": "Synthetic calculation demonstration; no OCR or LLM extraction",
+  "document_type": "cash_flow_statement",
+  "extracted_data": {
+    "fields": {},
+    "tables": [],
+    "periods": [
+      {
+        "label": "2026",
+        "fields": {
+          "operating_cash_flow": {
+            "value": "100",
+            "source_text": "Synthetic fixture: operating_cash_flow 100",
+            "page_number": 1
+          },
+          "investing_cash_flow": {
+            "value": "(30)",
+            "source_text": "Synthetic fixture: investing_cash_flow (30)",
+            "page_number": 1
+          },
+          "financing_cash_flow": {
+            "value": "[20]",
+            "source_text": "Synthetic fixture: financing_cash_flow [20]",
+            "page_number": 1
+          },
+          "fx_adjustment": {
+            "value": "2",
+            "source_text": "Synthetic fixture: fx_adjustment 2",
+            "page_number": 1
+          },
+          "net_change_in_cash": {
+            "value": "52",
+            "source_text": "Synthetic fixture: net_change_in_cash 52",
+            "page_number": 1
+          },
+          "opening_cash": {
+            "value": "10",
+            "source_text": "Synthetic fixture: opening_cash 10",
+            "page_number": 1
+          },
+          "cash_acquired_or_other_adjustments": {
+            "value": "3",
+            "source_text": "Synthetic fixture: cash_acquired_or_other_adjustments 3",
+            "page_number": 1
+          },
+          "closing_cash": {
+            "value": "65",
+            "source_text": "Synthetic fixture: closing_cash 65",
+            "page_number": 1
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      },
+      {
+        "label": "2025",
+        "fields": {
+          "operating_cash_flow": {
+            "value": null,
+            "source_text": null,
+            "page_number": null
+          },
+          "investing_cash_flow": {
+            "value": "(30)",
+            "source_text": "Synthetic fixture: investing_cash_flow (30)",
+            "page_number": 1
+          },
+          "financing_cash_flow": {
+            "value": "[20]",
+            "source_text": "Synthetic fixture: financing_cash_flow [20]",
+            "page_number": 1
+          },
+          "fx_adjustment": {
+            "value": "2",
+            "source_text": "Synthetic fixture: fx_adjustment 2",
+            "page_number": 1
+          },
+          "net_change_in_cash": {
+            "value": "52",
+            "source_text": "Synthetic fixture: net_change_in_cash 52",
+            "page_number": 1
+          },
+          "opening_cash": {
+            "value": "10",
+            "source_text": "Synthetic fixture: opening_cash 10",
+            "page_number": 1
+          },
+          "cash_acquired_or_other_adjustments": {
+            "value": "3",
+            "source_text": "Synthetic fixture: cash_acquired_or_other_adjustments 3",
+            "page_number": 1
+          },
+          "closing_cash": {
+            "value": "65",
+            "source_text": "Synthetic fixture: closing_cash 65",
+            "page_number": 1
+          }
+        },
+        "asset_components": [],
+        "liability_components": [],
+        "asset_components_complete": false,
+        "liability_components_complete": false
+      }
+    ],
+    "line_items": [],
+    "tax_included": null,
+    "issues": []
+  },
+  "validation": {
+    "checks": [
+      {
+        "name": "net_cash_change",
+        "period": "2026",
+        "formula": "operating_cash_flow + investing_cash_flow + financing_cash_flow + fx_adjustment = net_change_in_cash",
+        "operands": {
+          "operating_cash_flow": "100",
+          "investing_cash_flow": "-30",
+          "financing_cash_flow": "-20",
+          "fx_adjustment": "2"
+        },
+        "calculated_value": "52",
+        "reported_value": "52",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "closing_cash",
+        "period": "2026",
+        "formula": "opening_cash + net_change_in_cash + cash_acquired_or_other_adjustments = closing_cash",
+        "operands": {
+          "opening_cash": "10",
+          "net_change_in_cash": "52",
+          "cash_acquired_or_other_adjustments": "3"
+        },
+        "calculated_value": "65",
+        "reported_value": "65",
+        "variance": "0",
+        "status": "PASS"
+      },
+      {
+        "name": "net_cash_change",
+        "period": "2025",
+        "formula": "operating_cash_flow + investing_cash_flow + financing_cash_flow + fx_adjustment = net_change_in_cash",
+        "operands": {
+          "operating_cash_flow": null,
+          "investing_cash_flow": "-30",
+          "financing_cash_flow": "-20",
+          "fx_adjustment": "2"
+        },
+        "calculated_value": null,
+        "reported_value": "52",
+        "variance": null,
+        "status": "NOT_APPLICABLE"
+      },
+      {
+        "name": "closing_cash",
+        "period": "2025",
+        "formula": "opening_cash + net_change_in_cash + cash_acquired_or_other_adjustments = closing_cash",
+        "operands": {
+          "opening_cash": "10",
+          "net_change_in_cash": "52",
+          "cash_acquired_or_other_adjustments": "3"
+        },
+        "calculated_value": "65",
+        "reported_value": "65",
+        "variance": "0",
+        "status": "PASS"
+      }
+    ],
+    "overall_status": "PASS",
+    "issues": []
+  }
+}
