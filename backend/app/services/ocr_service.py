@@ -21,6 +21,9 @@ def ocr_image(image):
         with tempfile.TemporaryDirectory() as folder:
             path = Path(folder) / "page.png"
             oriented = ImageOps.exif_transpose(image).convert("RGB")
+
+            # Resize large images so OCR does not time out on Render free instances.
+            oriented.thumbnail((2500, 2500), Image.Resampling.LANCZOS)
             oriented.save(path)
             # Orientation detection can fail on sparse receipts; keep original then.
             osd = subprocess.run([settings.tesseract_cmd, str(path), "stdout", "--psm", "0"], capture_output=True, timeout=20, creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
