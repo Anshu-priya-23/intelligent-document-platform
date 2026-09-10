@@ -18,4 +18,4 @@ ENV TESSERACT_CMD=/usr/bin/tesseract
 ENV OCR_LANGUAGE=eng
 ENV PYTHONUNBUFFERED=1
 
-CMD ["sh", "-c", "uvicorn app.main:app --app-dir backend --host 0.0.0.0 --port ${PORT:-10000}"]
+CMD ["sh", "-c", "uvicorn backend.app.main:app --host 0.0.0.0 --port ${PORT:-10000}"]
