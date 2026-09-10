@@ -166,7 +166,6 @@ Add authentication and document authorization, request limits/rate limiting, ret
 
 ## AI/tool usage declaration
 
-OpenAI Codex was used for scaffolding, implementation assistance, debugging and documentation. Candidate review and testing are pending personal sign-off before submission.
-
+OpenAI Codex was used for scaffolding, implementation assistance and debugging. The candidate reviewed, tested and verified the submitted solution.
 
 Latest cash-flow verification: [2026 source audit](docs/cash-flow-2026-audit.md). OCR now preserves spatial rows and column coordinates for cash-flow period grounding. The audit documents exact values, the verified mapping correction, evidence aliases, and the remaining OCR limitation.
