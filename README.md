@@ -1,5 +1,10 @@
 # Document Intelligence Platform
 
+
+A FastAPI application that validates financial uploads, extracts native text or runs Tesseract OCR, requests grounded structured data from a configurable LLM, checks financial equations, and stores the latest result by filename. HTML/CSS/vanilla JavaScript provides upload, search, a database-backed dashboard and result details.
+
+**Pre-push status:** local OCR/Gemini processing and browser verification completed. Actual stored results for all four document types are included in `sample_outputs/*_stored_result.json`. Completeness is not certified: supplied statement results omit tables and a documented cash-flow OCR error remains. See [final audit](docs/pre-push-audit.md) for submission blockers. No push or deployment has been performed.
+
 Frontend:
 https://intelligent-document-platform-docker.onrender.com/
 
@@ -15,10 +20,6 @@ https://intelligent-document-platform-docker.onrender.com/api/v1/health
 GitHub:
 https://github.com/Anshu-priya-23/intelligent-document-platform
 
-
-A FastAPI application that validates financial uploads, extracts native text or runs Tesseract OCR, requests grounded structured data from a configurable LLM, checks financial equations, and stores the latest result by filename. HTML/CSS/vanilla JavaScript provides upload, search, a database-backed dashboard and result details.
-
-**Pre-push status:** local OCR/Gemini processing and browser verification completed. Actual stored results for all four document types are included in `sample_outputs/*_stored_result.json`. Completeness is not certified: supplied statement results omit tables and a documented cash-flow OCR error remains. See [final audit](docs/pre-push-audit.md) for submission blockers. No push or deployment has been performed.
 
 ## Architecture and repository
 
